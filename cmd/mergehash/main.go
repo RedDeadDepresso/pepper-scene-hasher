@@ -1,4 +1,4 @@
-// mergehash merges the per-folder JSON files produced by pnghash into a single
+// mergehash merges the per-folder JSON files (found recursively) produced by pnghash into a single
 // JSON file mapping xxhash -> name of the JSON file (without ".json").
 //
 // With -names, a JSON file mapping that name -> string is used to replace the
@@ -12,9 +12,9 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io/fs"
 	"os"
 	"path/filepath"
-	"sort"
 	"strings"
 )
 
@@ -37,7 +37,7 @@ func same(a, b string) bool {
 }
 
 func main() {
-	input := flag.String("input", "", "folder containing the JSON files to merge (required)")
+	input := flag.String("input", "", "folder containing the JSON files to merge, searched recursively (required)")
 	output := flag.String("output", "merged.json", "path of the merged JSON file")
 	namesPath := flag.String("names", "", "optional JSON file mapping json file name (no .json) -> value")
 	flag.Parse()
@@ -56,29 +56,35 @@ func main() {
 		}
 	}
 
-	dirEntries, err := os.ReadDir(*input)
+	var paths []string
+	err := filepath.WalkDir(*input, func(p string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if d.IsDir() || !strings.EqualFold(filepath.Ext(d.Name()), ".json") {
+			return nil
+		}
+		// Don't merge our own output or the names file if they live in the input folder.
+		if same(p, *output) || (*namesPath != "" && same(p, *namesPath)) {
+			return nil
+		}
+		paths = append(paths, p) // WalkDir visits in lexical order
+		return nil
+	})
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "error: cannot read input folder:", err)
 		os.Exit(1)
 	}
-	sort.Slice(dirEntries, func(i, j int) bool { return dirEntries[i].Name() < dirEntries[j].Name() })
 
 	merged := map[string]string{}
 	owner := map[string]string{} // hash -> file name that claimed it first
 	files := 0
-	for _, de := range dirEntries {
-		if de.IsDir() || !strings.EqualFold(filepath.Ext(de.Name()), ".json") {
-			continue
-		}
-		full := filepath.Join(*input, de.Name())
-		// Don't merge our own output or the names file if they live in the input folder.
-		if same(full, *output) || (*namesPath != "" && same(full, *namesPath)) {
-			continue
-		}
-		name := strings.TrimSuffix(de.Name(), filepath.Ext(de.Name()))
+	for _, full := range paths {
+		base := filepath.Base(full)
+		name := strings.TrimSuffix(base, filepath.Ext(base))
 		var data map[string]entry
 		if err := readJSON(full, &data); err != nil {
-			fmt.Fprintf(os.Stderr, "error: %s: %v\n", de.Name(), err)
+			fmt.Fprintf(os.Stderr, "error: %s: %v\n", full, err)
 			os.Exit(1)
 		}
 		value := name

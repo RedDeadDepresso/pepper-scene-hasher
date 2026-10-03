@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "data/*.json"
+      - "data/**/*.json"
       - "config/names.json"
       - "cmd/mergehash/**"
   workflow_dispatch:
