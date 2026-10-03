@@ -2,7 +2,8 @@
 // JSON file mapping xxhash -> name of the JSON file (without ".json").
 //
 // With -names, a JSON file mapping that name -> string is used to replace the
-// value. Names missing from it fall back to the plain file name.
+// value. Names missing from it, or mapped to an empty string, fall back to the
+// plain file name.
 //
 // If the same hash appears in several files, the first file in sorted name
 // order wins and a warning is printed.
@@ -88,7 +89,7 @@ func main() {
 			os.Exit(1)
 		}
 		value := name
-		if v, ok := names[name]; ok {
+		if v, ok := names[name]; ok && v != "" {
 			value = v
 		}
 		files++

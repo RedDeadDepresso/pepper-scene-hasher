@@ -275,7 +275,7 @@ func main() {
 }
 
 // updateNames adds every JSON file name (without ".json") found in outputDir
-// to the names file, using the name itself as the value. Existing keys and
+// to the names file with an empty value. Existing keys and
 // their values are never changed.
 func updateNames(outputDir, namesPath string) error {
 	names := map[string]string{}
@@ -303,7 +303,7 @@ func updateNames(outputDir, namesPath string) error {
 		}
 		name := strings.TrimSuffix(d.Name(), filepath.Ext(d.Name()))
 		if _, ok := names[name]; !ok {
-			names[name] = name
+			names[name] = ""
 			added++
 		}
 		return nil
