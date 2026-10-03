@@ -216,6 +216,8 @@ func main() {
 	}
 	input := flag.String("input", "", "folder whose top-level subfolders are scanned (required)")
 	output := flag.String("output", "", "folder where the <subfolder>.json files are written (default: <program folder>/data/<input folder name>)")
+	namesPath := flag.String("names", filepath.Join(progDir, "config", "names.json"),
+		"names JSON file (json file name without .json -> value); missing names are added to it")
 	workers := flag.Int("workers", min(32, runtime.NumCPU()*2), "number of parallel hashing workers")
 	flag.Parse()
 
@@ -264,5 +266,73 @@ func main() {
 			exit = 1
 		}
 	}
+
+	if err := updateNames(*output, *namesPath); err != nil {
+		fmt.Fprintf(os.Stderr, "error updating names file: %v\n", err)
+		exit = 1
+	}
 	os.Exit(exit)
+}
+
+// updateNames adds every JSON file name (without ".json") found in outputDir
+// to the names file, using the name itself as the value. Existing keys and
+// their values are never changed.
+func updateNames(outputDir, namesPath string) error {
+	names := map[string]string{}
+	b, err := os.ReadFile(namesPath)
+	switch {
+	case err == nil:
+		if err := json.Unmarshal(b, &names); err != nil {
+			// Don't risk overwriting a file we couldn't understand.
+			return fmt.Errorf("cannot parse %s: %w", namesPath, err)
+		}
+	case !os.IsNotExist(err):
+		return err
+	}
+
+	added := 0
+	err = filepath.WalkDir(outputDir, func(p string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if d.IsDir() || !strings.EqualFold(filepath.Ext(d.Name()), ".json") {
+			return nil
+		}
+		if isSamePath(p, namesPath) {
+			return nil
+		}
+		name := strings.TrimSuffix(d.Name(), filepath.Ext(d.Name()))
+		if _, ok := names[name]; !ok {
+			names[name] = name
+			added++
+		}
+		return nil
+	})
+	if err != nil {
+		return err
+	}
+
+	if added == 0 {
+		if _, statErr := os.Stat(namesPath); statErr == nil {
+			fmt.Printf("Names file %s is up to date\n", namesPath)
+			return nil
+		}
+		if len(names) == 0 {
+			return nil // nothing to write and no file to create
+		}
+	}
+	if err := os.MkdirAll(filepath.Dir(namesPath), 0o755); err != nil {
+		return err
+	}
+	if err := saveJSON(namesPath, names); err != nil {
+		return err
+	}
+	fmt.Printf("Names file %s: added %d name(s)\n", namesPath, added)
+	return nil
+}
+
+func isSamePath(a, b string) bool {
+	aa, err1 := filepath.Abs(a)
+	bb, err2 := filepath.Abs(b)
+	return err1 == nil && err2 == nil && aa == bb
 }
