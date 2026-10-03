@@ -90,11 +90,15 @@ func loadCache(path string) map[string]Entry {
 // saveJSON writes atomically (temp file + rename) so an interruption can't
 // leave a corrupt cache behind.
 func saveJSON(path string, v any) error {
-	b, err := json.MarshalIndent(v, "", "  ") // map keys are sorted -> stable output
-	if err != nil {
+	// Map keys are sorted -> stable output. HTML escaping is off so "&" stays "&".
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)
+	enc.SetIndent("", "  ")
+	if err := enc.Encode(v); err != nil { // Encode appends a trailing newline
 		return err
 	}
-	b = append(b, '\n')
+	b := buf.Bytes()
 	tmp, err := os.CreateTemp(filepath.Dir(path), filepath.Base(path)+".*.tmp")
 	if err != nil {
 		return err

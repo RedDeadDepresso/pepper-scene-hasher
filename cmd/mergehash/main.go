@@ -10,6 +10,7 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"flag"
 	"fmt"
@@ -108,18 +109,21 @@ func main() {
 		}
 	}
 
-	b, err := json.Marshal(merged)
-	if err != nil {
+	var buf bytes.Buffer
+	enc := json.NewEncoder(&buf)
+	enc.SetEscapeHTML(false)                   // keep "&" as "&" instead of \u0026
+	if err := enc.Encode(merged); err != nil { // compact; Encode appends a newline
 		fmt.Fprintln(os.Stderr, "error:", err)
 		os.Exit(1)
 	}
+	b := buf.Bytes()
 	if dir := filepath.Dir(*output); dir != "." {
 		if err := os.MkdirAll(dir, 0o755); err != nil {
 			fmt.Fprintln(os.Stderr, "error:", err)
 			os.Exit(1)
 		}
 	}
-	if err := os.WriteFile(*output, append(b, '\n'), 0o644); err != nil {
+	if err := os.WriteFile(*output, b, 0o644); err != nil {
 		fmt.Fprintln(os.Stderr, "error:", err)
 		os.Exit(1)
 	}
