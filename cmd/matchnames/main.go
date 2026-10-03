@@ -6,8 +6,10 @@
 // several names) and every part is compared with each author's "name" and
 // "alias" entries. A long number in the key (such as a pixiv user id) that
 // appears in an author's links also counts as a match. If exactly one author
-// reaches -threshold, the author's canonical "name" is written as the value;
-// if several different authors match, the key is left empty for you to decide.
+// reaches -threshold, that author is written as the value, using the English
+// (ASCII-letter) version of the name when there is one: the canonical name if it
+// is English, else the alias that matched, else the first English alias. If
+// several different authors match, the key is left empty for you to decide.
 // Values that are already non-empty are never changed.
 package main
 
@@ -81,6 +83,43 @@ func similarity(a, b []rune) float64 {
 		score = max(score, 0.7+0.3*float64(shorter)/float64(longer))
 	}
 	return score
+}
+
+// isEnglish reports whether s contains at least one ASCII letter or digit and
+// no letters outside ASCII (so "Kirikumori" and "Dr.Charlie" qualify, while
+// "きりくもり / 霧久", "白5B" and "ᴺᵃᶤᵐᵘ-Micco" do not).
+func isEnglish(s string) bool {
+	ascii := false
+	for _, r := range s {
+		switch {
+		case r < 128 && (unicode.IsLetter(r) || unicode.IsDigit(r)):
+			ascii = true
+		case r >= 128 && unicode.IsLetter(r):
+			return false
+		}
+	}
+	return ascii
+}
+
+// englishName picks the value to save for a matched author. It returns the
+// chosen name and whether it is an English one. Preference order: the canonical
+// name, the alias that matched, then the first English alias. If the author has
+// no English name at all, the canonical name is returned with ok=false.
+func englishName(a author, via string) (name string, ok bool) {
+	if isEnglish(a.Name) {
+		return a.Name, true
+	}
+	for _, al := range a.Alias {
+		if al == via && isEnglish(al) {
+			return strings.TrimSpace(al), true
+		}
+	}
+	for _, al := range a.Alias {
+		if isEnglish(al) {
+			return strings.TrimSpace(al), true
+		}
+	}
+	return a.Name, false
 }
 
 func loadAuthors(path string) ([]author, error) {
@@ -221,17 +260,12 @@ func main() {
 	if exe, err := os.Executable(); err == nil {
 		progDir = filepath.Dir(exe)
 	}
-	authorsPath := flag.String("authors", "", "authors JSON file (required)")
+	authorsPath := flag.String("authors", filepath.Join(progDir, "config", "authors.json"), "authors JSON file")
 	namesPath := flag.String("names", filepath.Join(progDir, "config", "names.json"), "names JSON file to fill in")
 	threshold := flag.Float64("threshold", 0.8, "minimum similarity (0-1) required to assign a match")
 	dryRun := flag.Bool("dry-run", false, "print the matches but don't modify the names file")
 	flag.Parse()
 
-	if *authorsPath == "" {
-		fmt.Fprintln(os.Stderr, "error: -authors is required")
-		flag.Usage()
-		os.Exit(2)
-	}
 	authors, err := loadAuthors(*authorsPath)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "error: authors:", err)
@@ -256,6 +290,11 @@ func main() {
 		}
 	}
 
+	byName := map[string]author{}
+	for _, a := range authors {
+		byName[a.Name] = a
+	}
+
 	keys := make([]string, 0, len(names))
 	for k, v := range names {
 		if v == "" {
@@ -276,9 +315,17 @@ func main() {
 		switch {
 		case len(hits) == 1:
 			c := hits[0]
-			names[k] = c.author
+			value, english := englishName(byName[c.author], c.via)
+			names[k] = value
 			assigned++
-			fmt.Printf("OK   %-34s -> %q  [%.2f]%s\n", k, c.author, c.score, via(c))
+			note := ""
+			switch {
+			case !english:
+				note = fmt.Sprintf(" (no English name; author %q)", c.author)
+			case value != c.author:
+				note = fmt.Sprintf(" (author %q)", c.author)
+			}
+			fmt.Printf("OK   %-34s -> %q  [%.2f]%s\n", k, value, c.score, note)
 		case len(hits) > 1:
 			unmatched++
 			var list []string
