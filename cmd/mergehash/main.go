@@ -101,7 +101,7 @@ func main() {
 		}
 	}
 
-	b, err := json.MarshalIndent(merged, "", "  ")
+	b, err := json.Marshal(merged)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "error:", err)
 		os.Exit(1)
