@@ -214,10 +214,8 @@ func main() {
 	if err == nil {
 		progDir = filepath.Dir(exe)
 	}
-	defaultOut := filepath.Join(progDir, "data")
-
 	input := flag.String("input", "", "folder whose top-level subfolders are scanned (required)")
-	output := flag.String("output", defaultOut, "folder where the <subfolder>.json files are written")
+	output := flag.String("output", "", "folder where the <subfolder>.json files are written (default: <program folder>/data/<input folder name>)")
 	workers := flag.Int("workers", min(32, runtime.NumCPU()*2), "number of parallel hashing workers")
 	flag.Parse()
 
@@ -226,6 +224,18 @@ func main() {
 		flag.Usage()
 		os.Exit(2)
 	}
+	if *output == "" {
+		abs, err := filepath.Abs(*input)
+		if err != nil {
+			abs = *input
+		}
+		name := filepath.Base(abs)
+		if name == "." || name == string(filepath.Separator) {
+			name = "root"
+		}
+		*output = filepath.Join(progDir, "data", name)
+	}
+
 	if err := os.MkdirAll(*output, 0o755); err != nil {
 		fmt.Fprintln(os.Stderr, "cannot create output folder:", err)
 		os.Exit(1)
