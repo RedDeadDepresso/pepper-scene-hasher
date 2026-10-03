@@ -222,6 +222,9 @@ func main() {
 	output := flag.String("output", "", "folder where the <subfolder>.json files are written (default: <program folder>/data/<input folder name>)")
 	namesPath := flag.String("names", filepath.Join(progDir, "config", "names.json"),
 		"names JSON file (json file name without .json -> value); missing names are added to it")
+	authorsPath := flag.String("authors", filepath.Join(progDir, "config", "authors.json"),
+		"authors JSON file used to fill empty values in the names file (skipped if it doesn't exist)")
+	threshold := flag.Float64("threshold", 0.8, "minimum similarity (0-1) required to assign an author match")
 	workers := flag.Int("workers", min(32, runtime.NumCPU()*2), "number of parallel hashing workers")
 	flag.Parse()
 
@@ -271,7 +274,7 @@ func main() {
 		}
 	}
 
-	if err := updateNames(*output, *namesPath); err != nil {
+	if err := updateNames(*output, *namesPath, *authorsPath, *threshold); err != nil {
 		fmt.Fprintf(os.Stderr, "error updating names file: %v\n", err)
 		exit = 1
 	}
@@ -279,9 +282,10 @@ func main() {
 }
 
 // updateNames adds every JSON file name (without ".json") found in outputDir
-// to the names file with an empty value. Existing keys and
-// their values are never changed.
-func updateNames(outputDir, namesPath string) error {
+// to the names file with an empty value, then fills empty values with the
+// closest author from the authors file (if it exists). Existing non-empty
+// values are never changed.
+func updateNames(outputDir, namesPath, authorsPath string, threshold float64) error {
 	names := map[string]string{}
 	b, err := os.ReadFile(namesPath)
 	switch {
@@ -316,7 +320,21 @@ func updateNames(outputDir, namesPath string) error {
 		return err
 	}
 
-	if added == 0 {
+	// Match empty names against the authors file. A missing authors file just
+	// skips this step; an unreadable one is reported but doesn't stop the update.
+	filled := 0
+	if _, statErr := os.Stat(authorsPath); statErr == nil {
+		if m, err := newMatcher(authorsPath, threshold); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: skipping author matching: %s: %v\n", authorsPath, err)
+		} else {
+			fmt.Printf("Matching names with %s\n", authorsPath)
+			filled = m.fill(names)
+		}
+	} else {
+		fmt.Printf("Authors file %s not found; skipping author matching\n", authorsPath)
+	}
+
+	if added == 0 && filled == 0 {
 		if _, statErr := os.Stat(namesPath); statErr == nil {
 			fmt.Printf("Names file %s is up to date\n", namesPath)
 			return nil
@@ -331,7 +349,7 @@ func updateNames(outputDir, namesPath string) error {
 	if err := saveJSON(namesPath, names); err != nil {
 		return err
 	}
-	fmt.Printf("Names file %s: added %d name(s)\n", namesPath, added)
+	fmt.Printf("Names file %s: added %d name(s), matched %d author(s)\n", namesPath, added, filled)
 	return nil
 }
 
