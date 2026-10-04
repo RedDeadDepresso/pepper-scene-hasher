@@ -1,0 +1,3942 @@
+{
+  "Professor Cow ~ Vanser/2021/2021_1101_2231_21_243.png": {
+    "xxh": "1bcaaab06dac0426df277ffab639f4f0",
+    "mtime": 1635831084000000000,
+    "size": 18571137
+  },
+  "Professor Cow ~ Vanser/2021/2021_1102_1710_52_569.png": {
+    "xxh": "0a99002d587da17b844d7fadd51c8f58",
+    "mtime": 1635898254000000000,
+    "size": 7711600
+  },
+  "Professor Cow ~ Vanser/2021/2021_1123_1229_09_291.png": {
+    "xxh": "5376af14c219b94295a9810c21393090",
+    "mtime": 1672498800000000000,
+    "size": 4832175
+  },
+  "Professor Cow ~ Vanser/2021/2021_1125_2045_43_271.png": {
+    "xxh": "332b633194c41b53f87a89b129ae5e19",
+    "mtime": 1689488056751316400,
+    "size": 5646239
+  },
+  "Professor Cow ~ Vanser/2021/2021_1126_0140_14_332.png": {
+    "xxh": "9b38550781fad0a063aea46e3e330540",
+    "mtime": 1672498801000000000,
+    "size": 5646368
+  },
+  "Professor Cow ~ Vanser/2021/2021_1128_1926_46_968.png": {
+    "xxh": "adc69c19bb463846c2d0029a856117ae",
+    "mtime": 1672498802000000000,
+    "size": 8797290
+  },
+  "Professor Cow ~ Vanser/2021/2021_1129_1747_17_744.png": {
+    "xxh": "72f8de0138a824900c94abdc962be89a",
+    "mtime": 1689488052938521300,
+    "size": 21642379
+  },
+  "Professor Cow ~ Vanser/2021/2021_1129_2021_16_641.png": {
+    "xxh": "54a402e613d0db7b93434ad2ffb74ce7",
+    "mtime": 1672498803000000000,
+    "size": 22052787
+  },
+  "Professor Cow ~ Vanser/2021/2021_1130_1903_26_828.png": {
+    "xxh": "0e0fdae5dec6d88ea1e6d6519419578c",
+    "mtime": 1689487989652744500,
+    "size": 9160580
+  },
+  "Professor Cow ~ Vanser/2021/2021_1130_2021_11_280.png": {
+    "xxh": "6c06ecf3dca92f443513ad53747eb3f0",
+    "mtime": 1672498805000000000,
+    "size": 9159767
+  },
+  "Professor Cow ~ Vanser/2021/2021_1202_0052_19_206.png": {
+    "xxh": "8b31e90e40d86d64c330414cb0eda296",
+    "mtime": 1672498806000000000,
+    "size": 58017149
+  },
+  "Professor Cow ~ Vanser/2021/2021_1203_2037_59_490.png": {
+    "xxh": "7b53898bf2c0e3a6f07a23cf8abe9ddf",
+    "mtime": 1672498807000000000,
+    "size": 24135675
+  },
+  "Professor Cow ~ Vanser/2021/2021_1204_0211_10_479.png": {
+    "xxh": "e97918c6b42ddc580a27c8a78ca4557d",
+    "mtime": 1638612672000000000,
+    "size": 3973353
+  },
+  "Professor Cow ~ Vanser/2021/2021_1205_0112_56_759.png": {
+    "xxh": "8649acf0900d8f87da5b8c91a4c4852b",
+    "mtime": 1672498809000000000,
+    "size": 1718629
+  },
+  "Professor Cow ~ Vanser/2021/2021_1205_1125_04_162.png": {
+    "xxh": "e5d166081d620229fd9d6f4f67e9e946",
+    "mtime": 1638732306000000000,
+    "size": 4231194
+  },
+  "Professor Cow ~ Vanser/2021/2021_1205_1843_42_418.png": {
+    "xxh": "e546aa35b895d8d8fd7683d10210a651",
+    "mtime": 1672498811000000000,
+    "size": 4445900
+  },
+  "Professor Cow ~ Vanser/2021/2021_1206_1829_54_331.png": {
+    "xxh": "2d96dd57862bf33ca9e4c5025903950d",
+    "mtime": 1672498812000000000,
+    "size": 2098632
+  },
+  "Professor Cow ~ Vanser/2021/2021_1207_1751_06_199.png": {
+    "xxh": "62637279dcc3ba676b7c5383e080eb6b",
+    "mtime": 1672498813000000000,
+    "size": 3717920
+  },
+  "Professor Cow ~ Vanser/2021/2021_1208_1642_49_506.png": {
+    "xxh": "0375e3ba79e5be93c12dd876fbcaee97",
+    "mtime": 1672498814000000000,
+    "size": 3626426
+  },
+  "Professor Cow ~ Vanser/2021/2021_1210_1104_18_190.png": {
+    "xxh": "5aa34d75678b089cecf91f3e8a96a141",
+    "mtime": 1689496450187324500,
+    "size": 28739022
+  },
+  "Professor Cow ~ Vanser/2021/2021_1212_1901_31_679.png": {
+    "xxh": "f05970266737e135baa8cfdea5cddc38",
+    "mtime": 1639364494000000000,
+    "size": 54301290
+  },
+  "Professor Cow ~ Vanser/2021/2021_1212_2042_25_247.png": {
+    "xxh": "ffb29ec69880036453d8c8bfcdad0e40",
+    "mtime": 1639370546000000000,
+    "size": 25970998
+  },
+  "Professor Cow ~ Vanser/2021/2021_1212_2056_03_287.png": {
+    "xxh": "0f580705931b4ca194e68fc14433aa57",
+    "mtime": 1639371364000000000,
+    "size": 25971303
+  },
+  "Professor Cow ~ Vanser/2021/2021_1212_2157_45_994.png": {
+    "xxh": "9fe81338af314a8b80ba9d513d9994f4",
+    "mtime": 1639375068000000000,
+    "size": 28144654
+  },
+  "Professor Cow ~ Vanser/2021/2021_1213_1413_37_616.png": {
+    "xxh": "93b2e1ba56025f3ed3aacfc4e8d7a87c",
+    "mtime": 1689539308350922300,
+    "size": 16517595
+  },
+  "Professor Cow ~ Vanser/2021/2021_1213_1534_40_999.png": {
+    "xxh": "5983c8f56aed3d7b7049d9c732ac1b81",
+    "mtime": 1672498819000000000,
+    "size": 20027354
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_0119_18_132.png": {
+    "xxh": "f056f7574a91365cb4e5845662ef2501",
+    "mtime": 1639559960000000000,
+    "size": 1346436
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_0148_09_720.png": {
+    "xxh": "7230a6f3d5f4bde570bf6e18d4ee50c0",
+    "mtime": 1639561690000000000,
+    "size": 1349260
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_0202_50_354.png": {
+    "xxh": "6ce39340a664518c5dee482eb1d957bc",
+    "mtime": 1639562572000000000,
+    "size": 1351783
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_0220_51_667.png": {
+    "xxh": "92ab2e0fcbe5e759786eea09deaff198",
+    "mtime": 1639563652000000000,
+    "size": 1334838
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_1835_43_496.png": {
+    "xxh": "305b4501c7e438963e5cb12901875c2c",
+    "mtime": 1639622144000000000,
+    "size": 1329147
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_1901_53_495.png": {
+    "xxh": "10624738e9e792cf960f6a8258d9d89f",
+    "mtime": 1639623714000000000,
+    "size": 1804001
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2041_19_063.png": {
+    "xxh": "e764157f3f44b2f18be8ba2f2bb3f23c",
+    "mtime": 1672498826000000000,
+    "size": 478729
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2218_54_912.png": {
+    "xxh": "7d9658658341fb8e1b8f29aad1d75d52",
+    "mtime": 1639635536000000000,
+    "size": 1796070
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2233_59_044.png": {
+    "xxh": "be19e7041d974d39b91fae968ce3ae1d",
+    "mtime": 1639636440000000000,
+    "size": 1956150
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2249_21_007.png": {
+    "xxh": "34c568c63ab60dc8ab749094d730c876",
+    "mtime": 1639637362000000000,
+    "size": 2555763
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2304_36_049.png": {
+    "xxh": "0b38a046b27fd5d094d8d1e4289743ee",
+    "mtime": 1639638278000000000,
+    "size": 2562975
+  },
+  "Professor Cow ~ Vanser/2021/2021_1215_2318_22_609.png": {
+    "xxh": "dd744fe494cab99323e05a2cd42979b3",
+    "mtime": 1639639104000000000,
+    "size": 2506333
+  },
+  "Professor Cow ~ Vanser/2021/2021_1216_0044_40_006.png": {
+    "xxh": "142fc87d2b49a44f1d86f820bb75688f",
+    "mtime": 1639644282000000000,
+    "size": 2548180
+  },
+  "Professor Cow ~ Vanser/2021/2021_1216_0247_13_610.png": {
+    "xxh": "d6acedad69736669e5a95085350652cc",
+    "mtime": 1639651634000000000,
+    "size": 2553467
+  },
+  "Professor Cow ~ Vanser/2021/2021_1217_1040_10_737.png": {
+    "xxh": "a255caaeea739e8d9426e1360117bb4c",
+    "mtime": 1689539327363038800,
+    "size": 41396475
+  },
+  "Professor Cow ~ Vanser/2021/2021_1217_1719_05_178.png": {
+    "xxh": "d598b32294ffdcf5bb7a3c52904a6469",
+    "mtime": 1639790346000000000,
+    "size": 2573965
+  },
+  "Professor Cow ~ Vanser/2021/2021_1217_1814_40_122.png": {
+    "xxh": "e93e8c7f895bf98d8c2df6a1b8d96986",
+    "mtime": 1639793682000000000,
+    "size": 2575971
+  },
+  "Professor Cow ~ Vanser/2021/2021_1219_2042_36_065.png": {
+    "xxh": "c84ebc72169eed3e09c63a8da102e8c8",
+    "mtime": 1672498836000000000,
+    "size": 1922135
+  },
+  "Professor Cow ~ Vanser/2021/2021_1222_1847_46_792.png": {
+    "xxh": "8f9610405e1cc773db414f7ab8583ca5",
+    "mtime": 1672498837000000000,
+    "size": 14404709
+  },
+  "Professor Cow ~ Vanser/2021/2021_1228_1615_58_765.png": {
+    "xxh": "c746fc20b5ce18e953d359591b852168",
+    "mtime": 1689487917389620500,
+    "size": 17330204
+  },
+  "Professor Cow ~ Vanser/2021/2021_1230_1704_27_499.png": {
+    "xxh": "a70bc4fc3270b34f211057b6d464ab32",
+    "mtime": 1672498839000000000,
+    "size": 2402129
+  },
+  "Professor Cow ~ Vanser/2022/2022_0101_2145_43_151.png": {
+    "xxh": "ec547f5d59eed86217f82584a742f32c",
+    "mtime": 1672498840000000000,
+    "size": 322423
+  },
+  "Professor Cow ~ Vanser/2022/2022_0104_1439_10_922.png": {
+    "xxh": "4071581c269539c8018045dac523c5d8",
+    "mtime": 1672498841000000000,
+    "size": 23131615
+  },
+  "Professor Cow ~ Vanser/2022/2022_0107_0021_30_089.png": {
+    "xxh": "d9054e6058e24f4758367312625ba164",
+    "mtime": 1672498842000000000,
+    "size": 23969516
+  },
+  "Professor Cow ~ Vanser/2022/2022_0108_1659_44_887.png": {
+    "xxh": "480684c374c89d5c7bfcf50eacae6afa",
+    "mtime": 1641689986000000000,
+    "size": 306315
+  },
+  "Professor Cow ~ Vanser/2022/2022_0108_1744_59_197.png": {
+    "xxh": "537b4badab35581354fa72c17bf2f7ad",
+    "mtime": 1641692700000000000,
+    "size": 11862165
+  },
+  "Professor Cow ~ Vanser/2022/2022_0108_1904_03_239.png": {
+    "xxh": "e60979d64f806cb46589814bb513dcdc",
+    "mtime": 1641697444000000000,
+    "size": 6572258
+  },
+  "Professor Cow ~ Vanser/2022/2022_0108_2118_12_833.png": {
+    "xxh": "4bb34e604cbc494bd89b3f4afebab936",
+    "mtime": 1641705494000000000,
+    "size": 6074086
+  },
+  "Professor Cow ~ Vanser/2022/2022_0110_2313_55_090.png": {
+    "xxh": "abf2017a0fc943b1127badd9bed085ec",
+    "mtime": 1672498847000000000,
+    "size": 7269181
+  },
+  "Professor Cow ~ Vanser/2022/2022_0117_1518_17_397.png": {
+    "xxh": "843db00b75bbafe7dec57925f35ffd30",
+    "mtime": 1672498848000000000,
+    "size": 4012676
+  },
+  "Professor Cow ~ Vanser/2022/2022_0123_2048_09_273.png": {
+    "xxh": "67fb37644ef88b8a35745b792f45c3c8",
+    "mtime": 1672498849000000000,
+    "size": 2396762
+  },
+  "Professor Cow ~ Vanser/2022/2022_0129_0200_56_256.png": {
+    "xxh": "2a53b81bf617b3e1717af961727c8879",
+    "mtime": 1672498850000000000,
+    "size": 20398915
+  },
+  "Professor Cow ~ Vanser/2022/2022_0201_1458_04_454.png": {
+    "xxh": "b5a71ceefe88dd68603386dbf5c41b75",
+    "mtime": 1672498851000000000,
+    "size": 4885305
+  },
+  "Professor Cow ~ Vanser/2022/2022_0203_0002_48_233.png": {
+    "xxh": "42cfbd1adfd45394e62123d06e611ad4",
+    "mtime": 1643875370000000000,
+    "size": 12504880
+  },
+  "Professor Cow ~ Vanser/2022/2022_0204_0426_13_970.png": {
+    "xxh": "b0e28059e4077f3c25a0db911bc0c1aa",
+    "mtime": 1672498853000000000,
+    "size": 13106747
+  },
+  "Professor Cow ~ Vanser/2022/2022_0208_2257_36_467.png": {
+    "xxh": "d97d6b1a8f09cbf1a49cf71e60f495f7",
+    "mtime": 1672498854000000000,
+    "size": 67694944
+  },
+  "Professor Cow ~ Vanser/2022/2022_0209_1733_18_109.png": {
+    "xxh": "c0d8bdafd7f9eca86378b91c8bafadf2",
+    "mtime": 1644456800000000000,
+    "size": 577523
+  },
+  "Professor Cow ~ Vanser/2022/2022_0209_1742_02_506.png": {
+    "xxh": "d44a79f6db1cc2992c7cb04d1f5ea03b",
+    "mtime": 1644457324000000000,
+    "size": 730796
+  },
+  "Professor Cow ~ Vanser/2022/2022_0209_1757_50_095.png": {
+    "xxh": "bb273c8ac95a2310d839789816a357ee",
+    "mtime": 1644458272000000000,
+    "size": 732620
+  },
+  "Professor Cow ~ Vanser/2022/2022_0209_1824_11_584.png": {
+    "xxh": "f893317f013b5840ee09fed8939bbe6f",
+    "mtime": 1644459852000000000,
+    "size": 778905
+  },
+  "Professor Cow ~ Vanser/2022/2022_0209_1830_06_008.png": {
+    "xxh": "dc349a2c0448906f1cb953aaedbcb917",
+    "mtime": 1644460208000000000,
+    "size": 791500
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_0215_07_053.png": {
+    "xxh": "67d951aeb264960690db4920c1847985",
+    "mtime": 1672498860000000000,
+    "size": 4124460
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_1736_44_755.png": {
+    "xxh": "7cf1bf5e3181531a6701efefaf751d4e",
+    "mtime": 1644629806000000000,
+    "size": 33660549
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_1906_10_606.png": {
+    "xxh": "c17a6a578646c4b515091b2cc1d1cea0",
+    "mtime": 1644635172000000000,
+    "size": 33586750
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_2140_07_212.png": {
+    "xxh": "008605f978352bdd11fe8496d2272334",
+    "mtime": 1644644410000000000,
+    "size": 33582415
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_2222_14_812.png": {
+    "xxh": "dab92791a36042110db57c4e79684a60",
+    "mtime": 1644646936000000000,
+    "size": 28224696
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_2300_52_990.png": {
+    "xxh": "6a05c99d2a3b0bd21b12919014c6e668",
+    "mtime": 1644649254000000000,
+    "size": 28257845
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_2328_58_097.png": {
+    "xxh": "27c05f2acbb6b235ff0027f556211f7b",
+    "mtime": 1644650940000000000,
+    "size": 28265291
+  },
+  "Professor Cow ~ Vanser/2022/2022_0211_2336_34_522.png": {
+    "xxh": "c283fd5feac14ade863d9b6dc3bbc477",
+    "mtime": 1644651396000000000,
+    "size": 28259883
+  },
+  "Professor Cow ~ Vanser/2022/2022_0212_0159_19_118.png": {
+    "xxh": "0945d0e92fe3f8a248f154b397a88d2b",
+    "mtime": 1644659962000000000,
+    "size": 56276041
+  },
+  "Professor Cow ~ Vanser/2022/2022_0212_1854_50_268.png": {
+    "xxh": "a1c5989f6c376e0de03f8445c27eb113",
+    "mtime": 1644720892000000000,
+    "size": 56243890
+  },
+  "Professor Cow ~ Vanser/2022/2022_0212_1924_02_226.png": {
+    "xxh": "15a5f12b6353e979a026aba3173aa646",
+    "mtime": 1644722644000000000,
+    "size": 56287468
+  },
+  "Professor Cow ~ Vanser/2022/2022_0212_2304_17_130.png": {
+    "xxh": "16c86ad55364c63d49b678251bb1bf76",
+    "mtime": 1644735860000000000,
+    "size": 56291048
+  },
+  "Professor Cow ~ Vanser/2022/2022_0213_0052_34_062.png": {
+    "xxh": "c26bc85e01d58d0ea82ab3f03498f93a",
+    "mtime": 1644742356000000000,
+    "size": 56339370
+  },
+  "Professor Cow ~ Vanser/2022/2022_0213_0110_30_383.png": {
+    "xxh": "3d9f011a22f4547e3f070019d8f9d46b",
+    "mtime": 1644743432000000000,
+    "size": 56359735
+  },
+  "Professor Cow ~ Vanser/2022/2022_0216_2209_35_841.png": {
+    "xxh": "95988c3c1443912fe79c88fd541aab1c",
+    "mtime": 1672498874000000000,
+    "size": 84628498
+  },
+  "Professor Cow ~ Vanser/2022/2022_0218_2318_16_518.png": {
+    "xxh": "cd80044ba1183dd4658595fe4c610dc3",
+    "mtime": 1672498875000000000,
+    "size": 6676151
+  },
+  "Professor Cow ~ Vanser/2022/2022_0226_1719_45_906.png": {
+    "xxh": "9959cf313da1a111d4684d1a413a296e",
+    "mtime": 1672498876000000000,
+    "size": 1725523
+  },
+  "Professor Cow ~ Vanser/2022/2022_0301_2005_19_612.png": {
+    "xxh": "ff0e8e13f0c06369557e0bfcb4eabe25",
+    "mtime": 1672498877000000000,
+    "size": 4671921
+  },
+  "Professor Cow ~ Vanser/2022/2022_0302_0301_08_730.png": {
+    "xxh": "93fbbd73b555a6c3287ea747b70fca99",
+    "mtime": 1689485105430609400,
+    "size": 38129024
+  },
+  "Professor Cow ~ Vanser/2022/2022_0303_2002_27_979.png": {
+    "xxh": "640871189bf1fe5ed85475e7ee9a84ee",
+    "mtime": 1646366550000000000,
+    "size": 28282532
+  },
+  "Professor Cow ~ Vanser/2022/2022_0304_2018_48_126.png": {
+    "xxh": "8a4d749b193e9ddf2bf3a243198aa137",
+    "mtime": 1646453930000000000,
+    "size": 28329693
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_0007_39_318.png": {
+    "xxh": "9e0d0a652b1c38ced64e95343b995a96",
+    "mtime": 1646467662000000000,
+    "size": 36371515
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_0028_03_274.png": {
+    "xxh": "5b110d26e9f18df5b4267bf7b6f88224",
+    "mtime": 1646468884000000000,
+    "size": 28337507
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_0034_40_844.png": {
+    "xxh": "56dd216eb4111088d09e6a23f55057b6",
+    "mtime": 1646469282000000000,
+    "size": 28328434
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_1638_22_775.png": {
+    "xxh": "3588c9424027c798d92b3526faedebd0",
+    "mtime": 1646527104000000000,
+    "size": 28358020
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_1755_14_240.png": {
+    "xxh": "5c7267f3bb8303e00a6559ab9cc7d3f9",
+    "mtime": 1646531716000000000,
+    "size": 56334663
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_1810_08_732.png": {
+    "xxh": "bd8efe9ba1dc7e7f816f245714525bcf",
+    "mtime": 1646532610000000000,
+    "size": 56344205
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_1910_04_104.png": {
+    "xxh": "5a68447dc805003062999bf7675c12b7",
+    "mtime": 1646536206000000000,
+    "size": 56348061
+  },
+  "Professor Cow ~ Vanser/2022/2022_0305_2003_56_666.png": {
+    "xxh": "16db31f6ea13cb19df6c5cebde9198c2",
+    "mtime": 1646539440000000000,
+    "size": 56328033
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_0234_19_686.png": {
+    "xxh": "dc8466a76a4b14108128c7fa07036b98",
+    "mtime": 1646562862000000000,
+    "size": 56330115
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_1824_49_068.png": {
+    "xxh": "db89ddcf4938eea4bf11652b2b91f8cc",
+    "mtime": 1646619892000000000,
+    "size": 56332242
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_1900_41_648.png": {
+    "xxh": "593deb9beb62b7b47293621be4e9a8d6",
+    "mtime": 1646622044000000000,
+    "size": 56328939
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_1921_22_799.png": {
+    "xxh": "b56fdd0904ca41ca7fb8988c168d12b4",
+    "mtime": 1646623286000000000,
+    "size": 56333561
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_1944_14_754.png": {
+    "xxh": "5e4dc92655f52f190d66efe99ed43282",
+    "mtime": 1646624656000000000,
+    "size": 56340269
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_2033_02_550.png": {
+    "xxh": "19c21dc9ec95f763db217cebb9748783",
+    "mtime": 1646627584000000000,
+    "size": 56332594
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_2131_41_299.png": {
+    "xxh": "ddff0c8c74996418372233e7b400eb08",
+    "mtime": 1646631104000000000,
+    "size": 56359072
+  },
+  "Professor Cow ~ Vanser/2022/2022_0306_2147_33_088.png": {
+    "xxh": "77143e4c0045976ff086bb7dcc170aa6",
+    "mtime": 1646632056000000000,
+    "size": 56346452
+  },
+  "Professor Cow ~ Vanser/2022/2022_0313_2216_49_484.png": {
+    "xxh": "2237cbd6436162e9e459dadc4dbb1127",
+    "mtime": 1672498888000000000,
+    "size": 23484635
+  },
+  "Professor Cow ~ Vanser/2022/2022_0317_1831_02_107.png": {
+    "xxh": "38161d4b0d6d6614a292f2196a0916ee",
+    "mtime": 1672498889000000000,
+    "size": 18240060
+  },
+  "Professor Cow ~ Vanser/2022/2022_0319_1859_17_975.png": {
+    "xxh": "8920e0d451016a64ae17e58b6caf7660",
+    "mtime": 1672498890000000000,
+    "size": 14664095
+  },
+  "Professor Cow ~ Vanser/2022/2022_0323_1758_54_866.png": {
+    "xxh": "dfa753e13ab5f5303e7b9ea5e7e47096",
+    "mtime": 1672498891000000000,
+    "size": 1330069
+  },
+  "Professor Cow ~ Vanser/2022/2022_0325_2256_08_430.png": {
+    "xxh": "c92703d4c9a441348a70e0717a2d0079",
+    "mtime": 1672498892000000000,
+    "size": 7487621
+  },
+  "Professor Cow ~ Vanser/2022/2022_0326_2047_45_484.png": {
+    "xxh": "5cf15f78b9a3f003aac0ea98bed023e3",
+    "mtime": 1672498893000000000,
+    "size": 38782347
+  },
+  "Professor Cow ~ Vanser/2022/2022_0328_2345_51_450.png": {
+    "xxh": "a9f8129ecc3c985abfd8fc0a0ece3d53",
+    "mtime": 1672498894000000000,
+    "size": 5297815
+  },
+  "Professor Cow ~ Vanser/2022/2022_0402_2036_41_899.png": {
+    "xxh": "8d18c5ad9fc36a8a2051104c3f8a2d94",
+    "mtime": 1672498895000000000,
+    "size": 18905020
+  },
+  "Professor Cow ~ Vanser/2022/2022_0405_2020_06_874.png": {
+    "xxh": "a7048dd7b3250888488d6aa509b94bee",
+    "mtime": 1649265608000000000,
+    "size": 802528
+  },
+  "Professor Cow ~ Vanser/2022/2022_0405_2241_34_655.png": {
+    "xxh": "c41b3b4e96788818b949b8756619691f",
+    "mtime": 1672498897000000000,
+    "size": 977058
+  },
+  "Professor Cow ~ Vanser/2022/2022_0406_2230_20_004.png": {
+    "xxh": "f9015fd68c2f35c5fb12f1ed0477cdac",
+    "mtime": 1649309422000000000,
+    "size": 36871229
+  },
+  "Professor Cow ~ Vanser/2022/2022_0412_2042_51_220.png": {
+    "xxh": "c60bcf128bc3ffdfb1cef9dc65c2070d",
+    "mtime": 1672498899000000000,
+    "size": 11256554
+  },
+  "Professor Cow ~ Vanser/2022/2022_0413_2137_44_488.png": {
+    "xxh": "6db4f009f229fa7447c96038006818c1",
+    "mtime": 1672498900000000000,
+    "size": 21915065
+  },
+  "Professor Cow ~ Vanser/2022/2022_0416_2034_48_721.png": {
+    "xxh": "8c44389c7168a2d23b3a40a03f8b99d8",
+    "mtime": 1672498901000000000,
+    "size": 19157022
+  },
+  "Professor Cow ~ Vanser/2022/2022_0418_0729_19_589.png": {
+    "xxh": "111848fcd617b35b15381815462eb85c",
+    "mtime": 1672498902000000000,
+    "size": 4955307
+  },
+  "Professor Cow ~ Vanser/2022/2022_0419_2048_47_192.png": {
+    "xxh": "cac602bc4ea34c7f9bf966986b924aeb",
+    "mtime": 1672498903000000000,
+    "size": 5663396
+  },
+  "Professor Cow ~ Vanser/2022/2022_0420_2331_06_405.png": {
+    "xxh": "6cee33b6693f306290ecd841d4a7a376",
+    "mtime": 1650522668000000000,
+    "size": 13320799
+  },
+  "Professor Cow ~ Vanser/2022/2022_0422_1807_00_129.png": {
+    "xxh": "f9067a5dc2db3b57e5e0a21de6949b36",
+    "mtime": 1672498905000000000,
+    "size": 3222802
+  },
+  "Professor Cow ~ Vanser/2022/2022_0424_1818_01_352.png": {
+    "xxh": "795026c366c9a9bd77b3f0447ad9ac7c",
+    "mtime": 1672498906000000000,
+    "size": 7057918
+  },
+  "Professor Cow ~ Vanser/2022/2022_0426_1556_58_816.png": {
+    "xxh": "ef37ffba41ed1791b4fd7a4a46f4f662",
+    "mtime": 1672498907000000000,
+    "size": 7734107
+  },
+  "Professor Cow ~ Vanser/2022/2022_0428_1817_09_351.png": {
+    "xxh": "47d07db4e5d38e567805d6062b14f07a",
+    "mtime": 1672498908000000000,
+    "size": 2229385
+  },
+  "Professor Cow ~ Vanser/2022/2022_0501_2352_36_079.png": {
+    "xxh": "626e7a3c9ab05936fd5f8061cf0b10de",
+    "mtime": 1672498909000000000,
+    "size": 7704540
+  },
+  "Professor Cow ~ Vanser/2022/2022_0504_1807_20_376.png": {
+    "xxh": "8ce2733553a6efb98e147df069d0dee0",
+    "mtime": 1672498910000000000,
+    "size": 15772358
+  },
+  "Professor Cow ~ Vanser/2022/2022_0509_1658_38_325.png": {
+    "xxh": "c91fc6b916612172a6a1779c2fb20d64",
+    "mtime": 1672498911000000000,
+    "size": 9217136
+  },
+  "Professor Cow ~ Vanser/2022/2022_0516_2045_18_967.png": {
+    "xxh": "1e5e0d2d56b05701d19f55ecd1acdf43",
+    "mtime": 1672498912000000000,
+    "size": 5333531
+  },
+  "Professor Cow ~ Vanser/2022/2022_0521_1859_23_848.png": {
+    "xxh": "d7ba7049afb00220d4d135143ca9e81d",
+    "mtime": 1672498913000000000,
+    "size": 24731858
+  },
+  "Professor Cow ~ Vanser/2022/2022_0524_1819_10_451.png": {
+    "xxh": "1a376c557ff4a66dd891a63c36437af7",
+    "mtime": 1672498914000000000,
+    "size": 22517605
+  },
+  "Professor Cow ~ Vanser/2022/2022_0527_2120_07_021.png": {
+    "xxh": "155827f26812bdd748915422197472b8",
+    "mtime": 1672498915000000000,
+    "size": 4847048
+  },
+  "Professor Cow ~ Vanser/2022/2022_0529_1852_18_447.png": {
+    "xxh": "3732433383f857a4c610f7ad41760203",
+    "mtime": 1672498916000000000,
+    "size": 5608171
+  },
+  "Professor Cow ~ Vanser/2022/2022_0601_1534_21_345.png": {
+    "xxh": "cb882911f72bd2c94b5d0f19e542ee08",
+    "mtime": 1672498917000000000,
+    "size": 8574603
+  },
+  "Professor Cow ~ Vanser/2022/2022_0601_2018_21_527.png": {
+    "xxh": "e0f4f1cb3c1446bd062095313623f491",
+    "mtime": 1672498918000000000,
+    "size": 14526859
+  },
+  "Professor Cow ~ Vanser/2022/2022_0602_0154_14_133.png": {
+    "xxh": "793686e389d344e81dec2d9505bd6dd4",
+    "mtime": 1672498919000000000,
+    "size": 13072194
+  },
+  "Professor Cow ~ Vanser/2022/2022_0602_2127_46_339.png": {
+    "xxh": "8e51de3d4d61712339291fb32cd9f87e",
+    "mtime": 1654230468000000000,
+    "size": 13080853
+  },
+  "Professor Cow ~ Vanser/2022/2022_0605_1904_26_034.png": {
+    "xxh": "b4f06c90cf1778fca8add9696ab89e47",
+    "mtime": 1689487270287074500,
+    "size": 13750459
+  },
+  "Professor Cow ~ Vanser/2022/2022_0605_1915_57_882.png": {
+    "xxh": "0aa9a0955eba382def1a6ded384746e2",
+    "mtime": 1672498921000000000,
+    "size": 13750453
+  },
+  "Professor Cow ~ Vanser/2022/2022_0608_1735_27_884.png": {
+    "xxh": "d5f2487eaaba9988e52ece274e5af1fe",
+    "mtime": 1672498922000000000,
+    "size": 7722248
+  },
+  "Professor Cow ~ Vanser/2022/2022_0609_1744_34_408.png": {
+    "xxh": "c3b73e0cfa82abab5ade430a5e35e5b9",
+    "mtime": 1672498923000000000,
+    "size": 15475517
+  },
+  "Professor Cow ~ Vanser/2022/2022_0614_0105_04_568.png": {
+    "xxh": "fa09546203268f1a9f14bbd54088a479",
+    "mtime": 1672498924000000000,
+    "size": 38160996
+  },
+  "Professor Cow ~ Vanser/2022/2022_0616_1642_19_434.png": {
+    "xxh": "caea7a16b798ee92ddefd24de28900fd",
+    "mtime": 1655473340000000000,
+    "size": 6551620
+  },
+  "Professor Cow ~ Vanser/2022/2022_0617_1642_14_780.png": {
+    "xxh": "e5764249f7950cf45635a83a5f76b509",
+    "mtime": 1672498926000000000,
+    "size": 6835578
+  },
+  "Professor Cow ~ Vanser/2022/2022_0621_1823_54_865.png": {
+    "xxh": "e0ab3e1f892bca8593c87690eb387eaa",
+    "mtime": 1689487265344994600,
+    "size": 1603119
+  },
+  "Professor Cow ~ Vanser/2022/2022_0621_1847_48_408.png": {
+    "xxh": "498bdafb2f06c875f7dd1f36fddb1f32",
+    "mtime": 1672498927000000000,
+    "size": 1600216
+  },
+  "Professor Cow ~ Vanser/2022/2022_0623_2000_25_484.png": {
+    "xxh": "12528fdc35f2b92424b4b2fc820584a6",
+    "mtime": 1656090026000000000,
+    "size": 16749532
+  },
+  "Professor Cow ~ Vanser/2022/2022_0624_1806_04_282.png": {
+    "xxh": "1919d5beebc63e16ef0e77e89b9505f4",
+    "mtime": 1656119164000000000,
+    "size": 17227972
+  },
+  "Professor Cow ~ Vanser/2022/2022_0624_1812_06_280.png": {
+    "xxh": "b4c5b016be87a08360577a4204b1648c",
+    "mtime": 1672498929000000000,
+    "size": 17228420
+  },
+  "Professor Cow ~ Vanser/2022/2022_0628_1928_30_994.png": {
+    "xxh": "ca0733846ba9171bbf7c2db955c0e88d",
+    "mtime": 1672498930000000000,
+    "size": 5309674
+  },
+  "Professor Cow ~ Vanser/2022/2022_0701_1836_50_894.png": {
+    "xxh": "26160a1d2d083cdd8f7bcd3611eb0d0b",
+    "mtime": 1656776212000000000,
+    "size": 5100362
+  },
+  "Professor Cow ~ Vanser/2022/2022_0701_2155_40_085.png": {
+    "xxh": "5d1fca0333167eaaa09ac5b8046c228c",
+    "mtime": 1672498933000000000,
+    "size": 5309695
+  },
+  "Professor Cow ~ Vanser/2022/2022_0703_1716_43_726.png": {
+    "xxh": "0d7e5e4fea136e6d65089ab97d82dad8",
+    "mtime": 1672498934000000000,
+    "size": 3465443
+  },
+  "Professor Cow ~ Vanser/2022/2022_0706_2104_42_136.png": {
+    "xxh": "b1f656df7ae5e91b3ec073bf553ac68b",
+    "mtime": 1689487261215648100,
+    "size": 43792925
+  },
+  "Professor Cow ~ Vanser/2022/2022_0706_2152_22_820.png": {
+    "xxh": "fae6efa50b9b0510cdb5c7cdc985f9f4",
+    "mtime": 1672498935000000000,
+    "size": 43791821
+  },
+  "Professor Cow ~ Vanser/2022/2022_0709_1706_07_996.png": {
+    "xxh": "48deff447f9b8cc230e7d1dbc27ee97c",
+    "mtime": 1672498936000000000,
+    "size": 2838609
+  },
+  "Professor Cow ~ Vanser/2022/2022_0710_1805_24_006.png": {
+    "xxh": "6ae51be3d56e68e88a7c9dd3b627192c",
+    "mtime": 1672498937000000000,
+    "size": 3353490
+  },
+  "Professor Cow ~ Vanser/2022/2022_0714_1716_01_252.png": {
+    "xxh": "a55774026bfa51c98320fa49b336806c",
+    "mtime": 1672498938000000000,
+    "size": 1097982
+  },
+  "Professor Cow ~ Vanser/2022/2022_0717_1836_45_133.png": {
+    "xxh": "3ef9a3c0e0eb4bc2c4e42c0a26239d2d",
+    "mtime": 1672498939000000000,
+    "size": 4404046
+  },
+  "Professor Cow ~ Vanser/2022/2022_0718_1749_53_616.png": {
+    "xxh": "841c155e851757f848c8a0246aee0d0d",
+    "mtime": 1672498940000000000,
+    "size": 4458289
+  },
+  "Professor Cow ~ Vanser/2022/2022_0720_1843_47_022.png": {
+    "xxh": "7f809304bb143f64cb6d237184a36aa1",
+    "mtime": 1658367828000000000,
+    "size": 14688364
+  },
+  "Professor Cow ~ Vanser/2022/2022_0720_2056_08_139.png": {
+    "xxh": "2fff1750289b8dd0370fe174c4eca79d",
+    "mtime": 1672498942000000000,
+    "size": 23226716
+  },
+  "Professor Cow ~ Vanser/2022/2022_0723_1712_37_424.png": {
+    "xxh": "25f6e28a60a581d10c0eb02d10a3a5e3",
+    "mtime": 1672498943000000000,
+    "size": 11778581
+  },
+  "Professor Cow ~ Vanser/2022/2022_0726_1625_31_601.png": {
+    "xxh": "442915744486c1a6dad0465ac52a3243",
+    "mtime": 1672498944000000000,
+    "size": 8491292
+  },
+  "Professor Cow ~ Vanser/2022/2022_0727_2027_07_935.png": {
+    "xxh": "3a4f4e3cd6cd4ed672d92b8ac642f5c7",
+    "mtime": 1672498945000000000,
+    "size": 9781314
+  },
+  "Professor Cow ~ Vanser/2022/2022_0730_2205_20_806.png": {
+    "xxh": "b375648c258d3648684a902984f10edc",
+    "mtime": 1672498946000000000,
+    "size": 8242750
+  },
+  "Professor Cow ~ Vanser/2022/2022_0731_1910_02_470.png": {
+    "xxh": "488ecc01e68171af83e23e4742a374df",
+    "mtime": 1672498947000000000,
+    "size": 4723137
+  },
+  "Professor Cow ~ Vanser/2022/2022_0731_2122_17_589.png": {
+    "xxh": "9cdea1f27a33ffe5fe96b3083c39489e",
+    "mtime": 1672498948000000000,
+    "size": 4891978
+  },
+  "Professor Cow ~ Vanser/2022/2022_0731_2153_06_161.png": {
+    "xxh": "6d203799957dce01fa538ee41ef0ba81",
+    "mtime": 1672498949000000000,
+    "size": 4879564
+  },
+  "Professor Cow ~ Vanser/2022/2022_0731_2203_06_128.png": {
+    "xxh": "534dcc12de1836e5676dcd1d246936ad",
+    "mtime": 1672498950000000000,
+    "size": 4858300
+  },
+  "Professor Cow ~ Vanser/2022/2022_0731_2214_20_228.png": {
+    "xxh": "f9b9e64dd48292f4d1291f52a884a1b2",
+    "mtime": 1672498951000000000,
+    "size": 4861704
+  },
+  "Professor Cow ~ Vanser/2022/2022_0801_1800_58_848.png": {
+    "xxh": "dcf465d81a8bb07b2131c27735b9572b",
+    "mtime": 1672498952000000000,
+    "size": 9431927
+  },
+  "Professor Cow ~ Vanser/2022/2022_0803_1759_49_121.png": {
+    "xxh": "83eb9184ff1a91bd365ebb14f54db33b",
+    "mtime": 1672498953000000000,
+    "size": 10401271
+  },
+  "Professor Cow ~ Vanser/2022/2022_0807_2124_26_024.png": {
+    "xxh": "88f7107e87821d027d00adedfaa9f358",
+    "mtime": 1672498954000000000,
+    "size": 2543012
+  },
+  "Professor Cow ~ Vanser/2022/2022_0808_1730_55_792.png": {
+    "xxh": "aa51bd2ca47d7680d0b76f72c98eeb45",
+    "mtime": 1672498955000000000,
+    "size": 2995462
+  },
+  "Professor Cow ~ Vanser/2022/2022_0811_1939_11_204.png": {
+    "xxh": "cbfd5303c0c60da93373944f973e00f1",
+    "mtime": 1672498956000000000,
+    "size": 8447980
+  },
+  "Professor Cow ~ Vanser/2022/2022_0816_0048_49_494.png": {
+    "xxh": "a8c4b3cc903854db268511519706f675",
+    "mtime": 1672498957000000000,
+    "size": 15607393
+  },
+  "Professor Cow ~ Vanser/2022/2022_0817_1902_10_745.png": {
+    "xxh": "1927ad54af2e3b0dc3bbfddde8393687",
+    "mtime": 1672498958000000000,
+    "size": 17022598
+  },
+  "Professor Cow ~ Vanser/2022/2022_0821_1827_05_093.png": {
+    "xxh": "ee79b31320e5a1dfa685859d06236ac4",
+    "mtime": 1672498959000000000,
+    "size": 5903263
+  },
+  "Professor Cow ~ Vanser/2022/2022_0828_1626_17_452.png": {
+    "xxh": "5faf944ee68e8c0056c030353d67a83a",
+    "mtime": 1672498960000000000,
+    "size": 6074353
+  },
+  "Professor Cow ~ Vanser/2022/2022_0829_1841_29_211.png": {
+    "xxh": "18acd767660a48131335bf642bb5d3b1",
+    "mtime": 1672498961000000000,
+    "size": 6166016
+  },
+  "Professor Cow ~ Vanser/2022/2022_0903_1733_35_585.png": {
+    "xxh": "b257de36c57cd474183368d63f01033c",
+    "mtime": 1672498962000000000,
+    "size": 31199356
+  },
+  "Professor Cow ~ Vanser/2022/2022_0907_1839_16_998.png": {
+    "xxh": "e7119714ea4f580740a5a8b750588dfd",
+    "mtime": 1672498963000000000,
+    "size": 6542900
+  },
+  "Professor Cow ~ Vanser/2022/2022_0907_1907_28_041.png": {
+    "xxh": "2c5839138257680e382a1088dee797ed",
+    "mtime": 1672498964000000000,
+    "size": 6547789
+  },
+  "Professor Cow ~ Vanser/2022/2022_0916_2038_11_506.png": {
+    "xxh": "40474495f68fe091a4ff18b08855705a",
+    "mtime": 1672498965000000000,
+    "size": 9120478
+  },
+  "Professor Cow ~ Vanser/2022/2022_0920_1912_13_451.png": {
+    "xxh": "b712b4343912e8f41cbc3ec75859aa3d",
+    "mtime": 1672498966000000000,
+    "size": 13511271
+  },
+  "Professor Cow ~ Vanser/2022/2022_0925_2008_01_374.png": {
+    "xxh": "1645a4cadace4540f42c03d00e970455",
+    "mtime": 1672498967000000000,
+    "size": 10066598
+  },
+  "Professor Cow ~ Vanser/2022/2022_0926_0020_17_241.png": {
+    "xxh": "9dd2abade87830ef7262d1af16eb0bf8",
+    "mtime": 1672498968000000000,
+    "size": 22862530
+  },
+  "Professor Cow ~ Vanser/2022/2022_0930_2059_52_827.png": {
+    "xxh": "8daa4b29beebcbeec1fe277f258d56ff",
+    "mtime": 1672498969000000000,
+    "size": 12821285
+  },
+  "Professor Cow ~ Vanser/2022/2022_1001_0230_47_644.png": {
+    "xxh": "73cf3993f4d84c20f5b52b8c09d3c1cf",
+    "mtime": 1672498970000000000,
+    "size": 12815256
+  },
+  "Professor Cow ~ Vanser/2022/2022_1005_1849_29_166.png": {
+    "xxh": "7478d7841855051513cb94b37584bfc8",
+    "mtime": 1672498971000000000,
+    "size": 21173007
+  },
+  "Professor Cow ~ Vanser/2022/2022_1015_0038_44_271.png": {
+    "xxh": "a20b12461a7584466f48a8169530b2ac",
+    "mtime": 1672498972000000000,
+    "size": 56066902
+  },
+  "Professor Cow ~ Vanser/2022/2022_1019_2140_22_981.png": {
+    "xxh": "ca1f135220c42f1950e8ace05cecb350",
+    "mtime": 1672498973000000000,
+    "size": 6632749
+  },
+  "Professor Cow ~ Vanser/2022/2022_1024_1812_30_418.png": {
+    "xxh": "ef2af4eb8b3bfd94d26b4b7033ed5304",
+    "mtime": 1672498974000000000,
+    "size": 56221901
+  },
+  "Professor Cow ~ Vanser/2022/2022_1024_1831_29_943.png": {
+    "xxh": "83e69bdea75267457ca7e7834b33bc83",
+    "mtime": 1672498975000000000,
+    "size": 56126399
+  },
+  "Professor Cow ~ Vanser/2022/2022_1024_1835_36_545.png": {
+    "xxh": "fbeaf8bda0f5dcdb74029c75a83eb2c4",
+    "mtime": 1672498976000000000,
+    "size": 56034780
+  },
+  "Professor Cow ~ Vanser/2022/2022_1024_1839_03_331.png": {
+    "xxh": "597432f8fc512f9ec9d89b4e66367ea5",
+    "mtime": 1672498977000000000,
+    "size": 56195785
+  },
+  "Professor Cow ~ Vanser/2022/2022_1024_1844_09_790.png": {
+    "xxh": "6102082502bb106fa6908bf475702471",
+    "mtime": 1672498978000000000,
+    "size": 73254581
+  },
+  "Professor Cow ~ Vanser/2022/2022_1031_2242_28_664.png": {
+    "xxh": "0b8fdf62e21a624dca2701702f5ea0f0",
+    "mtime": 1672498979000000000,
+    "size": 6955135
+  },
+  "Professor Cow ~ Vanser/2022/2022_1102_2040_58_183.png": {
+    "xxh": "90d39801e9eea32f5f96011262c88822",
+    "mtime": 1672498980000000000,
+    "size": 7725585
+  },
+  "Professor Cow ~ Vanser/2022/2022_1103_0127_42_293.png": {
+    "xxh": "7e05a6be34760f48a6052de8da5841de",
+    "mtime": 1672498981000000000,
+    "size": 7623547
+  },
+  "Professor Cow ~ Vanser/2022/2022_1103_1807_50_951.png": {
+    "xxh": "2391303afef52f8583db9a3f8d9c741a",
+    "mtime": 1672498982000000000,
+    "size": 13092979
+  },
+  "Professor Cow ~ Vanser/2022/2022_1103_1907_35_596.png": {
+    "xxh": "0546e21700924d99ff2e89fc9b80fb91",
+    "mtime": 1672498983000000000,
+    "size": 13112195
+  },
+  "Professor Cow ~ Vanser/2022/2022_1103_2326_50_550.png": {
+    "xxh": "ad3a9ecc19a5ea6ba8d838f3b96bfa21",
+    "mtime": 1672498984000000000,
+    "size": 13045177
+  },
+  "Professor Cow ~ Vanser/2022/2022_1104_1755_57_254.png": {
+    "xxh": "74e27c90c9852c8d33cdc90c12cc33e6",
+    "mtime": 1672498985000000000,
+    "size": 18770431
+  },
+  "Professor Cow ~ Vanser/2022/2022_1109_2218_27_134.png": {
+    "xxh": "2db499b50770f1a2c943cae65b87e1a4",
+    "mtime": 1672498986000000000,
+    "size": 3481909
+  },
+  "Professor Cow ~ Vanser/2022/2022_1118_2234_26_156.png": {
+    "xxh": "6bf17fcd608909ed351223a9b69e5223",
+    "mtime": 1672498987000000000,
+    "size": 28380055
+  },
+  "Professor Cow ~ Vanser/2022/2022_1118_2234_42_660.png": {
+    "xxh": "8fcda9ab769d6304633254aa48d489d5",
+    "mtime": 1672498988000000000,
+    "size": 24643016
+  },
+  "Professor Cow ~ Vanser/2022/2022_1121_2316_52_645.png": {
+    "xxh": "c8d97be774d876c381b38aaa4d2416f5",
+    "mtime": 1669101414000000000,
+    "size": 25122024
+  },
+  "Professor Cow ~ Vanser/2022/2022_1123_1847_22_376.png": {
+    "xxh": "4565f21b82a2271f956b00eb5f795669",
+    "mtime": 1672498990000000000,
+    "size": 26149717
+  },
+  "Professor Cow ~ Vanser/2022/2022_1126_2053_11_189.png": {
+    "xxh": "2372cd7fc0ca295a323f1ea055c98c42",
+    "mtime": 1672498991000000000,
+    "size": 6314266
+  },
+  "Professor Cow ~ Vanser/2022/2022_1126_2056_54_660.png": {
+    "xxh": "8723de42a4049048272156a916cbf663",
+    "mtime": 1672498992000000000,
+    "size": 7217235
+  },
+  "Professor Cow ~ Vanser/2022/2022_1203_1817_32_962.png": {
+    "xxh": "6df83ab7dcd91091dcbd190b5088f2f3",
+    "mtime": 1672498993000000000,
+    "size": 7675073
+  },
+  "Professor Cow ~ Vanser/2022/2022_1203_1850_17_653.png": {
+    "xxh": "377187e780d9fb70d7eeada1a4e836a9",
+    "mtime": 1672498994000000000,
+    "size": 6755249
+  },
+  "Professor Cow ~ Vanser/2022/2022_1209_0249_37_757.png": {
+    "xxh": "57b1f38ef463c7aafd856f9a7a00a8f4",
+    "mtime": 1672498995000000000,
+    "size": 19363571
+  },
+  "Professor Cow ~ Vanser/2022/2022_1210_0021_24_756.png": {
+    "xxh": "2bd02340e451bff8b5e93cdf12424836",
+    "mtime": 1672498996000000000,
+    "size": 19589724
+  },
+  "Professor Cow ~ Vanser/2022/2022_1211_1654_10_344.png": {
+    "xxh": "554aead81dddd9217f4635fa12d05ec1",
+    "mtime": 1672498997000000000,
+    "size": 19985162
+  },
+  "Professor Cow ~ Vanser/2022/2022_1217_0147_52_722.png": {
+    "xxh": "d1b7515cc1845417f8a412a1900c4773",
+    "mtime": 1672498998000000000,
+    "size": 8781665
+  },
+  "Professor Cow ~ Vanser/2022/2022_1222_1630_35_866.png": {
+    "xxh": "05396e5f411ccf597927f16308551ea3",
+    "mtime": 1672498999000000000,
+    "size": 17446957
+  },
+  "Professor Cow ~ Vanser/2022/2022_1222_1702_12_355.png": {
+    "xxh": "ca29a5f05fffdde9043ef2f281030917",
+    "mtime": 1672499000000000000,
+    "size": 17435898
+  },
+  "Professor Cow ~ Vanser/2022/2022_1227_1737_31_388.png": {
+    "xxh": "76c35ec8c9ba61a503fae75ee5ab2482",
+    "mtime": 1672499001000000000,
+    "size": 4733075
+  },
+  "Professor Cow ~ Vanser/2022/2022_1227_1742_16_868.png": {
+    "xxh": "c9294a5b075a9b83cdc3f6941e97e7e4",
+    "mtime": 1672499002000000000,
+    "size": 4721763
+  },
+  "Professor Cow ~ Vanser/2022/2022_1231_1903_26_031.png": {
+    "xxh": "bca7c8b53092ea51c151ff7d4e7f6802",
+    "mtime": 1672499003000000000,
+    "size": 51131527
+  },
+  "Professor Cow ~ Vanser/2023/2023_0106_1859_46_763.png": {
+    "xxh": "404da267e07e116fdc6c7f419f0dcc47",
+    "mtime": 1672499004000000000,
+    "size": 51857087
+  },
+  "Professor Cow ~ Vanser/2023/2023_0109_2005_27_926.png": {
+    "xxh": "e28c06fdd06e270863c8ee8e1c433d1c",
+    "mtime": 1672499005000000000,
+    "size": 49133059
+  },
+  "Professor Cow ~ Vanser/2023/2023_0115_1711_08_518.png": {
+    "xxh": "ae3f5912c97f53014a26ddb1754a4c41",
+    "mtime": 1672499006000000000,
+    "size": 24957898
+  },
+  "Professor Cow ~ Vanser/2023/2023_0115_1738_07_028.png": {
+    "xxh": "99e708e758a20ec5889a0003107c9daf",
+    "mtime": 1672499007000000000,
+    "size": 24959347
+  },
+  "Professor Cow ~ Vanser/2023/2023_0121_2313_34_528.png": {
+    "xxh": "6b2a68de18f6775af32bd45786b411ae",
+    "mtime": 1672499008000000000,
+    "size": 2686080
+  },
+  "Professor Cow ~ Vanser/2023/2023_0127_1927_46_896.png": {
+    "xxh": "e095ad470c9ce51e24ea61d930d663a3",
+    "mtime": 1672499009000000000,
+    "size": 29625493
+  },
+  "Professor Cow ~ Vanser/2023/2023_0203_1827_59_227.png": {
+    "xxh": "36b248ecad9f1388d2c4ca61c53d9c3e",
+    "mtime": 1672499010000000000,
+    "size": 6111502
+  },
+  "Professor Cow ~ Vanser/2023/2023_0203_1907_43_701.png": {
+    "xxh": "335902e7b8bd12ed9a0afd33571c9db9",
+    "mtime": 1672499011000000000,
+    "size": 6407892
+  },
+  "Professor Cow ~ Vanser/2023/2023_0209_1752_34_231.png": {
+    "xxh": "b043f70f0b6ffe6b05e8713208d36392",
+    "mtime": 1672499012000000000,
+    "size": 22698970
+  },
+  "Professor Cow ~ Vanser/2023/2023_0209_2049_47_675.png": {
+    "xxh": "fd4d53d6ed94d6b6569b396aa066e454",
+    "mtime": 1672499013000000000,
+    "size": 22689069
+  },
+  "Professor Cow ~ Vanser/2023/2023_0213_0133_15_620.png": {
+    "xxh": "2a8b1c27dd2fda6d0aee64fb722c0e73",
+    "mtime": 1676280798000000000,
+    "size": 11568239
+  },
+  "Professor Cow ~ Vanser/2023/2023_0216_2330_54_464.png": {
+    "xxh": "2638076b199eaee9489970fef987516d",
+    "mtime": 1672499015000000000,
+    "size": 12102514
+  },
+  "Professor Cow ~ Vanser/2023/2023_0222_1647_44_937.png": {
+    "xxh": "7a1ec4ee3771db1ebf871786598d7bb3",
+    "mtime": 1677113266000000000,
+    "size": 5159643
+  },
+  "Professor Cow ~ Vanser/2023/2023_0222_1730_05_002.png": {
+    "xxh": "591c760618338ecf4690ed445caaf5ed",
+    "mtime": 1672499017000000000,
+    "size": 14247924
+  },
+  "Professor Cow ~ Vanser/2023/2023_0222_1858_05_142.png": {
+    "xxh": "5e0118ab9135be7a8189170dcf026e2f",
+    "mtime": 1672499018000000000,
+    "size": 14243286
+  },
+  "Professor Cow ~ Vanser/2023/2023_0223_2046_30_698.png": {
+    "xxh": "149af467637e47c3425638a6a41c2f42",
+    "mtime": 1672499019000000000,
+    "size": 14674244
+  },
+  "Professor Cow ~ Vanser/2023/2023_0223_2124_33_120.png": {
+    "xxh": "069054ff076f818f75d15e09893a5d34",
+    "mtime": 1672499020000000000,
+    "size": 14135210
+  },
+  "Professor Cow ~ Vanser/2023/2023_0226_1853_22_230.png": {
+    "xxh": "212fcd820d98c7d55f4dc0eb1181b47e",
+    "mtime": 1672499021000000000,
+    "size": 14061220
+  },
+  "Professor Cow ~ Vanser/2023/2023_0226_1855_16_951.png": {
+    "xxh": "21f692d8b064a7037f66fbb1ae2dfc08",
+    "mtime": 1677466518000000000,
+    "size": 5067605
+  },
+  "Professor Cow ~ Vanser/2023/2023_0227_1633_48_825.png": {
+    "xxh": "3d930a058b7b69c17ce668d9e8bcf139",
+    "mtime": 1672499023000000000,
+    "size": 5287083
+  },
+  "Professor Cow ~ Vanser/2023/2023_0227_1634_16_493.png": {
+    "xxh": "1b515ef8e06f91996a9ce08b593baa47",
+    "mtime": 1672499024000000000,
+    "size": 14279709
+  },
+  "Professor Cow ~ Vanser/2023/2023_0302_0031_53_652.png": {
+    "xxh": "1524b28945b96055634abd12faa9109d",
+    "mtime": 1672499025000000000,
+    "size": 14757967
+  },
+  "Professor Cow ~ Vanser/2023/2023_0303_0011_59_276.png": {
+    "xxh": "60bc08e098a0b312375904d6a45e7273",
+    "mtime": 1672499026000000000,
+    "size": 14962605
+  },
+  "Professor Cow ~ Vanser/2023/2023_0303_0026_07_148.png": {
+    "xxh": "70300c6a76e8060f495a95481ad524e1",
+    "mtime": 1672499027000000000,
+    "size": 14253338
+  },
+  "Professor Cow ~ Vanser/2023/2023_0408_2036_47_472.png": {
+    "xxh": "93bc4681a027d20f11c0d9f9f855b123",
+    "mtime": 1681011407911568600,
+    "size": 8103341
+  },
+  "Professor Cow ~ Vanser/2023/2023_0410_2115_06_886.png": {
+    "xxh": "f488072a7e64ae9f4cdc90120a457caf",
+    "mtime": 1681186508000000000,
+    "size": 8065708
+  },
+  "Professor Cow ~ Vanser/2023/2023_0413_1836_20_206.png": {
+    "xxh": "2ab58e68670d978bca2485cbeabfe9f0",
+    "mtime": 1672499030000000000,
+    "size": 8617595
+  },
+  "Professor Cow ~ Vanser/2023/2023_0415_1757_30_865.png": {
+    "xxh": "faac0a432373fa9d783fcfad7d6ad3d6",
+    "mtime": 1672499030000000000,
+    "size": 8800813
+  },
+  "Professor Cow ~ Vanser/2023/2023_0418_2049_41_033.png": {
+    "xxh": "4118cc3adf8fb9ac4a467653b6124f6b",
+    "mtime": 1681876182000000000,
+    "size": 6977300
+  },
+  "Professor Cow ~ Vanser/2023/2023_0422_1924_08_042.png": {
+    "xxh": "a4f6cc215cb5992baf3027cb038d4a02",
+    "mtime": 1672499030000000000,
+    "size": 8142857
+  },
+  "Professor Cow ~ Vanser/2023/2023_0429_1712_42_773.png": {
+    "xxh": "1c8dc48ae6fcf464b3c9485e2eba6f6c",
+    "mtime": 1682813564000000000,
+    "size": 10007268
+  },
+  "Professor Cow ~ Vanser/2023/2023_0501_1607_19_659.png": {
+    "xxh": "44b5afa01717a49d2012d84daecfe4f3",
+    "mtime": 1682982442000000000,
+    "size": 11013896
+  },
+  "Professor Cow ~ Vanser/2023/2023_0507_2026_07_333.png": {
+    "xxh": "f369b39ff1394233b7c70445df80455e",
+    "mtime": 1683516370000000000,
+    "size": 26782164
+  },
+  "Professor Cow ~ Vanser/2023/2023_0507_2048_40_540.png": {
+    "xxh": "d5e335ff6378dd2d110f5d40b48bf649",
+    "mtime": 1683517722000000000,
+    "size": 22778439
+  },
+  "Professor Cow ~ Vanser/2023/2023_0507_2100_03_700.png": {
+    "xxh": "17dc1fff7e00cd0cf6244a67e4c9e4d1",
+    "mtime": 1683518404000000000,
+    "size": 9839739
+  },
+  "Professor Cow ~ Vanser/2023/2023_0510_1731_24_280.png": {
+    "xxh": "f70ade2658d549c81d9c8f7e03308477",
+    "mtime": 1672499031000000000,
+    "size": 11086415
+  },
+  "Professor Cow ~ Vanser/2023/2023_0511_1542_15_913.png": {
+    "xxh": "99dba78aa82c80d4fcf47cfb410e898f",
+    "mtime": 1672499032000000000,
+    "size": 11622869
+  },
+  "Professor Cow ~ Vanser/2023/2023_0512_1832_31_355.png": {
+    "xxh": "1106a8c80534a562558d836b6f603d89",
+    "mtime": 1672499033000000000,
+    "size": 11636777
+  },
+  "Professor Cow ~ Vanser/2023/2023_0512_1900_50_730.png": {
+    "xxh": "c986e7578e7115d3762c1a5b1190c8ec",
+    "mtime": 1672499034000000000,
+    "size": 11116307
+  },
+  "Professor Cow ~ Vanser/2023/2023_0519_1812_00_780.png": {
+    "xxh": "e675fa32991734ef2a82867c41e6a799",
+    "mtime": 1684545122000000000,
+    "size": 17711664
+  },
+  "Professor Cow ~ Vanser/2023/2023_0523_1806_03_698.png": {
+    "xxh": "35d60ecf5fc45d13ee84d64b049f4208",
+    "mtime": 1684890366000000000,
+    "size": 10948940
+  },
+  "Professor Cow ~ Vanser/2023/2023_0531_1706_26_936.png": {
+    "xxh": "17d41ec71866663fb07a5bfbbf86f7a6",
+    "mtime": 1672499037000000000,
+    "size": 11925509
+  },
+  "Professor Cow ~ Vanser/2023/2023_0531_1759_07_007.png": {
+    "xxh": "ea6d0eba1852eb358fb3e15b1f2db06c",
+    "mtime": 1672499038000000000,
+    "size": 11925901
+  },
+  "Professor Cow ~ Vanser/2023/2023_0608_1841_12_321.png": {
+    "xxh": "278ba3e2c74dab67c0627a64d3b3ff5b",
+    "mtime": 1672499039000000000,
+    "size": 52361342
+  },
+  "Professor Cow ~ Vanser/2023/2023_0608_1847_10_033.png": {
+    "xxh": "41bcff5a3999c7da1b0f09ce13eb66dd",
+    "mtime": 1686275232000000000,
+    "size": 52357485
+  },
+  "Professor Cow ~ Vanser/2023/2023_0613_2116_12_441.png": {
+    "xxh": "11798541ab13525422630e48c00dfe4a",
+    "mtime": 1686716174000000000,
+    "size": 5929563
+  },
+  "Professor Cow ~ Vanser/2023/2023_0617_1606_51_160.png": {
+    "xxh": "d94d71e935fbfcd990001099510a2b22",
+    "mtime": 1672499042000000000,
+    "size": 10695664
+  },
+  "Professor Cow ~ Vanser/2023/2023_0622_1740_13_555.png": {
+    "xxh": "c913fd16398c10e4d750c215cdc2ca92",
+    "mtime": 1687480816000000000,
+    "size": 31949149
+  },
+  "Professor Cow ~ Vanser/2023/2023_0626_0345_53_772.png": {
+    "xxh": "87e32a87950881b5b1be68cca8cbc112",
+    "mtime": 1672499044000000000,
+    "size": 29422001
+  },
+  "Professor Cow ~ Vanser/2023/2023_0707_2111_25_543.png": {
+    "xxh": "dbd200320cae1942ee0a5f2f66a0692c",
+    "mtime": 1688789488000000000,
+    "size": 21612355
+  },
+  "Professor Cow ~ Vanser/2023/2023_0712_1707_16_997.png": {
+    "xxh": "e1514a4b17ea3896537cbd389731da04",
+    "mtime": 1689206838000000000,
+    "size": 10548550
+  },
+  "Professor Cow ~ Vanser/2023/2023_0712_1729_58_072.png": {
+    "xxh": "e84b573bce0a553ccca475b0254ae350",
+    "mtime": 1689208200000000000,
+    "size": 9837030
+  },
+  "Professor Cow ~ Vanser/2023/2023_0714_2306_54_907.png": {
+    "xxh": "5e76b927273cf3ee84df4940b8566197",
+    "mtime": 1689401216000000000,
+    "size": 10447277
+  },
+  "Professor Cow ~ Vanser/2023/2023_0722_2052_43_870.png": {
+    "xxh": "cf89515f8bcb08ab9dadc3ba515ea424",
+    "mtime": 1672499049000000000,
+    "size": 29028977
+  },
+  "Professor Cow ~ Vanser/2023/2023_0722_2054_17_757.png": {
+    "xxh": "6ce750dab473e490ee7478488ebd9251",
+    "mtime": 1672499050000000000,
+    "size": 19754724
+  },
+  "Professor Cow ~ Vanser/2023/2023_0722_2101_49_732.png": {
+    "xxh": "90800d49229d3ce4c4b5e6b0e606c8aa",
+    "mtime": 1672499051000000000,
+    "size": 29190531
+  },
+  "Professor Cow ~ Vanser/2023/2023_0729_1737_07_016.png": {
+    "xxh": "6c8bdbe73aeaa8fdba321b1a1a71cc4d",
+    "mtime": 1672499052000000000,
+    "size": 13536416
+  },
+  "Professor Cow ~ Vanser/2023/2023_0807_1738_15_993.png": {
+    "xxh": "942d2c51903a0542a60ec2a8152346dd",
+    "mtime": 1672499053000000000,
+    "size": 24324785
+  },
+  "Professor Cow ~ Vanser/2023/2023_0807_1741_34_897.png": {
+    "xxh": "e313ae934494f9a4723d15304396f7d8",
+    "mtime": 1672499054000000000,
+    "size": 22873108
+  },
+  "Professor Cow ~ Vanser/2023/2023_0807_1742_18_794.png": {
+    "xxh": "277848fb81da4e4befe3793b380644a4",
+    "mtime": 1672499055000000000,
+    "size": 23454937
+  },
+  "Professor Cow ~ Vanser/2023/2023_0807_1809_08_306.png": {
+    "xxh": "64be65b4edc6cf77635b8054ffa886a4",
+    "mtime": 1672499056000000000,
+    "size": 23147068
+  },
+  "Professor Cow ~ Vanser/2023/2023_0812_1923_23_984.png": {
+    "xxh": "ba9c25eebf0a01083a4a6f95d58fa09e",
+    "mtime": 1691893406000000000,
+    "size": 56990365
+  },
+  "Professor Cow ~ Vanser/2023/2023_0819_1904_32_835.png": {
+    "xxh": "7943af7ff29c1eab11dea92d933ba506",
+    "mtime": 1672499058000000000,
+    "size": 57601165
+  },
+  "Professor Cow ~ Vanser/2023/2023_0826_1833_26_720.png": {
+    "xxh": "61e4a0dc6ddf466d76aa0438bd88fe8b",
+    "mtime": 1693100008000000000,
+    "size": 15245557
+  },
+  "Professor Cow ~ Vanser/2023/2023_0828_0031_44_982.png": {
+    "xxh": "efe10ad2d9d85fbd3c19b6fa2e19f925",
+    "mtime": 1693153906000000000,
+    "size": 16492552
+  },
+  "Professor Cow ~ Vanser/2023/2023_0904_1928_18_404.png": {
+    "xxh": "0b5cc226e8fd2df2cef0258a90d99ebe",
+    "mtime": 1693880900000000000,
+    "size": 5696499
+  },
+  "Professor Cow ~ Vanser/2023/2023_0906_1603_16_578.png": {
+    "xxh": "952c7ea9231cebf0b33a870e62a55906",
+    "mtime": 1672499062000000000,
+    "size": 5346266
+  },
+  "Professor Cow ~ Vanser/2023/2023_0908_1836_45_305.png": {
+    "xxh": "528488c2de1566e26eedf30885d13595",
+    "mtime": 1694169406000000000,
+    "size": 5612340
+  },
+  "Professor Cow ~ Vanser/2023/2023_0913_1945_43_533.png": {
+    "xxh": "4a32b16237706961caa7a6e356854306",
+    "mtime": 1694605546000000000,
+    "size": 7227105
+  },
+  "Professor Cow ~ Vanser/2023/2023_0922_2051_40_353.png": {
+    "xxh": "60fcb8362f89caba53b81a9395add7ae",
+    "mtime": 1695441102000000000,
+    "size": 4533679
+  },
+  "Professor Cow ~ Vanser/2023/2023_0929_1828_51_371.png": {
+    "xxh": "cf2e0090ee4691f0709d4b14887a82c1",
+    "mtime": 1695983334000000000,
+    "size": 42415809
+  },
+  "Professor Cow ~ Vanser/2023/2023_0930_2250_10_073.png": {
+    "xxh": "74271d2a1661af19be32cbb12da25c19",
+    "mtime": 1696085412000000000,
+    "size": 9847204
+  },
+  "Professor Cow ~ Vanser/2023/2023_1007_1931_42_680.png": {
+    "xxh": "557232a32d88e93ad3a44024d23b7f9c",
+    "mtime": 1696732304000000000,
+    "size": 15772712
+  },
+  "Professor Cow ~ Vanser/2023/2023_1010_2049_34_004.png": {
+    "xxh": "ab6bda26d834a85aa6729f6e282eca66",
+    "mtime": 1696996176000000000,
+    "size": 16332156
+  },
+  "Professor Cow ~ Vanser/2023/2023_1011_1741_02_504.png": {
+    "xxh": "c8082504e95f595f5e95ef395fc95ef5",
+    "mtime": 1697017264000000000,
+    "size": 16535662
+  },
+  "Professor Cow ~ Vanser/2023/2023_1013_1854_03_104.png": {
+    "xxh": "d0aba1b5ea8b6fbf4da20f13c2abccc1",
+    "mtime": 1697194446000000000,
+    "size": 17359562
+  },
+  "Professor Cow ~ Vanser/2023/2023_1022_2202_57_044.png": {
+    "xxh": "5689ca91fbaaf86b243d9badacb1404c",
+    "mtime": 1672499072000000000,
+    "size": 62090269
+  },
+  "Professor Cow ~ Vanser/2023/2023_1031_2024_00_453.png": {
+    "xxh": "8a4d7f1cbcb998711a205499c6654b97",
+    "mtime": 1698755042000000000,
+    "size": 45015838
+  },
+  "Professor Cow ~ Vanser/2023/2023_1109_1817_41_492.png": {
+    "xxh": "250827ae951b6a4a1ec09337a01c0e29",
+    "mtime": 1699525064000000000,
+    "size": 47371155
+  },
+  "Professor Cow ~ Vanser/2023/2023_1112_2232_02_432.png": {
+    "xxh": "af999f9bfddb92836f57e058d62cd903",
+    "mtime": 1699799526000000000,
+    "size": 56826578
+  },
+  "Professor Cow ~ Vanser/2023/2023_1121_2345_07_372.png": {
+    "xxh": "60228111ff9131a9d5c4ddfbcead94ad",
+    "mtime": 1700581510000000000,
+    "size": 58430846
+  },
+  "Professor Cow ~ Vanser/2023/2023_1130_2042_02_933.png": {
+    "xxh": "1d2f6bd92a345d86488ffdee08dcf1c6",
+    "mtime": 1672499076000000000,
+    "size": 8623338
+  },
+  "Professor Cow ~ Vanser/2023/2023_1205_1905_46_455.png": {
+    "xxh": "fd3ef3221222cf1a5285170c5c5869f4",
+    "mtime": 1701831948000000000,
+    "size": 24852898
+  },
+  "Professor Cow ~ Vanser/2023/2023_1217_2348_42_442.png": {
+    "xxh": "826d148f61640731feda4e22b13ab154",
+    "mtime": 1672499078000000000,
+    "size": 26248090
+  },
+  "Professor Cow ~ Vanser/2023/2023_1221_1857_26_838.png": {
+    "xxh": "33ec1d82fd4594683cfac6d7d1429ead",
+    "mtime": 1703213848000000000,
+    "size": 20983269
+  },
+  "Professor Cow ~ Vanser/2023/2023_1228_2128_33_615.png": {
+    "xxh": "bb8bf6225c35a1b76b13cf8dfbeb938b",
+    "mtime": 1672499080000000000,
+    "size": 22486529
+  },
+  "Professor Cow ~ Vanser/2024/2024_0104_1638_28_141.png": {
+    "xxh": "5f07495c68febbaa1eb4ee5072cb0345",
+    "mtime": 1704415110000000000,
+    "size": 14798180
+  },
+  "Professor Cow ~ Vanser/2024/2024_0108_2225_36_577.png": {
+    "xxh": "260da4c3f87cbabf6db48c2faa34bef8",
+    "mtime": 1704781538000000000,
+    "size": 16027845
+  },
+  "Professor Cow ~ Vanser/2024/2024_0129_2231_36_250.png": {
+    "xxh": "0aba3513dc1d5ea162d676c2cdc90e0a",
+    "mtime": 1706596298000000000,
+    "size": 22330224
+  },
+  "Professor Cow ~ Vanser/2024/2024_0204_0011_22_798.png": {
+    "xxh": "4599e2f729322c86f6533b257fb13f38",
+    "mtime": 1707034284000000000,
+    "size": 14932669
+  },
+  "Professor Cow ~ Vanser/2024/2024_0205_2111_01_833.png": {
+    "xxh": "2bdf07cb675e1552db108e8e8d7d9d0e",
+    "mtime": 1707196264000000000,
+    "size": 14464304
+  },
+  "Professor Cow ~ Vanser/2024/2024_0207_2205_06_460.png": {
+    "xxh": "f72a536d83116cb254b68afe1fdfba97",
+    "mtime": 1707372308000000000,
+    "size": 16473023
+  },
+  "Professor Cow ~ Vanser/2024/2024_0211_2348_52_788.png": {
+    "xxh": "ebdf63b4c57e6cc33297d801ecd2a8ca",
+    "mtime": 1707724134000000000,
+    "size": 15242785
+  },
+  "Professor Cow ~ Vanser/2024/2024_0212_0037_28_625.png": {
+    "xxh": "d9f9c726d29b452d47bcebf5ee9ec845",
+    "mtime": 1707727050000000000,
+    "size": 14425306
+  },
+  "Professor Cow ~ Vanser/2024/2024_0215_1804_21_135.png": {
+    "xxh": "540cf2f21405db9df8753ed76e4ca854",
+    "mtime": 1708049062000000000,
+    "size": 14629290
+  },
+  "Professor Cow ~ Vanser/2024/2024_0220_1450_20_997.png": {
+    "xxh": "3094bb23b9225ad3c63a0712f9c58859",
+    "mtime": 1708469422000000000,
+    "size": 15014181
+  },
+  "Professor Cow ~ Vanser/2024/2024_0220_1512_28_018.png": {
+    "xxh": "f28ac2d457935915382d50dba42a9a7c",
+    "mtime": 1708470750000000000,
+    "size": 14857122
+  },
+  "Professor Cow ~ Vanser/2024/2024_0220_1732_34_042.png": {
+    "xxh": "a67cd06b0fa842f5296ed4ab7944d4ee",
+    "mtime": 1708479156000000000,
+    "size": 15146969
+  },
+  "Professor Cow ~ Vanser/2024/2024_0220_1851_37_017.png": {
+    "xxh": "b5b82b2a34030aada9c09b8f8211c0ba",
+    "mtime": 1708483898000000000,
+    "size": 14452333
+  },
+  "Professor Cow ~ Vanser/2024/2024_0229_1928_39_303.png": {
+    "xxh": "e4451b05e39dbaa93168efcba6ad13c1",
+    "mtime": 1709263720000000000,
+    "size": 33557131
+  },
+  "Professor Cow ~ Vanser/2024/2024_0229_2224_58_074.png": {
+    "xxh": "0707b65eaebd2ff5d4721c06cc95ec50",
+    "mtime": 1709274300000000000,
+    "size": 33635792
+  },
+  "Professor Cow ~ Vanser/2024/2024_0307_1831_25_575.png": {
+    "xxh": "851fb4022333bb292d3a0b5b70ea4c5d",
+    "mtime": 1709807486000000000,
+    "size": 20195993
+  },
+  "Professor Cow ~ Vanser/2024/2024_0310_1909_54_030.png": {
+    "xxh": "0652b541db4c533221b464290f77c9f8",
+    "mtime": 1710065396000000000,
+    "size": 20668322
+  },
+  "Professor Cow ~ Vanser/2024/2024_0312_2311_40_127.png": {
+    "xxh": "4d8b1ea40c10895181328e2a3af48365",
+    "mtime": 1710252702000000000,
+    "size": 20369200
+  },
+  "Professor Cow ~ Vanser/2024/2024_0314_1910_18_340.png": {
+    "xxh": "76c54dbc659abb067a1c94d467f66b29",
+    "mtime": 1710411020000000000,
+    "size": 20753744
+  },
+  "Professor Cow ~ Vanser/2024/2024_0314_2052_10_118.png": {
+    "xxh": "8bdde89c14f81e4fb31e2c60840da053",
+    "mtime": 1710417132000000000,
+    "size": 20143949
+  },
+  "Professor Cow ~ Vanser/2024/2024_0317_2336_02_690.png": {
+    "xxh": "d0442e0625160d00c86b03f6ce41caf0",
+    "mtime": 1710686164000000000,
+    "size": 17375935
+  },
+  "Professor Cow ~ Vanser/2024/2024_0318_0013_02_527.png": {
+    "xxh": "1c66584f479c72ed8ef2ed74e0141a8a",
+    "mtime": 1710688384000000000,
+    "size": 17182355
+  },
+  "Professor Cow ~ Vanser/2024/2024_0319_2357_43_833.png": {
+    "xxh": "ddf5aca16b5531836439a55448f3c3e4",
+    "mtime": 1710860266000000000,
+    "size": 13643134
+  },
+  "Professor Cow ~ Vanser/2024/2024_0320_2313_27_919.png": {
+    "xxh": "ec16c8f41bf58e8b4beac889d0202d2b",
+    "mtime": 1710944010000000000,
+    "size": 14507100
+  },
+  "Professor Cow ~ Vanser/2024/2024_0323_1748_10_113.png": {
+    "xxh": "a31d7efc35260ad28623fa0c06314089",
+    "mtime": 1711183692000000000,
+    "size": 13824994
+  },
+  "Professor Cow ~ Vanser/2024/2024_0323_1807_42_165.png": {
+    "xxh": "a0a10fad9a8c497b1150f4e23bd56692",
+    "mtime": 1711184864000000000,
+    "size": 13867134
+  },
+  "Professor Cow ~ Vanser/2024/2024_0323_2047_54_951.png": {
+    "xxh": "3c8c04871aacd653a01661f4fe58d217",
+    "mtime": 1711194476000000000,
+    "size": 14034242
+  },
+  "Professor Cow ~ Vanser/2024/2024_0323_2057_17_193.png": {
+    "xxh": "a4d1c133002a009f97eeec7ed5b7983f",
+    "mtime": 1711195038000000000,
+    "size": 14058889
+  },
+  "Professor Cow ~ Vanser/2024/2024_0328_2329_39_598.png": {
+    "xxh": "3440ead2f105537dd7ff3afa51b649d0",
+    "mtime": 1711636182000000000,
+    "size": 37946263
+  },
+  "Professor Cow ~ Vanser/2024/2024_0329_2144_36_521.png": {
+    "xxh": "fb33c7919a8ab64e1b124fe5e106d4c3",
+    "mtime": 1711716278000000000,
+    "size": 37962051
+  },
+  "Professor Cow ~ Vanser/2024/2024_0404_2235_55_936.png": {
+    "xxh": "f40b23affdef9ed81fe8ecca05243dff",
+    "mtime": 1712237758000000000,
+    "size": 11091902
+  },
+  "Professor Cow ~ Vanser/2024/2024_0404_2241_21_357.png": {
+    "xxh": "ab721d5ee3a469eaa596b7679e5f5967",
+    "mtime": 1712238082000000000,
+    "size": 11095143
+  },
+  "Professor Cow ~ Vanser/2024/2024_0405_1918_07_534.png": {
+    "xxh": "d225dbbb3f14f3d841003708554da4e4",
+    "mtime": 1712312288000000000,
+    "size": 23646151
+  },
+  "Professor Cow ~ Vanser/2024/2024_0405_2038_06_840.png": {
+    "xxh": "c4840a120537f7ec2388af3083f89514",
+    "mtime": 1712317088000000000,
+    "size": 23736133
+  },
+  "Professor Cow ~ Vanser/2024/2024_0405_2115_23_799.png": {
+    "xxh": "fe3714109b21bc02029802d07b170d68",
+    "mtime": 1712319326000000000,
+    "size": 23751821
+  },
+  "Professor Cow ~ Vanser/2024/2024_0405_2235_38_656.png": {
+    "xxh": "9eefd7c1bf5fec7edd9d620bbd430105",
+    "mtime": 1712324140000000000,
+    "size": 23800930
+  },
+  "Professor Cow ~ Vanser/2024/2024_0406_0036_06_188.png": {
+    "xxh": "312d555bdb7f6f32729a4c3fb0ef931f",
+    "mtime": 1712331368000000000,
+    "size": 24004492
+  },
+  "Professor Cow ~ Vanser/2024/2024_0406_0214_55_173.png": {
+    "xxh": "7965975b941f4ec7ecf0e9d1410d9392",
+    "mtime": 1712337296000000000,
+    "size": 23616870
+  },
+  "Professor Cow ~ Vanser/2024/2024_0406_1641_11_152.png": {
+    "xxh": "f2b5eca6d2430eadc183bb022b518007",
+    "mtime": 1712389272000000000,
+    "size": 38636194
+  },
+  "Professor Cow ~ Vanser/2024/2024_0407_2204_37_833.png": {
+    "xxh": "2ba6614151ed7358b8d5d1b6dc218f8b",
+    "mtime": 1712495080000000000,
+    "size": 107480622
+  },
+  "Professor Cow ~ Vanser/2024/2024_0408_1855_34_197.png": {
+    "xxh": "b86aaff905d7ec9bb39ebf763a4f0bb4",
+    "mtime": 1712570136000000000,
+    "size": 108792581
+  },
+  "Professor Cow ~ Vanser/2024/2024_0409_2141_32_250.png": {
+    "xxh": "d25914b1612ac0ece8f4e137f4dfbc8b",
+    "mtime": 1712666494000000000,
+    "size": 108930927
+  },
+  "Professor Cow ~ Vanser/2024/2024_0416_1830_29_046.png": {
+    "xxh": "cd8ae5e1dc91d8cca2df850cd959708f",
+    "mtime": 1713259830000000000,
+    "size": 29848647
+  },
+  "Professor Cow ~ Vanser/2024/2024_0417_0218_45_710.png": {
+    "xxh": "701a35f0dd073081ea20910a46c47d1a",
+    "mtime": 1713287928000000000,
+    "size": 43130665
+  },
+  "Professor Cow ~ Vanser/2024/2024_0417_1643_00_358.png": {
+    "xxh": "cfcba198e2ec306692fc91049128bb3a",
+    "mtime": 1713339782000000000,
+    "size": 43146888
+  },
+  "Professor Cow ~ Vanser/2024/2024_0417_1708_52_552.png": {
+    "xxh": "9d7a8fe86ea905b8a737b0bd355de97a",
+    "mtime": 1713341334000000000,
+    "size": 43149588
+  },
+  "Professor Cow ~ Vanser/2024/2024_0417_1937_11_522.png": {
+    "xxh": "2ec36f418c8ed9118ffc00f55214210f",
+    "mtime": 1713350234000000000,
+    "size": 47843093
+  },
+  "Professor Cow ~ Vanser/2024/2024_0417_2156_17_927.png": {
+    "xxh": "154a5bce6d936f1fbd84e1ff572c754c",
+    "mtime": 1713358580000000000,
+    "size": 47847391
+  },
+  "Professor Cow ~ Vanser/2024/2024_0418_1552_28_517.png": {
+    "xxh": "e4d5618b3edf0c89e855ed8c898580cd",
+    "mtime": 1713423150000000000,
+    "size": 47837391
+  },
+  "Professor Cow ~ Vanser/2024/2024_0418_1608_12_192.png": {
+    "xxh": "999f238b9a1fe66bfb6267c369db23f1",
+    "mtime": 1713424094000000000,
+    "size": 47838489
+  },
+  "Professor Cow ~ Vanser/2024/2024_0418_1623_21_779.png": {
+    "xxh": "f19550453615bd4d847e43ae2c4c122c",
+    "mtime": 1713425004000000000,
+    "size": 47838215
+  },
+  "Professor Cow ~ Vanser/2024/2024_0418_1842_40_311.png": {
+    "xxh": "c25e470dba1b9fdd01928ef340d0cdf2",
+    "mtime": 1713433362000000000,
+    "size": 47924926
+  },
+  "Professor Cow ~ Vanser/2024/2024_0418_1929_59_721.png": {
+    "xxh": "8914ea3334f3428ee41de04be6556087",
+    "mtime": 1713436202000000000,
+    "size": 48303908
+  },
+  "Professor Cow ~ Vanser/2024/2024_0419_2219_57_815.png": {
+    "xxh": "c6f599042376bd0d01308285f9b95af8",
+    "mtime": 1713532800000000000,
+    "size": 48042888
+  },
+  "Professor Cow ~ Vanser/2024/2024_0421_0256_55_574.png": {
+    "xxh": "c9b7144bd8848fe4bd766b9ac6b67fea",
+    "mtime": 1713635818000000000,
+    "size": 48662801
+  },
+  "Professor Cow ~ Vanser/2024/2024_0421_1907_30_405.png": {
+    "xxh": "352a046517edea2eedc12a8c009f4be9",
+    "mtime": 1713694052000000000,
+    "size": 49241145
+  },
+  "Professor Cow ~ Vanser/2024/2024_0426_1850_33_834.png": {
+    "xxh": "3b3509133986ca126ecf89c56628b428",
+    "mtime": 1714125036000000000,
+    "size": 48648306
+  },
+  "Professor Cow ~ Vanser/2024/2024_0426_1907_11_463.png": {
+    "xxh": "c0b321763c1cb3ede8164b4f76418190",
+    "mtime": 1714126034000000000,
+    "size": 48307169
+  },
+  "Professor Cow ~ Vanser/2024/2024_0427_1823_14_658.png": {
+    "xxh": "a66b2bd8bd3f4f96173c50de61369935",
+    "mtime": 1714209796000000000,
+    "size": 48297711
+  },
+  "Professor Cow ~ Vanser/2024/2024_0427_1914_47_121.png": {
+    "xxh": "73c4501e270ebb6c1b3180c5f7e34549",
+    "mtime": 1714212888000000000,
+    "size": 48194378
+  },
+  "Professor Cow ~ Vanser/2024/2024_0504_1830_43_008.png": {
+    "xxh": "b431a75cff3f4fb5edfe84852c6b3c3c",
+    "mtime": 1714815044000000000,
+    "size": 55153765
+  },
+  "Professor Cow ~ Vanser/2024/2024_0507_1921_42_779.png": {
+    "xxh": "ef3d582c7a9a8bd8ab828d13f9e77b5e",
+    "mtime": 1715134904000000000,
+    "size": 24145673
+  },
+  "Professor Cow ~ Vanser/2024/2024_0507_1928_31_225.png": {
+    "xxh": "d9fbf9c17f87116debf5c76348de47e5",
+    "mtime": 1715135312000000000,
+    "size": 24136652
+  },
+  "Professor Cow ~ Vanser/2024/2024_0508_1745_59_038.png": {
+    "xxh": "e485b0d2166f004e6f05cfa1bc9571f6",
+    "mtime": 1715215560000000000,
+    "size": 26641433
+  },
+  "Professor Cow ~ Vanser/2024/2024_0508_2216_06_892.png": {
+    "xxh": "8232ac57e8093f925fb464c32c07373f",
+    "mtime": 1715231768000000000,
+    "size": 25953972
+  },
+  "Professor Cow ~ Vanser/2024/2024_0510_0029_58_898.png": {
+    "xxh": "015e31e98540f17e86829974ceb8970e",
+    "mtime": 1715326200000000000,
+    "size": 26048963
+  },
+  "Professor Cow ~ Vanser/2024/2024_0510_2241_12_102.png": {
+    "xxh": "f5f970cb7909733e912082d85b80d09e",
+    "mtime": 1715406074000000000,
+    "size": 27034582
+  },
+  "Professor Cow ~ Vanser/2024/2024_0511_1905_19_415.png": {
+    "xxh": "aee350e1837593f75e389043e573ebbe",
+    "mtime": 1715479520000000000,
+    "size": 27014636
+  },
+  "Professor Cow ~ Vanser/2024/2024_0514_1904_46_355.png": {
+    "xxh": "1f8bec45360a7c970b042b2ca9aa0932",
+    "mtime": 1715738688000000000,
+    "size": 28012171
+  },
+  "Professor Cow ~ Vanser/2024/2024_0515_2252_19_390.png": {
+    "xxh": "b9a37fbe8d407616d1d39dc3e764389d",
+    "mtime": 1715838740000000000,
+    "size": 28015064
+  },
+  "Professor Cow ~ Vanser/2024/2024_0519_1800_14_386.png": {
+    "xxh": "d12aeaad6fe736c1dee4704f0495496c",
+    "mtime": 1716166816000000000,
+    "size": 25147079
+  },
+  "Professor Cow ~ Vanser/2024/2024_0520_1751_57_281.png": {
+    "xxh": "4e1518b4df7a4f97f6a017739dc13bb5",
+    "mtime": 1716252718000000000,
+    "size": 25301770
+  },
+  "Professor Cow ~ Vanser/2024/2024_0522_1758_26_113.png": {
+    "xxh": "1599e95d857014a1fa5d4bed76eaacf1",
+    "mtime": 1716425908000000000,
+    "size": 26541755
+  },
+  "Professor Cow ~ Vanser/2024/2024_0524_2118_47_520.png": {
+    "xxh": "e3582397774fbaeb4444955e98e42223",
+    "mtime": 1716610730000000000,
+    "size": 28837031
+  },
+  "Professor Cow ~ Vanser/2024/2024_0524_2223_52_447.png": {
+    "xxh": "54e0f6fede94d86ee253e460d841ef79",
+    "mtime": 1716614634000000000,
+    "size": 28769538
+  },
+  "Professor Cow ~ Vanser/2024/2024_0524_2340_34_944.png": {
+    "xxh": "ca0d86776f796a6bfcca1eddfe619f81",
+    "mtime": 1716619236000000000,
+    "size": 28832285
+  },
+  "Professor Cow ~ Vanser/2024/2024_0604_0055_21_197.png": {
+    "xxh": "e69bc990bbe8e06501fb0e43b08531bb",
+    "mtime": 1717487722000000000,
+    "size": 11046304
+  },
+  "Professor Cow ~ Vanser/2024/2024_0604_0258_15_417.png": {
+    "xxh": "d427fdf3f9e2df8eb070e7a3533bfb59",
+    "mtime": 1717495096000000000,
+    "size": 7150309
+  },
+  "Professor Cow ~ Vanser/2024/2024_0607_0255_04_308.png": {
+    "xxh": "6b11a7c3850da282cac829e7957ea109",
+    "mtime": 1717754106000000000,
+    "size": 114630046
+  },
+  "Professor Cow ~ Vanser/2024/2024_0607_0348_55_301.png": {
+    "xxh": "193045c25feb9c20034e10437f7da47f",
+    "mtime": 1717757338000000000,
+    "size": 114770818
+  },
+  "Professor Cow ~ Vanser/2024/2024_0607_2123_34_548.png": {
+    "xxh": "7b01f14fc54bb230a8f193c1158fca72",
+    "mtime": 1717820616000000000,
+    "size": 114819177
+  },
+  "Professor Cow ~ Vanser/2024/2024_0608_0055_42_324.png": {
+    "xxh": "0250566ffce50f6ecfef33a788ced3c6",
+    "mtime": 1717833344000000000,
+    "size": 114881427
+  },
+  "Professor Cow ~ Vanser/2024/2024_0608_2332_43_990.png": {
+    "xxh": "d7b14b88ff43ce7453df2c4c097b5d72",
+    "mtime": 1717914766000000000,
+    "size": 115370202
+  },
+  "Professor Cow ~ Vanser/2024/2024_0610_1710_34_634.png": {
+    "xxh": "0579cc66f8ef9c3f54de99dbe2aff0b8",
+    "mtime": 1718064636000000000,
+    "size": 116002808
+  },
+  "Professor Cow ~ Vanser/2024/2024_0610_1817_36_041.png": {
+    "xxh": "b568586c84d28f4cd7bfeb1c8f7dc7ba",
+    "mtime": 1718068658000000000,
+    "size": 116126376
+  },
+  "Professor Cow ~ Vanser/2024/2024_0610_1852_49_978.png": {
+    "xxh": "97a9fad5aeed5650ff38f6b9be8c633e",
+    "mtime": 1718070772000000000,
+    "size": 116140958
+  },
+  "Professor Cow ~ Vanser/2024/2024_0614_1907_38_805.png": {
+    "xxh": "34c9196431b2a72143303c16bc446450",
+    "mtime": 1718417260000000000,
+    "size": 105934209
+  },
+  "Professor Cow ~ Vanser/2024/2024_0618_0304_44_317.png": {
+    "xxh": "db18bd336bedbcfcb270424f997c9775",
+    "mtime": 1718705086000000000,
+    "size": 106655676
+  },
+  "Professor Cow ~ Vanser/2024/2024_0618_2338_24_668.png": {
+    "xxh": "c941c2d15393635cd9b76030cbcadd35",
+    "mtime": 1718779106000000000,
+    "size": 106896726
+  },
+  "Professor Cow ~ Vanser/2024/2024_0621_2140_01_963.png": {
+    "xxh": "d6888d1565e4bf7b6adb09990307cdb1",
+    "mtime": 1719031204000000000,
+    "size": 107226582
+  },
+  "Professor Cow ~ Vanser/2024/2024_0623_1939_52_204.png": {
+    "xxh": "a7012e23d1ae8236ff2b69eb16ad8a30",
+    "mtime": 1719196794000000000,
+    "size": 108354742
+  },
+  "Professor Cow ~ Vanser/2024/2024_0625_0033_12_238.png": {
+    "xxh": "ccf73254939dfe447c199d5776fe04e7",
+    "mtime": 1719300794000000000,
+    "size": 107301871
+  },
+  "Professor Cow ~ Vanser/2024/2024_0630_0111_35_231.png": {
+    "xxh": "f4ec803e946e89ad2e82778be044a3d1",
+    "mtime": 1719735096000000000,
+    "size": 64070870
+  },
+  "Professor Cow ~ Vanser/2024/2024_0702_1734_42_268.png": {
+    "xxh": "5e94c0f19e5546357f2706ef9dbdab25",
+    "mtime": 1719966884000000000,
+    "size": 68053310
+  },
+  "Professor Cow ~ Vanser/2024/2024_0704_1926_17_215.png": {
+    "xxh": "55a263f345b7076a2a19d3a16b0bc065",
+    "mtime": 1720146378000000000,
+    "size": 68304185
+  },
+  "Professor Cow ~ Vanser/2024/2024_0707_2128_51_840.png": {
+    "xxh": "7d24a5d171acc773c73f687f3b6410db",
+    "mtime": 1720412934000000000,
+    "size": 68442953
+  },
+  "Professor Cow ~ Vanser/2024/2024_0713_2223_00_837.png": {
+    "xxh": "f2216ce40ed0a97ede34767b0446f338",
+    "mtime": 1720934582000000000,
+    "size": 55058421
+  },
+  "Professor Cow ~ Vanser/2024/2024_0715_1943_25_016.png": {
+    "xxh": "b2b1cdb1219350de230c95b106a05710",
+    "mtime": 1721097806000000000,
+    "size": 56418572
+  },
+  "Professor Cow ~ Vanser/2024/2024_0717_1813_18_978.png": {
+    "xxh": "414719c36c2e5ca397cf7cf55195b778",
+    "mtime": 1721265200000000000,
+    "size": 56794186
+  },
+  "Professor Cow ~ Vanser/2024/2024_0722_0240_46_846.png": {
+    "xxh": "85ac9f548426129912a62ee3403c7864",
+    "mtime": 1721641248000000000,
+    "size": 13458740
+  },
+  "Professor Cow ~ Vanser/2024/2024_0722_1908_27_614.png": {
+    "xxh": "ff02981533379247596096f5c2b40bf5",
+    "mtime": 1721700510000000000,
+    "size": 14359411
+  },
+  "Professor Cow ~ Vanser/2024/2024_0723_1611_35_728.png": {
+    "xxh": "fddb64955a55fc48bb6a6c29f5929f83",
+    "mtime": 1721776298000000000,
+    "size": 14919921
+  },
+  "Professor Cow ~ Vanser/2024/2024_0726_1730_29_794.png": {
+    "xxh": "afa1aa45f09faa36a35ad8c47737e77c",
+    "mtime": 1722040230000000000,
+    "size": 15269011
+  },
+  "Professor Cow ~ Vanser/2024/2024_0727_1920_20_195.png": {
+    "xxh": "9c627feabf2ce10218130a1987061b44",
+    "mtime": 1722133222000000000,
+    "size": 15760281
+  },
+  "Professor Cow ~ Vanser/2024/2024_0729_1730_24_947.png": {
+    "xxh": "dc0ae02b945a6f9a42f8baed3e201c0c",
+    "mtime": 1722299426000000000,
+    "size": 14771454
+  },
+  "Professor Cow ~ Vanser/2024/2024_0731_1909_28_661.png": {
+    "xxh": "5c08fb13ecf8c46d9cc0b76c21e0b1ce",
+    "mtime": 1722478170000000000,
+    "size": 15035339
+  },
+  "Professor Cow ~ Vanser/2024/2024_0801_1822_24_774.png": {
+    "xxh": "b56e514010d34e6fc13b90eae3d97887",
+    "mtime": 1722561746000000000,
+    "size": 14987920
+  },
+  "Professor Cow ~ Vanser/2024/2024_0801_1841_38_022.png": {
+    "xxh": "bdd4a9b79bbf019ec15d1b94eab04d01",
+    "mtime": 1722562900000000000,
+    "size": 14480027
+  },
+  "Professor Cow ~ Vanser/2024/2024_0802_2044_48_838.png": {
+    "xxh": "69f5b9730c46223d83afdf73b83002ad",
+    "mtime": 1722656690000000000,
+    "size": 15073074
+  },
+  "Professor Cow ~ Vanser/2024/2024_0802_2046_19_332.png": {
+    "xxh": "bfe67c0fb337f4be875779a221506bbb",
+    "mtime": 1722656780000000000,
+    "size": 14854775
+  },
+  "Professor Cow ~ Vanser/2024/2024_0803_1704_16_045.png": {
+    "xxh": "74436aa9963b865ee8f84eb349146dbc",
+    "mtime": 1722729858000000000,
+    "size": 15747417
+  },
+  "Professor Cow ~ Vanser/2024/2024_0805_1814_33_872.png": {
+    "xxh": "0d664b581ffaeb76555d7b62daf432e7",
+    "mtime": 1722906876000000000,
+    "size": 15624187
+  },
+  "Professor Cow ~ Vanser/2024/2024_0807_1732_52_622.png": {
+    "xxh": "82bf3d425e66d78a7ecfe5f106b99688",
+    "mtime": 1723077174000000000,
+    "size": 16184731
+  },
+  "Professor Cow ~ Vanser/2024/2024_0808_1724_20_699.png": {
+    "xxh": "dc279e4c723630e803653f23316a7ed5",
+    "mtime": 1723163062000000000,
+    "size": 14957437
+  },
+  "Professor Cow ~ Vanser/2024/2024_0815_1853_33_088.png": {
+    "xxh": "63a2a567547f3eacd491fb97ad4b8a10",
+    "mtime": 1723773214000000000,
+    "size": 19527700
+  },
+  "Professor Cow ~ Vanser/2024/2024_0817_1719_03_054.png": {
+    "xxh": "64d0fa05a1075137b709d71be0d88de9",
+    "mtime": 1723940344000000000,
+    "size": 18496211
+  },
+  "Professor Cow ~ Vanser/2024/2024_0817_1750_47_935.png": {
+    "xxh": "1e44271e5cf39bd2a9349c4721c09f1b",
+    "mtime": 1723942250000000000,
+    "size": 18529234
+  },
+  "Professor Cow ~ Vanser/2024/2024_0818_1643_46_674.png": {
+    "xxh": "6f0b72cc70679a22ad0e9f67000e0dba",
+    "mtime": 1724024628000000000,
+    "size": 14247992
+  },
+  "Professor Cow ~ Vanser/2024/2024_0818_1707_13_544.png": {
+    "xxh": "2a57e569590f93b524a6dca5d04dd8c7",
+    "mtime": 1724026036000000000,
+    "size": 14228143
+  },
+  "Professor Cow ~ Vanser/2024/2024_0818_1821_33_873.png": {
+    "xxh": "f41eed596629d50775cf37f38279e32f",
+    "mtime": 1724030496000000000,
+    "size": 14302204
+  },
+  "Professor Cow ~ Vanser/2024/2024_0818_1831_44_042.png": {
+    "xxh": "1d704c0e5bfb2e600a60588692ff3dd7",
+    "mtime": 1724031106000000000,
+    "size": 8288719
+  },
+  "Professor Cow ~ Vanser/2024/2024_0819_1719_58_551.png": {
+    "xxh": "53936c81194fc6b5c653e5a167e579ee",
+    "mtime": 1724113200000000000,
+    "size": 12824186
+  },
+  "Professor Cow ~ Vanser/2024/2024_0819_1738_27_784.png": {
+    "xxh": "c7e437f458708d1d8f9d11adf0797c1b",
+    "mtime": 1724114308000000000,
+    "size": 12756170
+  },
+  "Professor Cow ~ Vanser/2024/2024_0819_1907_35_707.png": {
+    "xxh": "8d0d82b9a59c33ddb6b4ab5c5841ad69",
+    "mtime": 1724119656000000000,
+    "size": 13079537
+  },
+  "Professor Cow ~ Vanser/2024/2024_0820_0219_41_736.png": {
+    "xxh": "66fd09e196496d69404a7d1763f65100",
+    "mtime": 1724145582000000000,
+    "size": 12998583
+  },
+  "Professor Cow ~ Vanser/2024/2024_0820_1910_23_801.png": {
+    "xxh": "86661e73380308a5ea08fd253feb441b",
+    "mtime": 1724206224000000000,
+    "size": 13586308
+  },
+  "Professor Cow ~ Vanser/2024/2024_0820_2306_11_019.png": {
+    "xxh": "31db4b79f272b209d95a71400b2cc532",
+    "mtime": 1724220372000000000,
+    "size": 1430886
+  },
+  "Professor Cow ~ Vanser/2024/2024_0820_2341_42_143.png": {
+    "xxh": "087c5dc5ff671c5e1d5f05d74d315cef",
+    "mtime": 1724222504000000000,
+    "size": 13734631
+  },
+  "Professor Cow ~ Vanser/2024/2024_0821_2226_02_224.png": {
+    "xxh": "1c3b929f3363a34134f7a821e2124603",
+    "mtime": 1724304364000000000,
+    "size": 13688926
+  },
+  "Professor Cow ~ Vanser/2024/2024_0828_1929_44_641.png": {
+    "xxh": "7e04d64829d52ed1974e84a78b3888c8",
+    "mtime": 1724898586000000000,
+    "size": 12258764
+  },
+  "Professor Cow ~ Vanser/2024/2024_0902_1722_13_840.png": {
+    "xxh": "0e8b5bbead734f778513cda2d4fea706",
+    "mtime": 1725322934000000000,
+    "size": 15826221
+  },
+  "Professor Cow ~ Vanser/2024/2024_0903_0332_25_873.png": {
+    "xxh": "f86eac5bb3b1d41a46271eadfd28dfdf",
+    "mtime": 1725359548000000000,
+    "size": 17784629
+  },
+  "Professor Cow ~ Vanser/2024/2024_0904_0141_11_306.png": {
+    "xxh": "616e791047a5218e0c2d38efbb32eff1",
+    "mtime": 1725439272000000000,
+    "size": 18677237
+  },
+  "Professor Cow ~ Vanser/2024/2024_0905_1706_54_077.png": {
+    "xxh": "ab26c05e187be3e6f352d23ac7ba71c8",
+    "mtime": 1725581216000000000,
+    "size": 43416703
+  },
+  "Professor Cow ~ Vanser/2024/2024_0905_1832_23_633.png": {
+    "xxh": "fdfa36a4e5ddde21db6787111b42a98a",
+    "mtime": 1725586346000000000,
+    "size": 120725992
+  },
+  "Professor Cow ~ Vanser/2024/2024_0906_1734_43_868.png": {
+    "xxh": "4de607d21e26bd176b7ae96a1766d182",
+    "mtime": 1725669288000000000,
+    "size": 432566249
+  },
+  "Professor Cow ~ Vanser/2024/2024_0907_1854_18_572.png": {
+    "xxh": "121743b227343105ac478b43c8dba79d",
+    "mtime": 1725760468000000000,
+    "size": 846639687
+  },
+  "Professor Cow ~ Vanser/2024/2024_0908_2143_42_792.png": {
+    "xxh": "b067a3018d393e42e8ad338d829fbc1d",
+    "mtime": 1725857044000000000,
+    "size": 846884308
+  },
+  "Professor Cow ~ Vanser/2024/2024_0909_0145_55_787.png": {
+    "xxh": "807d0f098ca674d1f3b239309ce67fe8",
+    "mtime": 1725871558000000000,
+    "size": 17447710
+  },
+  "Professor Cow ~ Vanser/2024/2024_0909_2318_19_157.png": {
+    "xxh": "29abc5cf3ca56f8df9fe361b80f714e4",
+    "mtime": 1725949100000000000,
+    "size": 17909279
+  },
+  "Professor Cow ~ Vanser/2024/2024_0909_2331_27_064.png": {
+    "xxh": "97589c0356236617b5a19107588497a9",
+    "mtime": 1725949888000000000,
+    "size": 18086475
+  },
+  "Professor Cow ~ Vanser/2024/2024_0910_2313_45_309.png": {
+    "xxh": "fa01c44fe016bd407bf34fb076d1d089",
+    "mtime": 1726035228000000000,
+    "size": 18484723
+  },
+  "Professor Cow ~ Vanser/2024/2024_0912_2218_53_098.png": {
+    "xxh": "27817c8da406e14e7914cf4a5c0c7e88",
+    "mtime": 1726204734000000000,
+    "size": 18793828
+  },
+  "Professor Cow ~ Vanser/2024/2024_0913_1800_39_194.png": {
+    "xxh": "f540f443740ef850bff12eeaef51f5dc",
+    "mtime": 1726275640000000000,
+    "size": 17749089
+  },
+  "Professor Cow ~ Vanser/2024/2024_0918_1728_55_304.png": {
+    "xxh": "867817d6ceb6f052bbf2d373848654c0",
+    "mtime": 1726705736000000000,
+    "size": 5192410
+  },
+  "Professor Cow ~ Vanser/2024/2024_0919_0206_52_474.png": {
+    "xxh": "a7360a0b1fc81be93ee98e4a433214cd",
+    "mtime": 1726736814000000000,
+    "size": 5209531
+  },
+  "Professor Cow ~ Vanser/2024/2024_0919_1619_05_526.png": {
+    "xxh": "e68c09f5fccab5f34b3b683352bb86f5",
+    "mtime": 1726787946000000000,
+    "size": 5497128
+  },
+  "Professor Cow ~ Vanser/2024/2024_0919_1917_13_555.png": {
+    "xxh": "03ac3b98c8ed6e3e42ee356c645ecbd4",
+    "mtime": 1726798634000000000,
+    "size": 5773975
+  },
+  "Professor Cow ~ Vanser/2024/2024_0920_1823_48_294.png": {
+    "xxh": "cca82fd9a48d869d32c2f387ddb1c9cd",
+    "mtime": 1726881830000000000,
+    "size": 5727413
+  },
+  "Professor Cow ~ Vanser/2024/2024_0924_0115_55_506.png": {
+    "xxh": "1c540f174875c4670debbcf8dccf61ae",
+    "mtime": 1727165758000000000,
+    "size": 30407553
+  },
+  "Professor Cow ~ Vanser/2024/2024_0924_1932_41_395.png": {
+    "xxh": "9f1d2bcfcfcc3dfb2292b1a60690a289",
+    "mtime": 1727231564000000000,
+    "size": 33309317
+  },
+  "Professor Cow ~ Vanser/2024/2024_0924_2204_24_900.png": {
+    "xxh": "1f2a51883be0628f12d5399fc8b475e6",
+    "mtime": 1727240666000000000,
+    "size": 33489137
+  },
+  "Professor Cow ~ Vanser/2024/2024_0924_2216_27_399.png": {
+    "xxh": "028aa9ff1c8fcc75a933b1b0dacbeb40",
+    "mtime": 1727241390000000000,
+    "size": 30143980
+  },
+  "Professor Cow ~ Vanser/2024/2024_0924_2225_58_218.png": {
+    "xxh": "9433048d794534d6076ec31f222b470b",
+    "mtime": 1727241960000000000,
+    "size": 30135278
+  },
+  "Professor Cow ~ Vanser/2024/2024_0925_0238_56_882.png": {
+    "xxh": "06b85d28150a73e04eae9b0e267e34c2",
+    "mtime": 1727257138000000000,
+    "size": 30200590
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1650_56_531.png": {
+    "xxh": "40499d0e68a94c1ff0f8f333b382426f",
+    "mtime": 1727481058000000000,
+    "size": 33070366
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1659_37_357.png": {
+    "xxh": "bbdabc8e5b3139bd5a167222e57f3be3",
+    "mtime": 1727481580000000000,
+    "size": 32795287
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1721_06_934.png": {
+    "xxh": "ff29fbeee52b0133c9e2f99eb3246fe4",
+    "mtime": 1727482868000000000,
+    "size": 32828875
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1742_24_500.png": {
+    "xxh": "388247930f3560c0745274ac049c82c5",
+    "mtime": 1727484146000000000,
+    "size": 32912758
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1750_07_035.png": {
+    "xxh": "bb3c3026101dcbe1c55610e8f6e364c4",
+    "mtime": 1727484608000000000,
+    "size": 32644129
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_1754_25_845.png": {
+    "xxh": "0d8d8ab2c587f2d5e68a2a636a2d3c95",
+    "mtime": 1727484868000000000,
+    "size": 30113716
+  },
+  "Professor Cow ~ Vanser/2024/2024_0927_2121_01_001.png": {
+    "xxh": "10f22f566fdec3bfb75ca60a441f603b",
+    "mtime": 1727497262000000000,
+    "size": 31805159
+  },
+  "Professor Cow ~ Vanser/2024/2024_0929_1706_26_843.png": {
+    "xxh": "705c04d56211a779934ee999eac04822",
+    "mtime": 1727654788000000000,
+    "size": 33772284
+  },
+  "Professor Cow ~ Vanser/2024/2024_0929_1805_25_141.png": {
+    "xxh": "b86594d079f682e5d79b4a5f3c0e25bb",
+    "mtime": 1727658326000000000,
+    "size": 32483383
+  },
+  "Professor Cow ~ Vanser/2024/2024_1007_2344_43_390.png": {
+    "xxh": "a0dbcf8034406398d290ef57655ff2a6",
+    "mtime": 1728369886000000000,
+    "size": 31493329
+  },
+  "Professor Cow ~ Vanser/2024/2024_1008_1912_23_010.png": {
+    "xxh": "be0c0adabad58f748d3dca1ac8d5022c",
+    "mtime": 1728439944000000000,
+    "size": 33418041
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_1747_10_946.png": {
+    "xxh": "15e2b84210dd287d62435880678d0a6c",
+    "mtime": 1728521232000000000,
+    "size": 32926371
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_1845_13_175.png": {
+    "xxh": "9fd5d2ed78472941778c666a06c5a397",
+    "mtime": 1728524714000000000,
+    "size": 33227930
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_1900_50_971.png": {
+    "xxh": "89aa83ad115dd56e677e2c62bede2b51",
+    "mtime": 1728525652000000000,
+    "size": 33123548
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_1914_16_745.png": {
+    "xxh": "d29cbe6e2b040064e3f882e27b2c3409",
+    "mtime": 1728526458000000000,
+    "size": 33151170
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_1919_17_973.png": {
+    "xxh": "ea802a8d3a37d3a2c22fe94ae79ee366",
+    "mtime": 1728526760000000000,
+    "size": 33117583
+  },
+  "Professor Cow ~ Vanser/2024/2024_1009_2313_53_571.png": {
+    "xxh": "b562f6f6385a4a143d7448a4f48f61e7",
+    "mtime": 1728540836000000000,
+    "size": 33083618
+  },
+  "Professor Cow ~ Vanser/2024/2024_1010_0352_20_495.png": {
+    "xxh": "0a26a88265b9bfb6d39a11d7834946ca",
+    "mtime": 1728557542000000000,
+    "size": 32984737
+  },
+  "Professor Cow ~ Vanser/2024/2024_1010_1750_17_353.png": {
+    "xxh": "4a489337fbb79708c54acbe1f28e16fb",
+    "mtime": 1728607820000000000,
+    "size": 33219014
+  },
+  "Professor Cow ~ Vanser/2024/2024_1010_1910_42_576.png": {
+    "xxh": "f3c3c87d8bf24d16adaa45884233b3da",
+    "mtime": 1728612644000000000,
+    "size": 32425823
+  },
+  "Professor Cow ~ Vanser/2024/2024_1011_0621_37_410.png": {
+    "xxh": "d2ba2f5aaedbe3f18bd36d309806eaa2",
+    "mtime": 1728652900000000000,
+    "size": 32543367
+  },
+  "Professor Cow ~ Vanser/2024/2024_1013_0534_05_828.png": {
+    "xxh": "e877aef56f907ab2d49e770eedfe2e6b",
+    "mtime": 1728822848000000000,
+    "size": 33949984
+  },
+  "Professor Cow ~ Vanser/2024/2024_1013_0648_48_845.png": {
+    "xxh": "53eba63fa941a0f54ba738b71aa406e6",
+    "mtime": 1728827330000000000,
+    "size": 32703616
+  },
+  "Professor Cow ~ Vanser/2024/2024_1013_1952_40_543.png": {
+    "xxh": "ec6665298cbb81f96944040884a190e9",
+    "mtime": 1728874362000000000,
+    "size": 35023880
+  },
+  "Professor Cow ~ Vanser/2024/2024_1013_2236_53_128.png": {
+    "xxh": "48581fadfdc21b10c3f1b5a174750758",
+    "mtime": 1728884214000000000,
+    "size": 33421518
+  },
+  "Professor Cow ~ Vanser/2024/2024_1020_0415_22_629.png": {
+    "xxh": "9d909ced299d166c0e00b34f2d629d17",
+    "mtime": 1729422924000000000,
+    "size": 38513974
+  },
+  "Professor Cow ~ Vanser/2024/2024_1022_1828_04_834.png": {
+    "xxh": "ea6393041783782bf1db7a19f5775b17",
+    "mtime": 1729646886000000000,
+    "size": 43990046
+  },
+  "Professor Cow ~ Vanser/2024/2024_1022_2227_57_551.png": {
+    "xxh": "bc88c3af4a02fcfdb5016371e84cc677",
+    "mtime": 1729661280000000000,
+    "size": 43991836
+  },
+  "Professor Cow ~ Vanser/2024/2024_1024_1819_30_209.png": {
+    "xxh": "e13d19c1e773a13cff86137c8f8fe6e6",
+    "mtime": 1729819172000000000,
+    "size": 40951731
+  },
+  "Professor Cow ~ Vanser/2024/2024_1028_1819_28_945.png": {
+    "xxh": "5a8fcc2ac869e46acbb50162bee8dcbf",
+    "mtime": 1730164770000000000,
+    "size": 34245719
+  },
+  "Professor Cow ~ Vanser/2024/2024_1029_1805_24_053.png": {
+    "xxh": "46282a22b7bd20a347ef12f270dfdabf",
+    "mtime": 1730250326000000000,
+    "size": 34065405
+  },
+  "Professor Cow ~ Vanser/2024/2024_1031_0433_25_958.png": {
+    "xxh": "ab901f7f47ad988a9bcdab569ca322de",
+    "mtime": 1730374408000000000,
+    "size": 34484191
+  },
+  "Professor Cow ~ Vanser/2024/2024_1103_1853_43_902.png": {
+    "xxh": "915164debc504a83d9ed8f3bb9067b5b",
+    "mtime": 1730688826000000000,
+    "size": 34215652
+  },
+  "Professor Cow ~ Vanser/2024/2024_1107_2228_09_911.png": {
+    "xxh": "d55bc4e51cd9f3553223295b4c873a4f",
+    "mtime": 1731047292000000000,
+    "size": 34263825
+  },
+  "Professor Cow ~ Vanser/2024/2024_1112_1857_32_442.png": {
+    "xxh": "75adee6ea8a2b68f68da6ad527812499",
+    "mtime": 1731466654000000000,
+    "size": 35958856
+  },
+  "Professor Cow ~ Vanser/2024/2024_1114_0003_23_565.png": {
+    "xxh": "f082b13709242b88f49e45ee3140d8da",
+    "mtime": 1731571406000000000,
+    "size": 33216465
+  },
+  "Professor Cow ~ Vanser/2024/2024_1114_0104_57_561.png": {
+    "xxh": "d1d7bd3bf65dcc6a394e4d321b2d1316",
+    "mtime": 1731575100000000000,
+    "size": 33175804
+  },
+  "Professor Cow ~ Vanser/2024/2024_1118_1915_19_310.png": {
+    "xxh": "d5b68350c386ad43930a9a2bbf07c0ad",
+    "mtime": 1731986120000000000,
+    "size": 10991500
+  },
+  "Professor Cow ~ Vanser/2024/2024_1121_1850_13_947.png": {
+    "xxh": "92a29b7a658fa1b38b4c76ed4142a30c",
+    "mtime": 1732243816000000000,
+    "size": 16584799
+  },
+  "Professor Cow ~ Vanser/2024/2024_1129_1635_02_967.png": {
+    "xxh": "192cf9eff5c6b08e10db495d0f5ee9a9",
+    "mtime": 1732926904000000000,
+    "size": 23621480
+  },
+  "Professor Cow ~ Vanser/2024/2024_1203_1816_07_116.png": {
+    "xxh": "a72df403ec5af7ca2ea87494ab3f653f",
+    "mtime": 1733278568000000000,
+    "size": 8284522
+  },
+  "Professor Cow ~ Vanser/2024/2024_1208_1851_38_474.png": {
+    "xxh": "a5a0207f1d4bfbfa07cff3d63dcfcafe",
+    "mtime": 1733712700000000000,
+    "size": 8548551
+  },
+  "Professor Cow ~ Vanser/2024/2024_1208_2212_25_129.png": {
+    "xxh": "51e73c84ce4b6a5f8ba162e1e949223a",
+    "mtime": 1733724746000000000,
+    "size": 8043200
+  },
+  "Professor Cow ~ Vanser/2024/2024_1211_1736_34_608.png": {
+    "xxh": "b7243133014e5fe467ed07a48787874d",
+    "mtime": 1733967396000000000,
+    "size": 8210870
+  },
+  "Professor Cow ~ Vanser/2024/2024_1212_1748_39_821.png": {
+    "xxh": "1dc247125ff82b93b24fff67acac3f72",
+    "mtime": 1734054522000000000,
+    "size": 9488164
+  },
+  "Professor Cow ~ Vanser/2024/2024_1214_1636_26_801.png": {
+    "xxh": "018475f16246e1d0b5322760b1e339b8",
+    "mtime": 1734222988000000000,
+    "size": 11115786
+  },
+  "Professor Cow ~ Vanser/2024/2024_1218_1848_16_424.png": {
+    "xxh": "f094590072305bd624d5e4a8f0aedc59",
+    "mtime": 1734576498000000000,
+    "size": 12353561
+  },
+  "Professor Cow ~ Vanser/2024/2024_1218_1904_11_325.png": {
+    "xxh": "e2eb4fbdd9238a31c45cc9cd6cf00f69",
+    "mtime": 1734577452000000000,
+    "size": 9822543
+  },
+  "Professor Cow ~ Vanser/2024/2024_1225_1831_15_459.png": {
+    "xxh": "cae10edb2021beefd9beaa63dde2f3af",
+    "mtime": 1735180276000000000,
+    "size": 13437737
+  },
+  "Professor Cow ~ Vanser/2024/2024_1227_1818_13_096.png": {
+    "xxh": "71bee3a6b557446e939e9383001f6252",
+    "mtime": 1735352294000000000,
+    "size": 13251113
+  },
+  "Professor Cow ~ Vanser/2024/2024_1227_1935_40_385.png": {
+    "xxh": "f5cca31239b532bbb385a6523cf6ced4",
+    "mtime": 1735356942000000000,
+    "size": 13076076
+  },
+  "Professor Cow ~ Vanser/2024/2024_1229_2325_08_237.png": {
+    "xxh": "0169b7b6ef68729959ea1e49ef5a8247",
+    "mtime": 1735543510000000000,
+    "size": 15797421
+  },
+  "Professor Cow ~ Vanser/2024/tpt8uLuUew9tKENedC5BtD39.png": {
+    "xxh": "e9b78fca4110a256e8dc9e194729731f",
+    "mtime": 946652401000000000,
+    "size": 12360704
+  },
+  "Professor Cow ~ Vanser/2025/1.png": {
+    "xxh": "0f3e9822620e6269d6b71b11eb612ec6",
+    "mtime": 946652400000000000,
+    "size": 51895952
+  },
+  "Professor Cow ~ Vanser/2025/10.png": {
+    "xxh": "6846be5f77602d75301abb14c18fdcfa",
+    "mtime": 946652409000000000,
+    "size": 58684713
+  },
+  "Professor Cow ~ Vanser/2025/11.png": {
+    "xxh": "0cc113a5a4463e7ac5111bed0faec1ca",
+    "mtime": 946652410000000000,
+    "size": 59250540
+  },
+  "Professor Cow ~ Vanser/2025/12.png": {
+    "xxh": "b60532ecdff398a21301e08cb93161b0",
+    "mtime": 946652411000000000,
+    "size": 60173286
+  },
+  "Professor Cow ~ Vanser/2025/13.png": {
+    "xxh": "8d8237910f2ab95562f9a065db82f598",
+    "mtime": 946652412000000000,
+    "size": 62639978
+  },
+  "Professor Cow ~ Vanser/2025/14.png": {
+    "xxh": "78785a95963167a80351d33679cde589",
+    "mtime": 946652413000000000,
+    "size": 62147004
+  },
+  "Professor Cow ~ Vanser/2025/15.png": {
+    "xxh": "70e4fa463b8bbedaeac5a40136f53358",
+    "mtime": 946652414000000000,
+    "size": 63660734
+  },
+  "Professor Cow ~ Vanser/2025/16.png": {
+    "xxh": "02af9fd21584bd5d594a20cc3ec8db89",
+    "mtime": 946652415000000000,
+    "size": 63247206
+  },
+  "Professor Cow ~ Vanser/2025/17.png": {
+    "xxh": "349aa77634ccb5529ebb6148c9870e69",
+    "mtime": 946652416000000000,
+    "size": 64281238
+  },
+  "Professor Cow ~ Vanser/2025/18.png": {
+    "xxh": "7fec18322432bb40790923754c236c8e",
+    "mtime": 946652417000000000,
+    "size": 64370006
+  },
+  "Professor Cow ~ Vanser/2025/19.png": {
+    "xxh": "0a27c3ae2e46aa69cb723bcea96c798d",
+    "mtime": 946652418000000000,
+    "size": 65034394
+  },
+  "Professor Cow ~ Vanser/2025/2.png": {
+    "xxh": "faffc2d9ee378ab5628d7e726355c8bf",
+    "mtime": 946652401000000000,
+    "size": 45784543
+  },
+  "Professor Cow ~ Vanser/2025/20.png": {
+    "xxh": "e6abe0c2eae3abaa228921d1a82fdce5",
+    "mtime": 946652419000000000,
+    "size": 65011498
+  },
+  "Professor Cow ~ Vanser/2025/2025_0102_2220_25_007.png": {
+    "xxh": "9782c9065f50ada968d7245eb4026e79",
+    "mtime": 1735885226000000000,
+    "size": 12106442
+  },
+  "Professor Cow ~ Vanser/2025/2025_0103_0007_48_271.png": {
+    "xxh": "5926c777fa2b5df68bc862322c0380e4",
+    "mtime": 1735891670000000000,
+    "size": 17425875
+  },
+  "Professor Cow ~ Vanser/2025/2025_0103_2318_54_524.png": {
+    "xxh": "f6a29efd28cfcb63aac4a8bcaa4c601f",
+    "mtime": 1735975136000000000,
+    "size": 10457480
+  },
+  "Professor Cow ~ Vanser/2025/2025_0104_0009_15_487.png": {
+    "xxh": "1a4cc1d9620d7e534cad3f85e85c54e0",
+    "mtime": 1735978156000000000,
+    "size": 7884429
+  },
+  "Professor Cow ~ Vanser/2025/2025_0105_0015_08_800.png": {
+    "xxh": "6f656df830377af8ef3fabf2928d7d79",
+    "mtime": 1736064910000000000,
+    "size": 7874635
+  },
+  "Professor Cow ~ Vanser/2025/2025_0105_1817_29_007.png": {
+    "xxh": "ac927eb13971709df6be2fcc39d9da9d",
+    "mtime": 1736129850000000000,
+    "size": 8192776
+  },
+  "Professor Cow ~ Vanser/2025/2025_0106_1646_08_009.png": {
+    "xxh": "39898b4a3c36969281a59591dd590789",
+    "mtime": 1736210770000000000,
+    "size": 7875615
+  },
+  "Professor Cow ~ Vanser/2025/2025_0106_1747_09_620.png": {
+    "xxh": "75e3469bf52666f61462ec6a099f0735",
+    "mtime": 1736214430000000000,
+    "size": 9449780
+  },
+  "Professor Cow ~ Vanser/2025/2025_0106_1934_14_465.png": {
+    "xxh": "d14f631ab11fcbf2453242b235c32c17",
+    "mtime": 1736220856000000000,
+    "size": 9812283
+  },
+  "Professor Cow ~ Vanser/2025/2025_0107_1828_11_611.png": {
+    "xxh": "df80c986ef1af22df2a4f22a1d1f3740",
+    "mtime": 1736303292000000000,
+    "size": 10092241
+  },
+  "Professor Cow ~ Vanser/2025/2025_0109_1603_34_798.png": {
+    "xxh": "2b6200b4eb1af2894906f893ccae6f09",
+    "mtime": 1736467416000000000,
+    "size": 10582205
+  },
+  "Professor Cow ~ Vanser/2025/2025_0110_1937_03_180.png": {
+    "xxh": "033a09aa0cec39c5f105ad10241930a4",
+    "mtime": 1736566624000000000,
+    "size": 11946595
+  },
+  "Professor Cow ~ Vanser/2025/2025_0111_2140_56_302.png": {
+    "xxh": "25bec4f0a425ec3c4cb6c4b3c287f9f9",
+    "mtime": 1736660458000000000,
+    "size": 9684820
+  },
+  "Professor Cow ~ Vanser/2025/2025_0116_1812_39_641.png": {
+    "xxh": "95dd855b26613680d1bfb01f2a0d8186",
+    "mtime": 1737079962000000000,
+    "size": 8304929
+  },
+  "Professor Cow ~ Vanser/2025/2025_0117_1621_21_718.png": {
+    "xxh": "7c81ead615ae9939d7e16e27c2196052",
+    "mtime": 1737159684000000000,
+    "size": 8091394
+  },
+  "Professor Cow ~ Vanser/2025/2025_0120_1754_54_088.png": {
+    "xxh": "5051ee0e38070b6829724fa38ccd8bb7",
+    "mtime": 1737424496000000000,
+    "size": 9504454
+  },
+  "Professor Cow ~ Vanser/2025/2025_0120_2327_22_459.png": {
+    "xxh": "2b563b165a16a5b7c23b3dd4126762c8",
+    "mtime": 1737444444000000000,
+    "size": 982122
+  },
+  "Professor Cow ~ Vanser/2025/2025_0121_1925_59_612.png": {
+    "xxh": "9ae1d48c46a2a196071cf7ed4b355829",
+    "mtime": 1737516362000000000,
+    "size": 8150054
+  },
+  "Professor Cow ~ Vanser/2025/2025_0123_2209_15_010.png": {
+    "xxh": "5dae139758825238c8e04d64a3707b49",
+    "mtime": 1737698956000000000,
+    "size": 9023412
+  },
+  "Professor Cow ~ Vanser/2025/2025_0125_1853_34_434.png": {
+    "xxh": "54e7869505698e078ddbeb89d1daa19b",
+    "mtime": 1737860016000000000,
+    "size": 9061011
+  },
+  "Professor Cow ~ Vanser/2025/2025_0127_2115_02_645.png": {
+    "xxh": "5ab361f6e263021ba627fd135204cb13",
+    "mtime": 1738041304000000000,
+    "size": 15381156
+  },
+  "Professor Cow ~ Vanser/2025/2025_0128_1844_06_818.png": {
+    "xxh": "852274e0b2128b58943227c076a9ffc0",
+    "mtime": 1738118648000000000,
+    "size": 8552300
+  },
+  "Professor Cow ~ Vanser/2025/2025_0131_2157_52_653.png": {
+    "xxh": "25e0225342e275b1373fb0566c0a84b5",
+    "mtime": 946652400000000000,
+    "size": 6853040
+  },
+  "Professor Cow ~ Vanser/2025/2025_0202_1726_22_819.png": {
+    "xxh": "56b203860c47eae5b9cd82f3c3160668",
+    "mtime": 946652401000000000,
+    "size": 6062677
+  },
+  "Professor Cow ~ Vanser/2025/2025_0204_0230_18_033.png": {
+    "xxh": "a05b29b6e496d7c9cc6798e20d83e785",
+    "mtime": 946652402000000000,
+    "size": 8053941
+  },
+  "Professor Cow ~ Vanser/2025/2025_0204_2252_57_169.png": {
+    "xxh": "9a079fc30fac8579b263e6f5f4c507e0",
+    "mtime": 946652403000000000,
+    "size": 9415311
+  },
+  "Professor Cow ~ Vanser/2025/2025_0207_1858_53_688.png": {
+    "xxh": "8c174e7a049de148a1f8e71d91f7d914",
+    "mtime": 946652404000000000,
+    "size": 10021650
+  },
+  "Professor Cow ~ Vanser/2025/2025_0209_1911_27_139.png": {
+    "xxh": "5d9930890f666de394cb030d3f0fd363",
+    "mtime": 946652405000000000,
+    "size": 10493214
+  },
+  "Professor Cow ~ Vanser/2025/2025_0211_1720_31_614.png": {
+    "xxh": "419c29e982b5bbf936effb854dd6a540",
+    "mtime": 946652406000000000,
+    "size": 10381304
+  },
+  "Professor Cow ~ Vanser/2025/2025_0211_1726_21_735.png": {
+    "xxh": "13fb3f8302eeebee736f43d6e35916b4",
+    "mtime": 946652407000000000,
+    "size": 6806432
+  },
+  "Professor Cow ~ Vanser/2025/2025_0211_1824_23_338.png": {
+    "xxh": "af4bdcd8565056895389105a352bb23a",
+    "mtime": 946652408000000000,
+    "size": 10538524
+  },
+  "Professor Cow ~ Vanser/2025/2025_0215_1833_23_040.png": {
+    "xxh": "f8f3d38d72e75cbc102609deb0d94e9d",
+    "mtime": 946652409000000000,
+    "size": 12844225
+  },
+  "Professor Cow ~ Vanser/2025/2025_0217_1746_26_981.png": {
+    "xxh": "5c902960edc4ea8fd0c8649a66d4043f",
+    "mtime": 946652410000000000,
+    "size": 13009937
+  },
+  "Professor Cow ~ Vanser/2025/2025_0217_1932_56_785.png": {
+    "xxh": "5a010c19b5eb399e765f0c1172c4753e",
+    "mtime": 946652411000000000,
+    "size": 13444323
+  },
+  "Professor Cow ~ Vanser/2025/2025_0217_2138_34_852.png": {
+    "xxh": "def969e5fadcb922c55c5c7c3803c373",
+    "mtime": 946652412000000000,
+    "size": 13854303
+  },
+  "Professor Cow ~ Vanser/2025/2025_0223_0219_15_684.png": {
+    "xxh": "c91006cd971ae487ab84a464379d9dcd",
+    "mtime": 946652400000000000,
+    "size": 41907241
+  },
+  "Professor Cow ~ Vanser/2025/2025_0223_0458_33_651.png": {
+    "xxh": "ae39247a32c17e53d37a700083592c7c",
+    "mtime": 946652401000000000,
+    "size": 42139170
+  },
+  "Professor Cow ~ Vanser/2025/2025_0223_1741_36_229.png": {
+    "xxh": "368ef1882f0f0d23d7995763fe70e6d3",
+    "mtime": 946652402000000000,
+    "size": 42142027
+  },
+  "Professor Cow ~ Vanser/2025/2025_0223_2214_13_282.png": {
+    "xxh": "c5b1147804a986ef97a1887c444f3b29",
+    "mtime": 946652403000000000,
+    "size": 43003842
+  },
+  "Professor Cow ~ Vanser/2025/2025_0224_1856_50_182.png": {
+    "xxh": "74c3c0e73e6b1a7a5a9c98ea54b0cf3e",
+    "mtime": 946652404000000000,
+    "size": 42899128
+  },
+  "Professor Cow ~ Vanser/2025/2025_0225_1806_59_071.png": {
+    "xxh": "ea83ffd2ea181e54eff8fe3be352f369",
+    "mtime": 946652405000000000,
+    "size": 40442596
+  },
+  "Professor Cow ~ Vanser/2025/2025_0225_2153_17_803.png": {
+    "xxh": "b4a6a4253c8426b3c6316f5a5bde455a",
+    "mtime": 946652406000000000,
+    "size": 183092014
+  },
+  "Professor Cow ~ Vanser/2025/2025_0226_1722_08_400.png": {
+    "xxh": "2bdc7d16430b6f2dcc26fc26b8fcdaff",
+    "mtime": 946652407000000000,
+    "size": 41023918
+  },
+  "Professor Cow ~ Vanser/2025/2025_0226_2222_19_455.png": {
+    "xxh": "f7eb0d65639495b015b76dfc6c6fa207",
+    "mtime": 946652408000000000,
+    "size": 40095077
+  },
+  "Professor Cow ~ Vanser/2025/2025_0227_0545_16_541.png": {
+    "xxh": "718ca53415ba149d990188d377fc9eea",
+    "mtime": 946652409000000000,
+    "size": 40417047
+  },
+  "Professor Cow ~ Vanser/2025/2025_0227_1922_57_292.png": {
+    "xxh": "55286b1c0156a6ae76954605eebebf52",
+    "mtime": 946652410000000000,
+    "size": 42004709
+  },
+  "Professor Cow ~ Vanser/2025/2025_0228_0047_38_717.png": {
+    "xxh": "33e7cb74d5b37f0ed9e31f74051942b6",
+    "mtime": 946652411000000000,
+    "size": 41155105
+  },
+  "Professor Cow ~ Vanser/2025/2025_0302_1824_00_955.png": {
+    "xxh": "6be19b12a34f06eeff2590c71d99181c",
+    "mtime": 946652400000000000,
+    "size": 202152389
+  },
+  "Professor Cow ~ Vanser/2025/2025_0303_1817_02_770.png": {
+    "xxh": "e89cbe011e2b75ac54e8ea92194edd7d",
+    "mtime": 946652401000000000,
+    "size": 65338061
+  },
+  "Professor Cow ~ Vanser/2025/2025_0304_0059_11_760.png": {
+    "xxh": "7b05fde5aaec95ab0b22610b0c4079cf",
+    "mtime": 946652402000000000,
+    "size": 66256589
+  },
+  "Professor Cow ~ Vanser/2025/2025_0306_1727_34_186.png": {
+    "xxh": "a54c98bbb93f111a4df587bc2f312278",
+    "mtime": 946652403000000000,
+    "size": 65396706
+  },
+  "Professor Cow ~ Vanser/2025/2025_0306_1922_43_172.png": {
+    "xxh": "29d12a678c2aec396c1eb43c1d2980b8",
+    "mtime": 946652404000000000,
+    "size": 67585926
+  },
+  "Professor Cow ~ Vanser/2025/2025_0306_2255_03_251.png": {
+    "xxh": "1cd6445d378eac5805b168904e9c1935",
+    "mtime": 946652405000000000,
+    "size": 67730132
+  },
+  "Professor Cow ~ Vanser/2025/2025_0307_2318_58_047.png": {
+    "xxh": "b5600fb72939013499f80c9e0f244b1b",
+    "mtime": 946652406000000000,
+    "size": 69031062
+  },
+  "Professor Cow ~ Vanser/2025/2025_0308_1957_54_274.png": {
+    "xxh": "c1781a676006ee479ce2732067c6143f",
+    "mtime": 946652407000000000,
+    "size": 70688576
+  },
+  "Professor Cow ~ Vanser/2025/2025_0309_2220_55_821.png": {
+    "xxh": "f5e5145eaa1fee033a93bdf75ca7e5cd",
+    "mtime": 946652408000000000,
+    "size": 209505578
+  },
+  "Professor Cow ~ Vanser/2025/2025_0310_2217_41_531.png": {
+    "xxh": "7e725476b8d381d90440a72cf4c622de",
+    "mtime": 946652409000000000,
+    "size": 207900737
+  },
+  "Professor Cow ~ Vanser/2025/2025_0312_1908_36_678.png": {
+    "xxh": "75fd20dae3cfd26b650c6763ac3bdd46",
+    "mtime": 946652410000000000,
+    "size": 208599259
+  },
+  "Professor Cow ~ Vanser/2025/2025_0313_0004_12_066.png": {
+    "xxh": "28f203cb20d1078e0f8f32f08776c088",
+    "mtime": 946652411000000000,
+    "size": 208192023
+  },
+  "Professor Cow ~ Vanser/2025/2025_0313_2307_58_996.png": {
+    "xxh": "449e42ed0d3c25d39efe3d55d6ab7f5a",
+    "mtime": 946652412000000000,
+    "size": 69259755
+  },
+  "Professor Cow ~ Vanser/2025/2025_0315_0350_58_051.png": {
+    "xxh": "ae4852fa82b7f6932f9cd5e008da6d41",
+    "mtime": 946652413000000000,
+    "size": 75205812
+  },
+  "Professor Cow ~ Vanser/2025/2025_0315_1758_21_505.png": {
+    "xxh": "48628c23bde5775c2e8f1e10b568d27d",
+    "mtime": 946652414000000000,
+    "size": 78034348
+  },
+  "Professor Cow ~ Vanser/2025/2025_0315_1800_43_375.png": {
+    "xxh": "7ab3697564c115e228981bf92ef7bfc7",
+    "mtime": 946652415000000000,
+    "size": 78623350
+  },
+  "Professor Cow ~ Vanser/2025/2025_0320_1733_53_140.png": {
+    "xxh": "b7d4120de0ef510887ce02676bcbd9c7",
+    "mtime": 946652400000000000,
+    "size": 38669661
+  },
+  "Professor Cow ~ Vanser/2025/2025_0322_0005_57_276.png": {
+    "xxh": "5e596dbbd67f9af466b7a34c44bd2322",
+    "mtime": 946652401000000000,
+    "size": 35970194
+  },
+  "Professor Cow ~ Vanser/2025/2025_0322_1753_10_982.png": {
+    "xxh": "da20437ca180a87b075fc2c69230ba7c",
+    "mtime": 946652402000000000,
+    "size": 35716688
+  },
+  "Professor Cow ~ Vanser/2025/2025_0324_2002_43_060.png": {
+    "xxh": "afbb550b14aa9ad46470e4357e554233",
+    "mtime": 946652403000000000,
+    "size": 34711457
+  },
+  "Professor Cow ~ Vanser/2025/2025_0324_2150_18_882.png": {
+    "xxh": "9b847b721176ff1e2773de074aa8c0a7",
+    "mtime": 946652404000000000,
+    "size": 34722356
+  },
+  "Professor Cow ~ Vanser/2025/2025_0325_1833_08_529.png": {
+    "xxh": "f7ff7d7abbef3ba8f42927f0a7ab09c4",
+    "mtime": 946652405000000000,
+    "size": 34792184
+  },
+  "Professor Cow ~ Vanser/2025/2025_0328_2113_32_701.png": {
+    "xxh": "64ae7cc0a5c50129eb6cb3260674a970",
+    "mtime": 946652406000000000,
+    "size": 47030250
+  },
+  "Professor Cow ~ Vanser/2025/2025_0328_2346_26_515.png": {
+    "xxh": "95f1f29700944d5f0d514019471135f6",
+    "mtime": 946652407000000000,
+    "size": 35204361
+  },
+  "Professor Cow ~ Vanser/2025/2025_0329_1814_20_915.png": {
+    "xxh": "b5de947ea29236963bace5329497aae6",
+    "mtime": 946652408000000000,
+    "size": 35220080
+  },
+  "Professor Cow ~ Vanser/2025/2025_0330_0815_11_310.png": {
+    "xxh": "44aefd166f9acf3e43d65fcb2f350ee8",
+    "mtime": 946652409000000000,
+    "size": 35291211
+  },
+  "Professor Cow ~ Vanser/2025/2025_0330_2236_36_260.png": {
+    "xxh": "af38ff7d6b9901362e42c239d65b0686",
+    "mtime": 946652410000000000,
+    "size": 35370245
+  },
+  "Professor Cow ~ Vanser/2025/2025_0406_2221_40_919.png": {
+    "xxh": "089b748200d9e3649cbabbab9db014ca",
+    "mtime": 946652400000000000,
+    "size": 63291845
+  },
+  "Professor Cow ~ Vanser/2025/2025_0410_0618_32_182.png": {
+    "xxh": "71ebc903afc54bb91e5f4ea09414499c",
+    "mtime": 946652401000000000,
+    "size": 59319413
+  },
+  "Professor Cow ~ Vanser/2025/2025_0410_1758_50_112.png": {
+    "xxh": "855dd8326e15faffbd321f6bcc8b9df5",
+    "mtime": 946652402000000000,
+    "size": 59495703
+  },
+  "Professor Cow ~ Vanser/2025/2025_0412_2357_06_092.png": {
+    "xxh": "2756e4ac9583244631d9afdc510065e0",
+    "mtime": 946652403000000000,
+    "size": 59392558
+  },
+  "Professor Cow ~ Vanser/2025/2025_0413_1815_57_059.png": {
+    "xxh": "15a14fffcaa749e2f450431d1fc51386",
+    "mtime": 946652404000000000,
+    "size": 59757806
+  },
+  "Professor Cow ~ Vanser/2025/2025_0415_2210_31_655.png": {
+    "xxh": "e91aacb0b18807c82f95ecf8433e9208",
+    "mtime": 946652405000000000,
+    "size": 60933297
+  },
+  "Professor Cow ~ Vanser/2025/2025_0415_2351_13_546.png": {
+    "xxh": "de5510b14145850865c031f669722149",
+    "mtime": 946652406000000000,
+    "size": 60978273
+  },
+  "Professor Cow ~ Vanser/2025/2025_0419_0127_10_608.png": {
+    "xxh": "ca0d06e30f4aa08dfac24c2f5dd4582c",
+    "mtime": 946652407000000000,
+    "size": 61022701
+  },
+  "Professor Cow ~ Vanser/2025/2025_0419_0347_48_820.png": {
+    "xxh": "8a8b228e0a6524a99c20ea4e46f47f6c",
+    "mtime": 946652408000000000,
+    "size": 61044634
+  },
+  "Professor Cow ~ Vanser/2025/2025_0420_0553_07_252.png": {
+    "xxh": "79df00420b02d310caa68abf3e13d961",
+    "mtime": 946652409000000000,
+    "size": 66423829
+  },
+  "Professor Cow ~ Vanser/2025/2025_0421_1850_08_330.png": {
+    "xxh": "fec72c812e5c00c8c1631f2b4bebeec1",
+    "mtime": 946652410000000000,
+    "size": 65773452
+  },
+  "Professor Cow ~ Vanser/2025/2025_0424_1912_08_127.png": {
+    "xxh": "6012a64e914e789bc69f65a3ef9b1638",
+    "mtime": 946652400000000000,
+    "size": 22031061
+  },
+  "Professor Cow ~ Vanser/2025/2025_0425_0455_20_567.png": {
+    "xxh": "246db48fc52cf9d0148de308a9b5aa9b",
+    "mtime": 946652401000000000,
+    "size": 21710330
+  },
+  "Professor Cow ~ Vanser/2025/2025_0426_0041_20_382.png": {
+    "xxh": "505c93d9dacedd0737ce8a6cb0dde689",
+    "mtime": 946652402000000000,
+    "size": 68021580
+  },
+  "Professor Cow ~ Vanser/2025/2025_0426_2304_41_302.png": {
+    "xxh": "4fb7930dee6ac9ff7c2008422335bcdc",
+    "mtime": 946652403000000000,
+    "size": 68797225
+  },
+  "Professor Cow ~ Vanser/2025/2025_0428_1916_32_870.png": {
+    "xxh": "b662c531b18613279ae6b5abf30905d0",
+    "mtime": 946652404000000000,
+    "size": 28269639
+  },
+  "Professor Cow ~ Vanser/2025/2025_0428_2148_40_166.png": {
+    "xxh": "933cb224e58e58e66b615010dd6c0959",
+    "mtime": 946652405000000000,
+    "size": 27409603
+  },
+  "Professor Cow ~ Vanser/2025/2025_0429_2247_46_116.png": {
+    "xxh": "a915531b8b374a84b0f6e023c57854db",
+    "mtime": 946652406000000000,
+    "size": 27316261
+  },
+  "Professor Cow ~ Vanser/2025/2025_0430_1728_32_947.png": {
+    "xxh": "c3adcd0d7bec8e16a4154ce063bfd4f2",
+    "mtime": 946652407000000000,
+    "size": 28462611
+  },
+  "Professor Cow ~ Vanser/2025/2025_0503_1822_24_511.png": {
+    "xxh": "b8ee43497ca35a0fd3902d5c7ee88881",
+    "mtime": 946652408000000000,
+    "size": 27942499
+  },
+  "Professor Cow ~ Vanser/2025/2025_0503_2127_27_494.png": {
+    "xxh": "8f382805b6f3917eb44ba61f07cf9ddd",
+    "mtime": 946652409000000000,
+    "size": 29277130
+  },
+  "Professor Cow ~ Vanser/2025/2025_0505_1752_52_953.png": {
+    "xxh": "5709f5bca7a4ec16d919bb297d15c82f",
+    "mtime": 946652410000000000,
+    "size": 29284599
+  },
+  "Professor Cow ~ Vanser/2025/2025_0508_0141_26_638.png": {
+    "xxh": "71c75610fb71515436501493c8f7e655",
+    "mtime": 946652411000000000,
+    "size": 27869570
+  },
+  "Professor Cow ~ Vanser/2025/2025_0509_0620_45_723.png": {
+    "xxh": "b3f0734cd248a349bece7ba2d9ac29b0",
+    "mtime": 946652412000000000,
+    "size": 28492153
+  },
+  "Professor Cow ~ Vanser/2025/2025_0513_0005_14_418.png": {
+    "xxh": "f3c3f0cc93833fa712e0b7174ef57a8e",
+    "mtime": 946652413000000000,
+    "size": 27884254
+  },
+  "Professor Cow ~ Vanser/2025/2025_0515_0039_59_611.png": {
+    "xxh": "bd1b46b4ef72de0a3869074e3819d081",
+    "mtime": 946652414000000000,
+    "size": 28642651
+  },
+  "Professor Cow ~ Vanser/2025/2025_0516_2135_43_076.png": {
+    "xxh": "1a051c0f9ba76875b221ddbf7a314fa1",
+    "mtime": 946652415000000000,
+    "size": 28518696
+  },
+  "Professor Cow ~ Vanser/2025/2025_0517_1920_36_314.png": {
+    "xxh": "09eae53379055c98eaa1ebb059d67b08",
+    "mtime": 946652416000000000,
+    "size": 28930839
+  },
+  "Professor Cow ~ Vanser/2025/2025_0517_2255_58_703.png": {
+    "xxh": "aa95823f0ce244fc96857462f75bf447",
+    "mtime": 946652417000000000,
+    "size": 28349099
+  },
+  "Professor Cow ~ Vanser/2025/2025_0518_1650_13_789.png": {
+    "xxh": "60728a1f644bea9d90f04a88660baab4",
+    "mtime": 946652418000000000,
+    "size": 28653219
+  },
+  "Professor Cow ~ Vanser/2025/2025_0524_1839_14_587.png": {
+    "xxh": "580f49b81ef8f42de83c424600882232",
+    "mtime": 946652400000000000,
+    "size": 94535399
+  },
+  "Professor Cow ~ Vanser/2025/2025_0524_2105_50_641.png": {
+    "xxh": "08fcbe43d67dbf3f4d5be183a0a20c27",
+    "mtime": 946652401000000000,
+    "size": 106124822
+  },
+  "Professor Cow ~ Vanser/2025/2025_0524_2123_32_700.png": {
+    "xxh": "e99fa85fd7eed18c137a629821c03fec",
+    "mtime": 946652402000000000,
+    "size": 105807462
+  },
+  "Professor Cow ~ Vanser/2025/2025_0524_2153_02_031.png": {
+    "xxh": "e2c9c4da48ed27db4839428582e5c9e4",
+    "mtime": 946652403000000000,
+    "size": 106343209
+  },
+  "Professor Cow ~ Vanser/2025/2025_0524_2349_40_291.png": {
+    "xxh": "51326fe539c300651a96af04be04a930",
+    "mtime": 946652404000000000,
+    "size": 110001320
+  },
+  "Professor Cow ~ Vanser/2025/2025_0528_2151_04_511.png": {
+    "xxh": "6fe35e1b20b9524c41c7d07c64509a26",
+    "mtime": 946652405000000000,
+    "size": 109684689
+  },
+  "Professor Cow ~ Vanser/2025/2025_0531_0516_52_991.png": {
+    "xxh": "e6cfc2f2f662794ac15c37ec45565bd8",
+    "mtime": 946652406000000000,
+    "size": 109563847
+  },
+  "Professor Cow ~ Vanser/2025/2025_0531_0621_09_728.png": {
+    "xxh": "848175eed22561603b42dc6b5950bd87",
+    "mtime": 946652407000000000,
+    "size": 109651008
+  },
+  "Professor Cow ~ Vanser/2025/2025_0601_1813_09_326.png": {
+    "xxh": "0fda730db18333535ade37a9664c40bb",
+    "mtime": 946652408000000000,
+    "size": 109797495
+  },
+  "Professor Cow ~ Vanser/2025/2025_0607_2036_02_646.png": {
+    "xxh": "8a127463ba6d3d64db9d958a331dc61a",
+    "mtime": 946652409000000000,
+    "size": 109917096
+  },
+  "Professor Cow ~ Vanser/2025/2025_0613_0437_30_301.png": {
+    "xxh": "61f071aff0a3bbdbad6d94996bcad3ed",
+    "mtime": 946652410000000000,
+    "size": 111342656
+  },
+  "Professor Cow ~ Vanser/2025/2025_0613_0606_03_408.png": {
+    "xxh": "b2ea9f14ffd0bd12931e162ce5784bc2",
+    "mtime": 946652411000000000,
+    "size": 110407508
+  },
+  "Professor Cow ~ Vanser/2025/2025_0613_1904_36_150.png": {
+    "xxh": "f35b113201317bed5855127d166d2f7e",
+    "mtime": 946652412000000000,
+    "size": 110431734
+  },
+  "Professor Cow ~ Vanser/2025/2025_0615_0035_12_900.png": {
+    "xxh": "25fcdeabab50737353ace38f8b9bcc4c",
+    "mtime": 946652413000000000,
+    "size": 150707527
+  },
+  "Professor Cow ~ Vanser/2025/2025_0615_0119_56_397.png": {
+    "xxh": "a3d2e85f3d72e50fac1a967b3a36c5fa",
+    "mtime": 946652414000000000,
+    "size": 152404505
+  },
+  "Professor Cow ~ Vanser/2025/2025_0616_2118_01_403.png": {
+    "xxh": "1048723a3416c0e1fe077598f2fd4fd4",
+    "mtime": 946652415000000000,
+    "size": 152062741
+  },
+  "Professor Cow ~ Vanser/2025/2025_0616_2241_20_779.png": {
+    "xxh": "e4966ee022d886913ff87619ac1e2a6f",
+    "mtime": 946652416000000000,
+    "size": 152367938
+  },
+  "Professor Cow ~ Vanser/2025/2025_0621_0051_29_071.png": {
+    "xxh": "41a5843a37c985427bc3dfe10b33c6df",
+    "mtime": 946652417000000000,
+    "size": 152025285
+  },
+  "Professor Cow ~ Vanser/2025/2025_0621_0133_40_873.png": {
+    "xxh": "62032fec04798180196367b4fe8a9950",
+    "mtime": 946652418000000000,
+    "size": 152129422
+  },
+  "Professor Cow ~ Vanser/2025/2025_0621_2249_41_231.png": {
+    "xxh": "6b7053e43678a239b9b90abad9c34dbb",
+    "mtime": 946652419000000000,
+    "size": 151987138
+  },
+  "Professor Cow ~ Vanser/2025/2025_0622_1912_30_021.png": {
+    "xxh": "3113e876e5490f09ebeef9728126c13b",
+    "mtime": 946652420000000000,
+    "size": 152254377
+  },
+  "Professor Cow ~ Vanser/2025/2025_0622_2300_09_006.png": {
+    "xxh": "ed0e7ae6c990bf559beb5435d5522f61",
+    "mtime": 946652421000000000,
+    "size": 151526276
+  },
+  "Professor Cow ~ Vanser/2025/2025_0625_2129_02_208.png": {
+    "xxh": "b418680c1338298648498cfaf276b4b2",
+    "mtime": 946652422000000000,
+    "size": 101519364
+  },
+  "Professor Cow ~ Vanser/2025/2025_0626_0010_14_850.png": {
+    "xxh": "2ad188be9055d5e01a7df576d0cf89c4",
+    "mtime": 946652423000000000,
+    "size": 101813264
+  },
+  "Professor Cow ~ Vanser/2025/2025_0626_0151_59_860.png": {
+    "xxh": "4f767824981e5dfdee8f54b44eff46ff",
+    "mtime": 946652424000000000,
+    "size": 101833152
+  },
+  "Professor Cow ~ Vanser/2025/2025_0628_1749_41_839.png": {
+    "xxh": "3ff8a5125bd2c8c670110c9321edcbd6",
+    "mtime": 946652425000000000,
+    "size": 101367278
+  },
+  "Professor Cow ~ Vanser/2025/2025_0628_1851_42_558.png": {
+    "xxh": "d83b42f3984f2e40586a1368939501c5",
+    "mtime": 946652426000000000,
+    "size": 151646469
+  },
+  "Professor Cow ~ Vanser/2025/2025_0705_2215_29_683.png": {
+    "xxh": "3be8b0f97da35d1bb6d195cc86e58673",
+    "mtime": 946652400000000000,
+    "size": 97046887
+  },
+  "Professor Cow ~ Vanser/2025/2025_0711_2134_23_139.png": {
+    "xxh": "035a363d03929f1f505839df81ea481a",
+    "mtime": 946652401000000000,
+    "size": 96661029
+  },
+  "Professor Cow ~ Vanser/2025/2025_0726_2136_31_283.png": {
+    "xxh": "d69772a3fb81d765742df2fed4b7d451",
+    "mtime": 946652402000000000,
+    "size": 97616792
+  },
+  "Professor Cow ~ Vanser/2025/2025_0728_0003_43_950.png": {
+    "xxh": "353fdbf65f66f27ad728805a82ca4b53",
+    "mtime": 946652403000000000,
+    "size": 98469821
+  },
+  "Professor Cow ~ Vanser/2025/2025_1030_0012_16_128.png（副本）.png": {
+    "xxh": "fd3b2c175af5ebb90bb54a50ad06bdc6",
+    "mtime": 1761922778000000000,
+    "size": 271588904
+  },
+  "Professor Cow ~ Vanser/2025/2025_1122_2253_02_246.png": {
+    "xxh": "ebce5f054e82f1a59c6342655a3e5ac2",
+    "mtime": 1763815984000000000,
+    "size": 28428924
+  },
+  "Professor Cow ~ Vanser/2025/2025_1215_1923_59_323.png": {
+    "xxh": "0a0a02bbe1cc9d9a67fbdebbad6e1e55",
+    "mtime": 1765790640000000000,
+    "size": 21638235
+  },
+  "Professor Cow ~ Vanser/2025/2025_1224_0436_04_438.png": {
+    "xxh": "050810decd8f08fc8bac9b959123b9ee",
+    "mtime": 1766514966000000000,
+    "size": 40457258
+  },
+  "Professor Cow ~ Vanser/2025/2025_1224_1841_56_896.png": {
+    "xxh": "886802c91f4d593317f21baeb00f2466",
+    "mtime": 1766565718000000000,
+    "size": 40886046
+  },
+  "Professor Cow ~ Vanser/2025/21.png": {
+    "xxh": "d50bc7e3adba6ee042d89adfad044980",
+    "mtime": 946652420000000000,
+    "size": 66403340
+  },
+  "Professor Cow ~ Vanser/2025/22.png": {
+    "xxh": "13a5287ee08951bb8006f179137b6fc7",
+    "mtime": 946652421000000000,
+    "size": 64552422
+  },
+  "Professor Cow ~ Vanser/2025/23.png": {
+    "xxh": "53067b37cb7d2d8aa5a2acdc9d82d02c",
+    "mtime": 946652422000000000,
+    "size": 64593610
+  },
+  "Professor Cow ~ Vanser/2025/24.png": {
+    "xxh": "81c66239e6f4c3b035078c452b0e4c19",
+    "mtime": 946652423000000000,
+    "size": 64611418
+  },
+  "Professor Cow ~ Vanser/2025/25.png": {
+    "xxh": "bff8117db44e9d613d9386ccc03b322d",
+    "mtime": 946652424000000000,
+    "size": 71999937
+  },
+  "Professor Cow ~ Vanser/2025/26.png": {
+    "xxh": "bced220e80c3400d596a64c79c3d16e8",
+    "mtime": 946652425000000000,
+    "size": 71740798
+  },
+  "Professor Cow ~ Vanser/2025/27.png": {
+    "xxh": "732216d447a32dffde6cf6cbb5493f62",
+    "mtime": 946652426000000000,
+    "size": 23925200
+  },
+  "Professor Cow ~ Vanser/2025/3.png": {
+    "xxh": "6c18860d409222fb05857aa864d53625",
+    "mtime": 946652402000000000,
+    "size": 52296070
+  },
+  "Professor Cow ~ Vanser/2025/4.png": {
+    "xxh": "83a8f4546d0217ef20546602732d530d",
+    "mtime": 946652403000000000,
+    "size": 46855497
+  },
+  "Professor Cow ~ Vanser/2025/5.png": {
+    "xxh": "a7567fd694d2b8e5ddb3c859f1f25c2e",
+    "mtime": 946652404000000000,
+    "size": 46642444
+  },
+  "Professor Cow ~ Vanser/2025/6.png": {
+    "xxh": "ff20e72b772b6520dcf9078079d96d57",
+    "mtime": 946652405000000000,
+    "size": 52713019
+  },
+  "Professor Cow ~ Vanser/2025/7.png": {
+    "xxh": "cb9de9053e2aa499ef59bed3e6d05ea9",
+    "mtime": 946652406000000000,
+    "size": 52272314
+  },
+  "Professor Cow ~ Vanser/2025/8.png": {
+    "xxh": "e5ab75d5091f3ebe32efe793319d5ded",
+    "mtime": 946652407000000000,
+    "size": 58317128
+  },
+  "Professor Cow ~ Vanser/2025/9.png": {
+    "xxh": "2c4f4998224beef416a78b66665bfe93",
+    "mtime": 946652408000000000,
+    "size": 58290778
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/1.png": {
+    "xxh": "dee69841cd6078e6bd2b31ca7cad81f1",
+    "mtime": 946652400000000000,
+    "size": 13966512
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/10.png": {
+    "xxh": "4b8e86bb99e78f35fb1e8878299096a7",
+    "mtime": 946652400000000000,
+    "size": 20617702
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/11.png": {
+    "xxh": "12fd7f02deacd5013e88338e1d696c17",
+    "mtime": 946652400000000000,
+    "size": 24212421
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/12.png": {
+    "xxh": "ab56ec3c3b85225903b2447a54325aa9",
+    "mtime": 946652400000000000,
+    "size": 21681458
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/14.png": {
+    "xxh": "990366ed47408d90f669b58d5f5f964d",
+    "mtime": 946652400000000000,
+    "size": 21688756
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/2.png": {
+    "xxh": "6ac5b5a4cdb3dc86b2afba1302351709",
+    "mtime": 946652400000000000,
+    "size": 14182126
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/3.png": {
+    "xxh": "e4f9f9d0bd5963d24f50183b16c9b321",
+    "mtime": 946652400000000000,
+    "size": 20276257
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/4.png": {
+    "xxh": "3fb0f70adeb87fed243bd25b57b784a5",
+    "mtime": 946652400000000000,
+    "size": 20604100
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/5.png": {
+    "xxh": "81e6757f63b846ffe6cc33e418596cc8",
+    "mtime": 946652400000000000,
+    "size": 20521435
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/6.png": {
+    "xxh": "3bad37ea4ba9a2cbeeacca1182b2e34c",
+    "mtime": 946652400000000000,
+    "size": 20483828
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/7.png": {
+    "xxh": "b63137e330b862b44d1c25be88c00092",
+    "mtime": 946652400000000000,
+    "size": 20192490
+  },
+  "Professor Cow ~ Vanser/2025/Filmed/8.png": {
+    "xxh": "24b01a52ac6968cce04c82cc2ebe92b5",
+    "mtime": 946652400000000000,
+    "size": 21771295
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/1.png": {
+    "xxh": "be4a45ce102041b036a4aeb22c68fa41",
+    "mtime": 1766920416000000000,
+    "size": 40228480
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/10.png": {
+    "xxh": "a2f88d584b9308bd74eec3f7db462cc6",
+    "mtime": 1766920432000000000,
+    "size": 40922874
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/11.png": {
+    "xxh": "cd31093381c7d33c56c08ee2a62318ee",
+    "mtime": 1766920434000000000,
+    "size": 17917772
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/12.png": {
+    "xxh": "da18fde18b567ac2cf4436cad4d21045",
+    "mtime": 1766920436000000000,
+    "size": 41460116
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/13.png": {
+    "xxh": "517f821b8e63ed5f22e382e83c18e37d",
+    "mtime": 1766920438000000000,
+    "size": 41545360
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/14.png": {
+    "xxh": "ac6175119a9b21fdb9d82ad5691b9a82",
+    "mtime": 1764368548000000000,
+    "size": 12179063
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/15.png": {
+    "xxh": "dc15891d29ddb08d2fb917595beea4c5",
+    "mtime": 1764368550000000000,
+    "size": 12154810
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/16.png": {
+    "xxh": "f7d5baeddf6e3fd39828ad8ff87c64d3",
+    "mtime": 1764368552000000000,
+    "size": 13152978
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/17.png": {
+    "xxh": "5f45aa4a2e1bfcbe4064e21ca345e10a",
+    "mtime": 946652400000000000,
+    "size": 21951327
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/18.png": {
+    "xxh": "46fedea696ee4d55e90dc3dab0dd6188",
+    "mtime": 1764368556000000000,
+    "size": 29056723
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/19.png": {
+    "xxh": "f80e9f204a1a8c57b6155bcd8f928694",
+    "mtime": 1764368558000000000,
+    "size": 39657140
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/2.png": {
+    "xxh": "aa14d2e6fcef50510336e36ce3537d16",
+    "mtime": 1766920416000000000,
+    "size": 40248095
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/20.png": {
+    "xxh": "93f08d0d56e02ace3374a2cab28c1f4e",
+    "mtime": 946652400000000000,
+    "size": 14108370
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/21.png": {
+    "xxh": "e36892bc4140718bcc2ad893d3a61aa9",
+    "mtime": 946652400000000000,
+    "size": 14658098
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/22.png": {
+    "xxh": "b0c9d35d95e21ca33a80fbe7cce38c33",
+    "mtime": 946652400000000000,
+    "size": 15396454
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/23.png": {
+    "xxh": "6ff8f82875e428365e89452226b7cd5b",
+    "mtime": 946652400000000000,
+    "size": 14509618
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/3.png": {
+    "xxh": "88d96f814cd6c7d928c488e34da9283c",
+    "mtime": 1766920418000000000,
+    "size": 40344834
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/4.png": {
+    "xxh": "4fe7e9fec7a0680eb9eb45d74e7224a9",
+    "mtime": 1766920420000000000,
+    "size": 18321526
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/5.png": {
+    "xxh": "75e0392dfbcad228cbba0347a054f6d3",
+    "mtime": 1766920422000000000,
+    "size": 40034184
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/6.png": {
+    "xxh": "7f84a3cf4aec282ffbf6ed38c49c3bbd",
+    "mtime": 1766920424000000000,
+    "size": 40846583
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/7.png": {
+    "xxh": "09c19e3547b4f63b032d966d0999f5c7",
+    "mtime": 1766920428000000000,
+    "size": 18518266
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/8.png": {
+    "xxh": "55d26cfc7ad0ea34d032af2e9bff3898",
+    "mtime": 1765831600000000000,
+    "size": 21496581
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/1/9.png": {
+    "xxh": "3ada51545ff6c790a7853a73d29ab4b9",
+    "mtime": 1761921348000000000,
+    "size": 29123629
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/1.png": {
+    "xxh": "d682284b8bb2a291a53df1417eda5673",
+    "mtime": 1765831588000000000,
+    "size": 18865525
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/10.png": {
+    "xxh": "7efea56bb6265ec9e672d1190d56b8f8",
+    "mtime": 1764368540000000000,
+    "size": 44014087
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/11.png": {
+    "xxh": "c65d1322b97e988e9228b75ce341449d",
+    "mtime": 1764368542000000000,
+    "size": 39257653
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/12.png": {
+    "xxh": "4fd1de87b581d20485b8876809e730b1",
+    "mtime": 1764368544000000000,
+    "size": 12632236
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/13.png": {
+    "xxh": "d98c166faff28c770dccb5d4c18a10c7",
+    "mtime": 1764368546000000000,
+    "size": 12237084
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/14.png": {
+    "xxh": "b8a16c6c8f10cab08744d9e90778cd81",
+    "mtime": 1766920440000000000,
+    "size": 18293038
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/15.png": {
+    "xxh": "a06c662bc1c7fc68cd2de69cc2ee1ce2",
+    "mtime": 1766920442000000000,
+    "size": 17817456
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/16.png": {
+    "xxh": "fdec18e33950944c929dc1bc4620a758",
+    "mtime": 946652400000000000,
+    "size": 22952828
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/18.png": {
+    "xxh": "b5f95cab557fda07d339f1a8f262dfa2",
+    "mtime": 946652400000000000,
+    "size": 918022
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/19.png": {
+    "xxh": "c58e1a8fda33121b270b23516ef0a754",
+    "mtime": 946652400000000000,
+    "size": 8299956
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/2.png": {
+    "xxh": "d55f3a6a0bfc5eac68797a18657a2e6b",
+    "mtime": 1765831590000000000,
+    "size": 28704159
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/3.png": {
+    "xxh": "a439010b2d4dc4beffc894c20ff57b45",
+    "mtime": 1765831592000000000,
+    "size": 16805433
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/4.png": {
+    "xxh": "9bf080cb1299c59e189b74dda7c7060e",
+    "mtime": 1765831594000000000,
+    "size": 17040659
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/5.png": {
+    "xxh": "5b8158246ca0cd01adc8617537300c87",
+    "mtime": 1765831596000000000,
+    "size": 16907444
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/6.png": {
+    "xxh": "23b41c092a03e34c4774810e4ca6d93b",
+    "mtime": 1765831596000000000,
+    "size": 17699283
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/7.png": {
+    "xxh": "d14629a0e4f4729536c15929bdbcab39",
+    "mtime": 1765831598000000000,
+    "size": 18527125
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/8.png": {
+    "xxh": "29e3b9b8f151c49c17e6adfabde50336",
+    "mtime": 1764368536000000000,
+    "size": 25438994
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/2/9.png": {
+    "xxh": "79982682e2788b88ab95cdb43f77a548",
+    "mtime": 946652400000000000,
+    "size": 20744291
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/1.png": {
+    "xxh": "9f247b4f7e50ff7506dd0879fd9f9f62",
+    "mtime": 1764368526000000000,
+    "size": 13688099
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/10.png": {
+    "xxh": "1de2320a47fe53f6471fc474a1f94dd6",
+    "mtime": 1761921350000000000,
+    "size": 29968480
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/11.png": {
+    "xxh": "a704ebe079608e5e157d6282b3a49095",
+    "mtime": 1761921352000000000,
+    "size": 33573556
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/12.png": {
+    "xxh": "ba12bb6526a24d32276f29fbb78d85e2",
+    "mtime": 1761921354000000000,
+    "size": 89964780
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/13.png": {
+    "xxh": "d08c26e98b7eedc75cb092d47ce70a15",
+    "mtime": 946652400000000000,
+    "size": 22375635
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/14.png": {
+    "xxh": "f7985c6cf38dd534c1930c31cd9c9ab5",
+    "mtime": 1761923394000000000,
+    "size": 496294728
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/15.png": {
+    "xxh": "69785086bc3364cf85adf6226addf15a",
+    "mtime": 946652400000000000,
+    "size": 22141600
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/2.png": {
+    "xxh": "55446aeb184fd4cbc30858c3f13839dc",
+    "mtime": 1764368526000000000,
+    "size": 12423590
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/3.png": {
+    "xxh": "f710b330bae4496ffd829e5f83733aaf",
+    "mtime": 1764368528000000000,
+    "size": 13662939
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/4.png": {
+    "xxh": "6c16c8d9e320244f992ead45538f8179",
+    "mtime": 1764368530000000000,
+    "size": 14063289
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/5.png": {
+    "xxh": "66e8885f45c76d5ce3554d6ae7f5ac29",
+    "mtime": 1764368532000000000,
+    "size": 25917785
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/6.png": {
+    "xxh": "94f178d15a226d73b818aeb57ee57885",
+    "mtime": 1764368534000000000,
+    "size": 26260138
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/7.png": {
+    "xxh": "7b5fd00bb845bde62cab7f4a44848ef3",
+    "mtime": 1761921346000000000,
+    "size": 15003680
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/8.png": {
+    "xxh": "f9160c757294e5def32b21eab7455edc",
+    "mtime": 1761921348000000000,
+    "size": 16234181
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/3/9.png": {
+    "xxh": "d3a53f044083b1adf495ba904a1c878f",
+    "mtime": 1764368538000000000,
+    "size": 42555483
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/1.png": {
+    "xxh": "2804cb5949fd7a2501d6ce8ebd8aaae0",
+    "mtime": 1761921336000000000,
+    "size": 1128441
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/2.png": {
+    "xxh": "c3291159eb1ed59a5efe018cc2ef87af",
+    "mtime": 1761921336000000000,
+    "size": 16479065
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/3.png": {
+    "xxh": "8b63684165c2ae8eafb24a48d26c69c4",
+    "mtime": 1761921338000000000,
+    "size": 14659605
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/4.png": {
+    "xxh": "eac1e3d59d7d3da96c29ba5d067d0f51",
+    "mtime": 1761921340000000000,
+    "size": 14502415
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/5.png": {
+    "xxh": "9aea1bb6b1537b82596b19be7e70d1ce",
+    "mtime": 1761921340000000000,
+    "size": 14641309
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/6.png": {
+    "xxh": "0c70510b06b819562d94d021d857b9d4",
+    "mtime": 1761921344000000000,
+    "size": 15037311
+  },
+  "Professor Cow ~ Vanser/2025/SortIntoFolders/4/7.png": {
+    "xxh": "dbc5467a8b507175db90ef4babe6f25c",
+    "mtime": 1764368536000000000,
+    "size": 37744929
+  },
+  "Professor Cow ~ Vanser/2025/X.png": {
+    "xxh": "eb6c8edbdda52a051cde77495fc369df",
+    "mtime": 946652427000000000,
+    "size": 64976600
+  },
+  "Professor Cow ~ Vanser/2026/1.png": {
+    "xxh": "f9579c195f61755353b3905c31907426",
+    "mtime": 1769015890000000000,
+    "size": 27444385
+  },
+  "Professor Cow ~ Vanser/2026/10.png": {
+    "xxh": "9096ae820aafb350756f95a568761a7c",
+    "mtime": 1769015906000000000,
+    "size": 22081827
+  },
+  "Professor Cow ~ Vanser/2026/11.png": {
+    "xxh": "17890a93cff1c6d119f03a9fc786981d",
+    "mtime": 1769015910000000000,
+    "size": 23708728
+  },
+  "Professor Cow ~ Vanser/2026/12.png": {
+    "xxh": "76c69d84ca899a1f743783200b2d46a3",
+    "mtime": 1769015912000000000,
+    "size": 23894779
+  },
+  "Professor Cow ~ Vanser/2026/13.png": {
+    "xxh": "fcc4a261d065ea72d6376a6e508e754c",
+    "mtime": 1769015914000000000,
+    "size": 25232197
+  },
+  "Professor Cow ~ Vanser/2026/14.png": {
+    "xxh": "7909892f3ba06d2583d1f8f5f52ff3fc",
+    "mtime": 1769015916000000000,
+    "size": 24162484
+  },
+  "Professor Cow ~ Vanser/2026/15.png": {
+    "xxh": "03e88b38fb17da689132f70440289e9f",
+    "mtime": 1769015918000000000,
+    "size": 24150214
+  },
+  "Professor Cow ~ Vanser/2026/16.png": {
+    "xxh": "6187ce1bc87af7ef5c54a6e60753d86b",
+    "mtime": 1769015920000000000,
+    "size": 24625154
+  },
+  "Professor Cow ~ Vanser/2026/17.png": {
+    "xxh": "4422f3e563eea366e6163d4d2e44a153",
+    "mtime": 1769015922000000000,
+    "size": 23838702
+  },
+  "Professor Cow ~ Vanser/2026/18.png": {
+    "xxh": "431350a064123cc91d1a5dec096de913",
+    "mtime": 1769015922000000000,
+    "size": 23646976
+  },
+  "Professor Cow ~ Vanser/2026/19.png": {
+    "xxh": "a4086e7a316c4a2279a7f29fc32ec884",
+    "mtime": 1769015924000000000,
+    "size": 24154534
+  },
+  "Professor Cow ~ Vanser/2026/2.png": {
+    "xxh": "a37651c4bbd346c3bc6491cc6d5662b5",
+    "mtime": 1769015894000000000,
+    "size": 27104538
+  },
+  "Professor Cow ~ Vanser/2026/20.png": {
+    "xxh": "835c426b1e5233615794c0e721cbb371",
+    "mtime": 1769015926000000000,
+    "size": 22840708
+  },
+  "Professor Cow ~ Vanser/2026/2026_0119_1901_17_410.png": {
+    "xxh": "bd35d7dbb6d980fe9008c77d55e2d4df",
+    "mtime": 1768816880000000000,
+    "size": 23814809
+  },
+  "Professor Cow ~ Vanser/2026/2026_0320_0056_55_276.png": {
+    "xxh": "14784a74e8f10f6c9c96129e5758b338",
+    "mtime": 1775000911945901700,
+    "size": 296410475
+  },
+  "Professor Cow ~ Vanser/2026/21.png": {
+    "xxh": "00e47e36337f9f3b9dde0645a073ec88",
+    "mtime": 1769015928000000000,
+    "size": 28956605
+  },
+  "Professor Cow ~ Vanser/2026/22.png": {
+    "xxh": "d8901aad3f1981b9ded268f5abed8b48",
+    "mtime": 1769015932000000000,
+    "size": 28661169
+  },
+  "Professor Cow ~ Vanser/2026/23.png": {
+    "xxh": "2f553b983fa09f3b3598ba614db31897",
+    "mtime": 1769015934000000000,
+    "size": 28492932
+  },
+  "Professor Cow ~ Vanser/2026/3.png": {
+    "xxh": "a146ae18579eb11a1796dfb4f436522e",
+    "mtime": 1769015894000000000,
+    "size": 27144706
+  },
+  "Professor Cow ~ Vanser/2026/4.png": {
+    "xxh": "4c75b322e497e940961c6284e09d7bfc",
+    "mtime": 1769015896000000000,
+    "size": 21166458
+  },
+  "Professor Cow ~ Vanser/2026/5.png": {
+    "xxh": "3894778e6cca10e86cd7f18416ddf68a",
+    "mtime": 1769015898000000000,
+    "size": 21235317
+  },
+  "Professor Cow ~ Vanser/2026/6.png": {
+    "xxh": "69e89f0cff305a9255f63cb580e62d39",
+    "mtime": 1769015900000000000,
+    "size": 21184640
+  },
+  "Professor Cow ~ Vanser/2026/7.png": {
+    "xxh": "7e893f588e7556cfa309f949f800487b",
+    "mtime": 1769015902000000000,
+    "size": 22249786
+  },
+  "Professor Cow ~ Vanser/2026/8.png": {
+    "xxh": "1982ce0a71b531c807ce1bf8e0c264b7",
+    "mtime": 1769015902000000000,
+    "size": 22274408
+  },
+  "Professor Cow ~ Vanser/2026/9.png": {
+    "xxh": "b0da23531f6c3290b10287f3d8d0b4be",
+    "mtime": 1769015904000000000,
+    "size": 22245230
+  },
+  "Professor Cow ~ Vanser/UnsortedYears/0fc8acbb-1ed3-464f-86c5-e208a122d964.png": {
+    "xxh": "7b64eb5088b8b015c1474bc440426a12",
+    "mtime": 1666520195775829200,
+    "size": 123479
+  },
+  "Professor Cow ~ Vanser/UnsortedYears/100266931_p1.png": {
+    "xxh": "2186c4fbcf50ede0bd115ef51d7cca9f",
+    "mtime": 1689486991075446700,
+    "size": 7138477
+  },
+  "Professor Cow ~ Vanser/UnsortedYears/109499080_p1.png": {
+    "xxh": "ad7d9cf694d5732cb3cdfd5e31fa8bfb",
+    "mtime": 1699072365343056500,
+    "size": 1535354
+  }
+}
