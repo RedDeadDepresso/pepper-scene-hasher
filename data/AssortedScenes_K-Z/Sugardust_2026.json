@@ -1,0 +1,652 @@
+{
+  "Sugardust/2022/10_Eula-blwj.png": {
+    "xxh": "e108640745ecc02eb0f75b6ff7ab958b",
+    "mtime": 1678555538000000000,
+    "size": 1029845
+  },
+  "Sugardust/2022/11_Noelle-mssnry.png": {
+    "xxh": "6af9502100d0ac12f4f1820c118d8bd4",
+    "mtime": 1678555546000000000,
+    "size": 1659384
+  },
+  "Sugardust/2022/12_Lumine-cowgir.png": {
+    "xxh": "9f0c7aebc4b507813c6f828ef1c158ce",
+    "mtime": 1678555554000000000,
+    "size": 992700
+  },
+  "Sugardust/2022/13_Hibiki-mssnry.png": {
+    "xxh": "796e91fb55f59bf72e83529e1730d355",
+    "mtime": 1678555564000000000,
+    "size": 1372469
+  },
+  "Sugardust/2022/14_Yoimiya-revcow.png": {
+    "xxh": "bc1fa0a536a93e9264fd94cf54d7c95b",
+    "mtime": 1678555572000000000,
+    "size": 916079
+  },
+  "Sugardust/2022/15_MikoYotsuya-dogsty.png": {
+    "xxh": "fa08be2ec9f9dba16b016a5d7267673f",
+    "mtime": 1678555582000000000,
+    "size": 1825341
+  },
+  "Sugardust/2022/16_HuTao-blwj.png": {
+    "xxh": "d522afe11157eac5bd389ce8d6fbd861",
+    "mtime": 1678555596000000000,
+    "size": 3376686
+  },
+  "Sugardust/2022/17_HuTao-cowgir.png": {
+    "xxh": "5cd1bb7c59d5bf4345413b1a3fdb7922",
+    "mtime": 1678555608000000000,
+    "size": 2094055
+  },
+  "Sugardust/2022/18_TakinaInoue-revcow.png": {
+    "xxh": "3ce7aa2a84d367e5cc991b166211492e",
+    "mtime": 1678555624000000000,
+    "size": 1887869
+  },
+  "Sugardust/2022/19_RaidenShogun-mssnry.png": {
+    "xxh": "496b65a4d8bcbd3d3f94137dbe0d6d72",
+    "mtime": 1678555640000000000,
+    "size": 3594261
+  },
+  "Sugardust/2022/20.5_ex_Lucid_1_komi.png": {
+    "xxh": "a9bb4cd72e209c7845819f631ac422eb",
+    "mtime": 1678565664000000000,
+    "size": 520359
+  },
+  "Sugardust/2022/20.5_ex_Lucid_2_yanfei.png": {
+    "xxh": "94b5c9dc3018934611e7085752d03c54",
+    "mtime": 1678565678000000000,
+    "size": 578457
+  },
+  "Sugardust/2022/20.5_ex_Lucid_3_marin.png": {
+    "xxh": "2d2bab018a67ff3a1d3c59d6dcac44a6",
+    "mtime": 1678565684000000000,
+    "size": 616510
+  },
+  "Sugardust/2022/20.5_ex_Lucid_4_raiden.png": {
+    "xxh": "6be0873768f7d68ec25f9e24e8bbe0b3",
+    "mtime": 1678565690000000000,
+    "size": 617723
+  },
+  "Sugardust/2022/20.5_ex_Lucid_5_miku.png": {
+    "xxh": "bd6a1106af8819babadcd64b7ff61557",
+    "mtime": 1678565710000000000,
+    "size": 581761
+  },
+  "Sugardust/2022/20.5_ex_Lucid_6_sara.png": {
+    "xxh": "b996aeb9278b24b067390936188c112b",
+    "mtime": 1678565716000000000,
+    "size": 635638
+  },
+  "Sugardust/2022/20.5_ex_Lucid_7_shinobu.png": {
+    "xxh": "614be25fb4b3c0d8a7b89528d67c0c38",
+    "mtime": 1678565722000000000,
+    "size": 608740
+  },
+  "Sugardust/2022/20.5_ex_Lucid_8_shylily.png": {
+    "xxh": "270e8df462ad1c257e207a50b08d31bb",
+    "mtime": 1678565726000000000,
+    "size": 502089
+  },
+  "Sugardust/2022/20_Lumine-multi.png": {
+    "xxh": "90438274b0d85ead731fb00f240349f2",
+    "mtime": 1678555652000000000,
+    "size": 7338980
+  },
+  "Sugardust/2022/2_Narberal_Desk.png": {
+    "xxh": "a2de3cd3fb550889d58c250b3bba28dc",
+    "mtime": 1678555188000000000,
+    "size": 753529
+  },
+  "Sugardust/2022/3_YaeMiko_Ei_bed.png": {
+    "xxh": "af1341fa881e1d85b5c3d915b5a37bbb",
+    "mtime": 1678555180000000000,
+    "size": 1187941
+  },
+  "Sugardust/2022/4_RaidenEi-revcow.png": {
+    "xxh": "70c6b89495a769e3172098d62f94cffd",
+    "mtime": 1678555202000000000,
+    "size": 1124948
+  },
+  "Sugardust/2022/5_RaidenEi-cowgir.png": {
+    "xxh": "3443ef54eb1243598323676ed45dcb4e",
+    "mtime": 1678555216000000000,
+    "size": 934287
+  },
+  "Sugardust/2022/6_Shylily-blwj.png": {
+    "xxh": "42dc4e3f23d9fa188579242c2a10e4c2",
+    "mtime": 1678555232000000000,
+    "size": 648913
+  },
+  "Sugardust/2022/7_Hestia-cowgir.png": {
+    "xxh": "8d0093bb5c1a0f2e06e85047915e4703",
+    "mtime": 1678555504000000000,
+    "size": 884898
+  },
+  "Sugardust/2022/8_KarinBA-dogsty.png": {
+    "xxh": "467b9400399aa8aafac991a719d46c05",
+    "mtime": 1678555516000000000,
+    "size": 965264
+  },
+  "Sugardust/2022/9_OuroKronii-cowgir.png": {
+    "xxh": "d7bec0911febf60e63c414d4fab8b5e1",
+    "mtime": 1678555526000000000,
+    "size": 1641622
+  },
+  "Sugardust/2023/21_SuiseiH-mssnry.png": {
+    "xxh": "47762775d06a20d332599c31f0108094",
+    "mtime": 1678555814000000000,
+    "size": 2933123
+  },
+  "Sugardust/2023/22_Hestia-blwj.png": {
+    "xxh": "0f64ab25f235d76dc505a201e34991b2",
+    "mtime": 1678555824000000000,
+    "size": 2858970
+  },
+  "Sugardust/2023/23_HuTao-mssnry.png": {
+    "xxh": "52d7a9e25e0114bd3924f6f9e087a182",
+    "mtime": 1678555840000000000,
+    "size": 2989945
+  },
+  "Sugardust/2023/24_HayasakaAi-cowgir.png": {
+    "xxh": "31334ce0a599b3175454a1b4f383f6b4",
+    "mtime": 1678555854000000000,
+    "size": 1916043
+  },
+  "Sugardust/2023/25_KakudateKarin-mssnry.png": {
+    "xxh": "15a6ca7e7daace63ee526ad18aab8c9f",
+    "mtime": 1678555868000000000,
+    "size": 2936255
+  },
+  "Sugardust/2023/26_IchinoseAsuna-cowgir.png": {
+    "xxh": "397642a5012b38020601d4018a7d568c",
+    "mtime": 1678555890000000000,
+    "size": 6162986
+  },
+  "Sugardust/2023/27_KukiShinobu-dogsty.png": {
+    "xxh": "7843317ee15ed25e5908f95954cf3f40",
+    "mtime": 1678555902000000000,
+    "size": 7937068
+  },
+  "Sugardust/2023/28_Monika-mssnry.png": {
+    "xxh": "59aa6eace6ecdfed42f7f4cc415ff09c",
+    "mtime": 1678555912000000000,
+    "size": 7514834
+  },
+  "Sugardust/2023/29_Yoimiya-cowgir.png": {
+    "xxh": "cf122f7c93abff55405fd46894c8644e",
+    "mtime": 1678555920000000000,
+    "size": 2311523
+  },
+  "Sugardust/2023/30_Lumine-blwj.png": {
+    "xxh": "9c0a2883318eb66b95a819d0655b24eb",
+    "mtime": 1679198932000000000,
+    "size": 1716635
+  },
+  "Sugardust/2023/31_Lumine-carry.png": {
+    "xxh": "183efdeed149971ac1ff174c79a6e2f6",
+    "mtime": 1679944682000000000,
+    "size": 3466429
+  },
+  "Sugardust/2023/32_Ayaka-cowgir.png": {
+    "xxh": "de7eeef9f8a65aac3eb9a39d7eddc103",
+    "mtime": 1680806250000000000,
+    "size": 9234455
+  },
+  "Sugardust/2023/33_HuTao-revcow.png": {
+    "xxh": "6c3efdf6ee5a7a8f065f4a1f0acc39f8",
+    "mtime": 1681576428000000000,
+    "size": 5115860
+  },
+  "Sugardust/2023/34_HoushouMarine-mssnry.png": {
+    "xxh": "42c0fb73db9820b3b6d75f7ffc7e0fe9",
+    "mtime": 1682898434000000000,
+    "size": 28004681
+  },
+  "Sugardust/2023/35_Shiroko-sitspdr.png": {
+    "xxh": "f06b88a7e534ba060f8d320cb50521b5",
+    "mtime": 1683065956000000000,
+    "size": 5866141
+  },
+  "Sugardust/2023/36_Nilou-blwj.png": {
+    "xxh": "731ee74b31faab35b0f15734211f8a23",
+    "mtime": 1683746554000000000,
+    "size": 7929248
+  },
+  "Sugardust/2023/37_RaidenShogun-cowgir.png": {
+    "xxh": "ea39011350c0d27cf29acec7fcd28af2",
+    "mtime": 1684637330000000000,
+    "size": 8483986
+  },
+  "Sugardust/2023/38_TokinoSora-mssnry.png": {
+    "xxh": "e79853bd7d991df984846ac0a0049e54",
+    "mtime": 1684774890000000000,
+    "size": 57960282
+  },
+  "Sugardust/2023/39_Nilou-riding.png": {
+    "xxh": "886a9c38d3a36c2a026719d3a3806811",
+    "mtime": 1685040654000000000,
+    "size": 16100989
+  },
+  "Sugardust/2023/40_Noelle-bootylove.png": {
+    "xxh": "6993bfa5b9de803f51b13215b9410f29",
+    "mtime": 1687056116000000000,
+    "size": 46927425
+  },
+  "Sugardust/2023/41_Fischl-mssnry.png": {
+    "xxh": "d2a681ddc7d259e4bd6ef33eb75173e2",
+    "mtime": 1687915430000000000,
+    "size": 26977360
+  },
+  "Sugardust/2023/42_HoshimachiSuisei-service.png": {
+    "xxh": "26529d684e614d781a54a20192e1ca16",
+    "mtime": 1688804632000000000,
+    "size": 53233570
+  },
+  "Sugardust/2023/43_HoshinoRuby-blwj.png": {
+    "xxh": "b043a1fb3a33a40434d9f99ad1d702a7",
+    "mtime": 1689597844000000000,
+    "size": 27593632
+  },
+  "Sugardust/2023/44_HuTao-lust.png": {
+    "xxh": "ab9d82d1197f850a2d88c63b298bef2e",
+    "mtime": 1690358412000000000,
+    "size": 12316613
+  },
+  "Sugardust/2023/45_HoshinoRuby-firstlove.png": {
+    "xxh": "3f6f253a9b144c951c5ef8da5689a91f",
+    "mtime": 1691178478000000000,
+    "size": 17226266
+  },
+  "Sugardust/2023/46_Faruzan-mssnry.png": {
+    "xxh": "5183d7204345103b9549067c6b4d0748",
+    "mtime": 1691915690000000000,
+    "size": 34352545
+  },
+  "Sugardust/2023/47_KukiShinobu-service.png": {
+    "xxh": "690fcd252749eb6a780d1688d28b8118",
+    "mtime": 1692717482000000000,
+    "size": 22727549
+  },
+  "Sugardust/2023/48_HoshinoAi-secret.png": {
+    "xxh": "c4e82cdd37f0a8650815f378d627ec5a",
+    "mtime": 1693537550000000000,
+    "size": 49848452
+  },
+  "Sugardust/2023/49_HayaseYuuka-relaxing.png": {
+    "xxh": "010e598479479c99ed1674963d8eb765",
+    "mtime": 1694316712000000000,
+    "size": 17509639
+  },
+  "Sugardust/2023/50_YukihanaLamy-drunk.png": {
+    "xxh": "3b28b1b149ff41d83db5b9317387f143",
+    "mtime": 1701413984000000000,
+    "size": 18400643
+  },
+  "Sugardust/2023/51_HuTao-alley.png": {
+    "xxh": "913c0d0ee6efe62980d3c1cd16bdcd16",
+    "mtime": 1701413994000000000,
+    "size": 19814795
+  },
+  "Sugardust/2023/52_HoshimachiSuisei-moonlight.png": {
+    "xxh": "811c99c3b8c3cc1b1efc4bf73c07dd4f",
+    "mtime": 1707581508000000000,
+    "size": 17076899
+  },
+  "Sugardust/2023/53_Mona-research.png": {
+    "xxh": "0e91bcd2c27cfe21988b1ea19b4b6224",
+    "mtime": 1707581525000000000,
+    "size": 29886122
+  },
+  "Sugardust/2023/54_HayaseYuuka-lovehotel.png": {
+    "xxh": "cc9d192bbf50d3112939218024c8dfe9",
+    "mtime": 1707581533000000000,
+    "size": 37675131
+  },
+  "Sugardust/2023/55_Furina-wetdream.png": {
+    "xxh": "c033d4ad455824abd864ece05f0e352f",
+    "mtime": 1707581543000000000,
+    "size": 22545781
+  },
+  "Sugardust/2023/56_SakamataChloe-beachepisode.png": {
+    "xxh": "a182f541fb74daec90f877ed8d412102",
+    "mtime": 1707581549000000000,
+    "size": 44681992
+  },
+  "Sugardust/2023/57_Lynette-service.png": {
+    "xxh": "f6ed9fc08feeab1f77528b0249417b8d",
+    "mtime": 1711566044322932400,
+    "size": 53414076
+  },
+  "Sugardust/2023/58_NakiriAyame-secret.png": {
+    "xxh": "aceee03bc95c98d51c508ed297c4d1ec",
+    "mtime": 1707581566000000000,
+    "size": 31473097
+  },
+  "Sugardust/2023/59_Lumine-darling.png": {
+    "xxh": "c3193e80e85edb13bcc508bce6c3dd44",
+    "mtime": 1707581575000000000,
+    "size": 37318280
+  },
+  "Sugardust/2024/60_Navia-celebration.png": {
+    "xxh": "44bd40d13291065055370ca14cfc2343",
+    "mtime": 1707581583000000000,
+    "size": 53663100
+  },
+  "Sugardust/2024/61_CeresFauna-tasty.png": {
+    "xxh": "bd09a4af172e55474fa7fac3d967039a",
+    "mtime": 1707581589000000000,
+    "size": 24006036
+  },
+  "Sugardust/2024/62_HoshimachiSuisei-event.png": {
+    "xxh": "bd071eec72b4fbcc922d230d4e1f4532",
+    "mtime": 1707582000000000000,
+    "size": 40643688
+  },
+  "Sugardust/2024/63_Furina-homemade.png": {
+    "xxh": "5c479e34cd8b7e9888fa1d8a3b7b4c42",
+    "mtime": 1707582016000000000,
+    "size": 14295077
+  },
+  "Sugardust/2024/64_HuTao-sweetie.png": {
+    "xxh": "04f228c00f37181d1325d69e1cad07c5",
+    "mtime": 1715164778000000000,
+    "size": 21000763
+  },
+  "Sugardust/2024/65_Frieren-exchange.png": {
+    "xxh": "7af569c77e175a2de7e8851ed5257105",
+    "mtime": 1715017616606215800,
+    "size": 22299130
+  },
+  "Sugardust/2024/66_RaidenShogun-sweetie.png": {
+    "xxh": "93d0ce10321171fac350acfe0482919b",
+    "mtime": 1715017615129949600,
+    "size": 20056336
+  },
+  "Sugardust/2024/67_AsumaToki-service.png": {
+    "xxh": "7f6ff3ce3dd7f506ebc9293996bcebad",
+    "mtime": 1715017614543676200,
+    "size": 21083832
+  },
+  "Sugardust/2024/68_ShirakamiFubuki-mall.png": {
+    "xxh": "acf03f5774973a9d83ca6ac8cd631919",
+    "mtime": 1715017612296687500,
+    "size": 17406260
+  },
+  "Sugardust/2024/69_NakiriAyame-lust.png": {
+    "xxh": "65147e0e9b60f5afcdf5d22fa59cf9fa",
+    "mtime": 1715017611652175700,
+    "size": 19831927
+  },
+  "Sugardust/2024/70_NerissaRavencroft-newlife.png": {
+    "xxh": "822bb64f3c4df2c14e5fe46499109ea6",
+    "mtime": 1715017610951295000,
+    "size": 17753378
+  },
+  "Sugardust/2024/71_Keqing-sweetie.png": {
+    "xxh": "208aeea54f06d87306370080c2dc3c02",
+    "mtime": 1716101392750083200,
+    "size": 18764578
+  },
+  "Sugardust/2024/72_ShioriNovella-service.png": {
+    "xxh": "50f75125f1f2a721695e505db71f5e76",
+    "mtime": 1716168889103000000,
+    "size": 22032739
+  },
+  "Sugardust/2024/73_Interlude-Rover.png": {
+    "xxh": "a657326e3729d962af0f2239a2a99454",
+    "mtime": 1719716380945000000,
+    "size": 15648198
+  },
+  "Sugardust/2024/73_Interlude-UshioNoa.png": {
+    "xxh": "909141e27f788b2df8501176c3b7e383",
+    "mtime": 1719716377215000000,
+    "size": 23633778
+  },
+  "Sugardust/2024/73_Interlude-Yangyang.png": {
+    "xxh": "0a83e797c67105f21f9e44c62680bead",
+    "mtime": 1719716373704000000,
+    "size": 8661633
+  },
+  "Sugardust/2024/73_Interlude-Yinlin.png": {
+    "xxh": "a781c09c11a1871bb42c4820485125f8",
+    "mtime": 1719716393974000000,
+    "size": 12696007
+  },
+  "Sugardust/2024/73_Interlude-Yoimiya.png": {
+    "xxh": "d6481846bf8ec2e72552f78c1acb660e",
+    "mtime": 1719716370559000000,
+    "size": 14341641
+  },
+  "Sugardust/2024/74_Sparkle-lovehotel.png": {
+    "xxh": "01ac0bf672d8c2c09a6b428718538ef6",
+    "mtime": 1718733180299000000,
+    "size": 63245814
+  },
+  "Sugardust/2024/75_Firefly-vacation.png": {
+    "xxh": "49fa8d78034caf1fd098098bd387b50c",
+    "mtime": 1719714137464000000,
+    "size": 29182644
+  },
+  "Sugardust/2024/76.png": {
+    "xxh": "7ae1214099222c3d8275206a070a666e",
+    "mtime": 1721320668034213100,
+    "size": 27654913
+  },
+  "Sugardust/2024/77_HakuiKoyori-pool.png": {
+    "xxh": "6cf4b206f8c7dd6e9b47898ac42f3b2c",
+    "mtime": 1721550845561218600,
+    "size": 24143847
+  },
+  "Sugardust/2024/78_SakamataChloe.png": {
+    "xxh": "5631ba7243d86a8962a300b21dd8fcd2",
+    "mtime": 1722422814238470400,
+    "size": 24404206
+  },
+  "Sugardust/2024/79_OokamiMio-chill.png": {
+    "xxh": "518b74d39440ab8db38f0dd172bfd023",
+    "mtime": 1723321089441632600,
+    "size": 25315987
+  },
+  "Sugardust/2024/80_Interlude-Aru.png": {
+    "xxh": "2a86d3d94e082dee2ad49f8796ef574e",
+    "mtime": 1724778282000000000,
+    "size": 16592610
+  },
+  "Sugardust/2024/80_Interlude-Belle.png": {
+    "xxh": "cc8dda98413508ce8b7fb2455b556980",
+    "mtime": 1724778274000000000,
+    "size": 22595686
+  },
+  "Sugardust/2024/80_Interlude-Sora.png": {
+    "xxh": "c282063ef6f1ce5af9cb960bf9814261",
+    "mtime": 1724778286000000000,
+    "size": 17641932
+  },
+  "Sugardust/2024/80_Interlude-Zhezhi.png": {
+    "xxh": "da0d734bde9aa199a20da2f819bb807e",
+    "mtime": 1724778278000000000,
+    "size": 16916812
+  },
+  "Sugardust/2024/80_Interlude-ZhuYuan.png": {
+    "xxh": "b6138b4864997823d4556a4b260f5e39",
+    "mtime": 1724778256000000000,
+    "size": 22364474
+  },
+  "Sugardust/2024/81_TokoyamiTowa-sweetie.png": {
+    "xxh": "8e1af42042d0515476680731279805b9",
+    "mtime": 1726088503321000000,
+    "size": 22433616
+  },
+  "Sugardust/2024/82_SuouYuki-secret.png": {
+    "xxh": "cad2a1aa5b7770349e228ffb6cb1be2d",
+    "mtime": 1732054051886029400,
+    "size": 44234505
+  },
+  "Sugardust/2024/83_EllenJoe-service.png": {
+    "xxh": "4c02675255b0b7a6f9b2fdef42e6ddd2",
+    "mtime": 1728217332990007100,
+    "size": 28901716
+  },
+  "Sugardust/2024/84_HoshimachiSuisei-bluesky.png": {
+    "xxh": "5250136625b19e2c95c1d4d0a3ed95f5",
+    "mtime": 1728909426000000000,
+    "size": 19093625
+  },
+  "Sugardust/2024/85_NicoleDemara-squeeze.png": {
+    "xxh": "efa38db15d11015879c8739d940f4729",
+    "mtime": 1729887174998161700,
+    "size": 33098653
+  },
+  "Sugardust/2024/86_IRyS-pool.png": {
+    "xxh": "8b6133dcf21b1cdf6612201c949f82e6",
+    "mtime": 1731829977444926100,
+    "size": 25569596
+  },
+  "Sugardust/2024/87_Interlude-Camellya.png": {
+    "xxh": "4da303ad03450e92241244d6d1a5ae83",
+    "mtime": 1731978855000000000,
+    "size": 24233689
+  },
+  "Sugardust/2024/87_Interlude-HuTao.png": {
+    "xxh": "c15ab7e00b861494179e33fe3c55e1f6",
+    "mtime": 1731978868000000000,
+    "size": 27909766
+  },
+  "Sugardust/2024/87_Interlude-Jinhsi.png": {
+    "xxh": "b2602d4ec11e3224243df258993dd8b1",
+    "mtime": 1731978881000000000,
+    "size": 17066590
+  },
+  "Sugardust/2024/87_Interlude-Kronii.png": {
+    "xxh": "a33b0a2ae9e6cb9e4ecfb874faf4607f",
+    "mtime": 1731978893000000000,
+    "size": 23590294
+  },
+  "Sugardust/2024/87_Interlude-Towa.png": {
+    "xxh": "418d04308acd606b4cfd5ee446fe9b5b",
+    "mtime": 1731978904000000000,
+    "size": 19947535
+  },
+  "Sugardust/2025/102_Interlude_Calliope.png": {
+    "xxh": "0c080058a1d9ee2b1f421a69a40829b8",
+    "mtime": 1751696314000000000,
+    "size": 23137522
+  },
+  "Sugardust/2025/102_Interlude_Groza.png": {
+    "xxh": "93025fa944b0b1bb01744e88ee71bb17",
+    "mtime": 1751784828000000000,
+    "size": 32705359
+  },
+  "Sugardust/2025/102_Interlude_Skirk.png": {
+    "xxh": "5ba5e257d146fefadd692f3802856302",
+    "mtime": 1751696222000000000,
+    "size": 38731683
+  },
+  "Sugardust/2025/110_Interlude_Exia.png": {
+    "xxh": "23bfae2cd7657d1772f8b63ba4403dfb",
+    "mtime": 1761974424000000000,
+    "size": 22701255
+  },
+  "Sugardust/2025/110_Interlude_Makiatto.png": {
+    "xxh": "e0eba0b78acfde0db518b18d25d705de",
+    "mtime": 1761426170000000000,
+    "size": 23224459
+  },
+  "Sugardust/2025/110_Interlude_Mita.png": {
+    "xxh": "63b3970a4680a8f702dae2bc7dbb4c62",
+    "mtime": 1761805304000000000,
+    "size": 23109505
+  },
+  "Sugardust/2025/110_Interlude_Sharkry.png": {
+    "xxh": "336ee7987d515797820710e1dfcb7874",
+    "mtime": 1761596582000000000,
+    "size": 30687114
+  },
+  "Sugardust/2025/110_Interlude_Springfield.png": {
+    "xxh": "08c964124dc26b43a38b502f0e3047d8",
+    "mtime": 1762074806000000000,
+    "size": 28082767
+  },
+  "Sugardust/2025/94_Interlude_Cecillia.png": {
+    "xxh": "92b47876ed9bbc4af51982660f34d084",
+    "mtime": 1739806221000000000,
+    "size": 38588110
+  },
+  "Sugardust/2025/94_Interlude_Lumine.png": {
+    "xxh": "cfd482d5253f1ebf8b45e82e64e4c1a5",
+    "mtime": 1739806227000000000,
+    "size": 19893998
+  },
+  "Sugardust/2025/94_Interlude_Phoebe.png": {
+    "xxh": "d580057f38ff6d7a69577ed9119ed2cb",
+    "mtime": 1739806240000000000,
+    "size": 18416482
+  },
+  "Sugardust/2025/94_Interlude_Qingyi.png": {
+    "xxh": "53386b1a8ad4a99fd2051a180240b1ad",
+    "mtime": 1739806248000000000,
+    "size": 18800434
+  },
+  "Sugardust/2025/94_Interlude_Ubel.png": {
+    "xxh": "8c188bbb0176b2299af7aaca4fff4a10",
+    "mtime": 1739806232000000000,
+    "size": 17164270
+  },
+  "Sugardust/2026/120_Interlude_Ayame.png": {
+    "xxh": "27b67f717179121088ce975e4e01fabf",
+    "mtime": 1780459821884656000,
+    "size": 25550304
+  },
+  "Sugardust/2026/120_Interlude_Mint.png": {
+    "xxh": "aab93ba11b63a903f0328cb527e6493f",
+    "mtime": 1780459822718136200,
+    "size": 47910758
+  },
+  "Sugardust/2026/120_Interlude_Nerissa.png": {
+    "xxh": "19b5f320cc35bce3bbb9aa21c9b1f652",
+    "mtime": 1780459823511561500,
+    "size": 27217234
+  },
+  "Sugardust/2026/120_Interlude_Takina.png": {
+    "xxh": "1fb7159b6b3c40fedeacb29402e3872f",
+    "mtime": 1780459824306614700,
+    "size": 28486988
+  },
+  "Sugardust/2026/120_Interlude_Yuki.png": {
+    "xxh": "475f3635f3e594c6d9bf0675db668af8",
+    "mtime": 1780459825480836300,
+    "size": 30197677
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Overlays/SAC_Dankon.png": {
+    "xxh": "63e22ad13f8ea369f4b1db737fb54a94",
+    "mtime": 1708226269426808600,
+    "size": 375994
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Overlays/SOS_Dankon.png": {
+    "xxh": "ce10bc8acb0ca319938c49bb32586c08",
+    "mtime": 1708226278649385700,
+    "size": 461291
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Overlays/SkinNormalMap.png": {
+    "xxh": "394bfa468115caa3aa92f865db520963",
+    "mtime": 1708226237250158700,
+    "size": 6406570
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Overlays/face_normalmap.png": {
+    "xxh": "921aca602a27cdb49579020476e5a8ab",
+    "mtime": 1708226179472877000,
+    "size": 686210
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Overlays/muscle_man_black.png": {
+    "xxh": "d07ecaaa855782ed6727edde1dc08772",
+    "mtime": 1708226256011803600,
+    "size": 2113422
+  },
+  "Sugardust/[SugardustCreatorWorkshop]/Sugardust_UTS_M.png": {
+    "xxh": "685bca7dc7744afb0a67bfcb32deb108",
+    "mtime": 1781344531180377400,
+    "size": 3848555
+  }
+}
