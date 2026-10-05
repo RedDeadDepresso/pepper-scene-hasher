@@ -1,0 +1,472 @@
+{
+  "ChrisF/2026_0425_2311_05_032.png": {
+    "xxh": "8621fc1943b89af304bd8a4da33e76f3",
+    "mtime": 1777129868000000000,
+    "size": 50692491
+  },
+  "ChrisF/Scene 01.png": {
+    "xxh": "7fc9c0eba47f706b15e4f074e766dcdf",
+    "mtime": 1697415379000000000,
+    "size": 2122365
+  },
+  "ChrisF/Scene 02.png": {
+    "xxh": "8f484a7ff5e50e2d9e78b1578b00040b",
+    "mtime": 1697415378000000000,
+    "size": 2542282
+  },
+  "ChrisF/Scene 03.png": {
+    "xxh": "6d1401c6b7a36f2cbd8bdd6f0a4de7dc",
+    "mtime": 1697415374000000000,
+    "size": 1621605
+  },
+  "ChrisF/Scene 04.png": {
+    "xxh": "4161bf8399b35bc57b52e3c3162fafa1",
+    "mtime": 1697415371000000000,
+    "size": 1210965
+  },
+  "ChrisF/Scene 05.png": {
+    "xxh": "faa718e95d14c6dd333679435bae6f0b",
+    "mtime": 1697415370000000000,
+    "size": 2725177
+  },
+  "ChrisF/Scene 06.png": {
+    "xxh": "43c9d25aa226d59d03164742df67ea9a",
+    "mtime": 1697415369000000000,
+    "size": 4468971
+  },
+  "ChrisF/Scene 07.png": {
+    "xxh": "89b18e82663f56c5ef604dc8dd54b997",
+    "mtime": 1697415366000000000,
+    "size": 2472879
+  },
+  "ChrisF/Scene 08.png": {
+    "xxh": "aad86cd5f92b1f729af352c072cf8cb2",
+    "mtime": 1697415286000000000,
+    "size": 6658882
+  },
+  "ChrisF/Scene 09.png": {
+    "xxh": "2de8e29e5234405ac6a412a99753d0f4",
+    "mtime": 1697415282000000000,
+    "size": 6874991
+  },
+  "ChrisF/Scene 10.png": {
+    "xxh": "0f6b9bb2d6742c50fcf5f495d65f92e0",
+    "mtime": 1697415282000000000,
+    "size": 9749054
+  },
+  "ChrisF/Scene 11 A.png": {
+    "xxh": "d43cdb9bcda602024f894f0372e7d812",
+    "mtime": 1697415276000000000,
+    "size": 6719468
+  },
+  "ChrisF/Scene 11 B.png": {
+    "xxh": "4a5ae72d9f757b73a1041594b1d09e7b",
+    "mtime": 1697415276000000000,
+    "size": 6976835
+  },
+  "ChrisF/Scene 12.png": {
+    "xxh": "46426c03a42cf8fd7de1d6b01aa3ac94",
+    "mtime": 1697415017000000000,
+    "size": 4389858
+  },
+  "ChrisF/Scene 13.5.png": {
+    "xxh": "80a8c017ace513682105f4c2d1e18fb1",
+    "mtime": 1778461290000000000,
+    "size": 7457603
+  },
+  "ChrisF/Scene 13.png": {
+    "xxh": "a13262fdd3b570d37e82d82a65d04b92",
+    "mtime": 1697414990000000000,
+    "size": 6745088
+  },
+  "ChrisF/Scene 14 A.png": {
+    "xxh": "8cc1583ef57327cbbf02787edfef6a37",
+    "mtime": 1697415020000000000,
+    "size": 15224206
+  },
+  "ChrisF/Scene 14 B.png": {
+    "xxh": "7a1e84c3cae34d0205803037484ef525",
+    "mtime": 1697415006000000000,
+    "size": 15227411
+  },
+  "ChrisF/Scene 15.png": {
+    "xxh": "65b9456eb988984d713a1235621d079e",
+    "mtime": 1697414998000000000,
+    "size": 15035689
+  },
+  "ChrisF/Scene 16.png": {
+    "xxh": "4d1c6d09385d6eb25f2227531771b7f7",
+    "mtime": 1697414955000000000,
+    "size": 10950355
+  },
+  "ChrisF/Scene 17.5.png": {
+    "xxh": "be3241a87dabe158420d501c5c9a99ad",
+    "mtime": 1768747472000000000,
+    "size": 12235862
+  },
+  "ChrisF/Scene 17.png": {
+    "xxh": "36f10ee33de1cead95d1ada75d720507",
+    "mtime": 1697414952000000000,
+    "size": 6796532
+  },
+  "ChrisF/Scene 18.png": {
+    "xxh": "81fd04949f9a158619707a16bf154649",
+    "mtime": 1704034820000000000,
+    "size": 8067814
+  },
+  "ChrisF/Scene 19.png": {
+    "xxh": "4e22761283851f405b7e65db8177d9ca",
+    "mtime": 1697414944000000000,
+    "size": 6575653
+  },
+  "ChrisF/Scene 2.1 a.png": {
+    "xxh": "decb55546ac30763a25e94a5e6daa833",
+    "mtime": 1697414969000000000,
+    "size": 8845978
+  },
+  "ChrisF/Scene 2.1 b.png": {
+    "xxh": "e6c7a4758164dcec9a4f078761bb9543",
+    "mtime": 1697414958000000000,
+    "size": 8714622
+  },
+  "ChrisF/Scene 20.png": {
+    "xxh": "366b938bfdca62f26c8b9908af92bb6f",
+    "mtime": 1708799949000000000,
+    "size": 7919109
+  },
+  "ChrisF/Scene 21.png": {
+    "xxh": "b079fef1b1806ad19f99e3d2331de19b",
+    "mtime": 1708800121000000000,
+    "size": 6625380
+  },
+  "ChrisF/Scene 22.png": {
+    "xxh": "306b46276eaecf69d2661d17b83e2f1d",
+    "mtime": 1708800346000000000,
+    "size": 10434766
+  },
+  "ChrisF/Scene 23.png": {
+    "xxh": "113402b9fbe584c29d72d46d0e71468e",
+    "mtime": 1708800110000000000,
+    "size": 8500810
+  },
+  "ChrisF/Scene 24.png": {
+    "xxh": "3439c42e8c9504715a67f223a1bd056c",
+    "mtime": 1704034826000000000,
+    "size": 6936745
+  },
+  "ChrisF/Scene 25.png": {
+    "xxh": "a24252256bb307b9dfe402d8755d93cf",
+    "mtime": 1708800089000000000,
+    "size": 6895002
+  },
+  "ChrisF/Scene 26.png": {
+    "xxh": "cc7c60bf974d427b0803fc77dd2b6e5f",
+    "mtime": 1708800079000000000,
+    "size": 4929695
+  },
+  "ChrisF/Scene 27.png": {
+    "xxh": "e832e04149a45fc82a2575805dbada7a",
+    "mtime": 1708800155000000000,
+    "size": 10153327
+  },
+  "ChrisF/Scene 28.png": {
+    "xxh": "6f035908cf198844186b4ed78893709c",
+    "mtime": 1708800148000000000,
+    "size": 12441343
+  },
+  "ChrisF/Scene 29.png": {
+    "xxh": "c460b12589dbf5667f6d0a78ffe0e58e",
+    "mtime": 1708800437000000000,
+    "size": 5131355
+  },
+  "ChrisF/Scene 30.png": {
+    "xxh": "c61a834824176a44173c20d2f42087ae",
+    "mtime": 1708800429000000000,
+    "size": 6765499
+  },
+  "ChrisF/Scene 31.png": {
+    "xxh": "a72b96121922eced556b3b1bb2e889b5",
+    "mtime": 1708800131000000000,
+    "size": 9089396
+  },
+  "ChrisF/Scene 32.png": {
+    "xxh": "dcd668d2373496e03bcd0fbce8c28383",
+    "mtime": 1708800217000000000,
+    "size": 7075348
+  },
+  "ChrisF/Scene 33 A.png": {
+    "xxh": "d636c841104bd284c34afbca00ed00e9",
+    "mtime": 1708800196000000000,
+    "size": 8104737
+  },
+  "ChrisF/Scene 33 B.png": {
+    "xxh": "3293f6dad6d6eef5c8724465f3e06c2a",
+    "mtime": 1708800198000000000,
+    "size": 8181098
+  },
+  "ChrisF/Scene 34.png": {
+    "xxh": "22d1c6ff678009628e5add6e3f60f762",
+    "mtime": 1708800177000000000,
+    "size": 7324351
+  },
+  "ChrisF/Scene 35.png": {
+    "xxh": "6b8ffcd045e40752ebd4d61d231c91bb",
+    "mtime": 1708800166000000000,
+    "size": 18427243
+  },
+  "ChrisF/Scene 36.png": {
+    "xxh": "9135c7bbae5c8229b672352d41a6ac51",
+    "mtime": 1708800497000000000,
+    "size": 8187920
+  },
+  "ChrisF/Scene 37.png": {
+    "xxh": "333c70d1fd9cc2093f66f8d54c14ef09",
+    "mtime": 1709342105000000000,
+    "size": 7518158
+  },
+  "ChrisF/Scene 38.png": {
+    "xxh": "50e855df4f548b549cb5d61f449ddfa2",
+    "mtime": 1710579075000000000,
+    "size": 7163668
+  },
+  "ChrisF/Scene 39.png": {
+    "xxh": "24ea86c13817cda499d6c0b711009755",
+    "mtime": 1727923808000000000,
+    "size": 7057644
+  },
+  "ChrisF/Scene 40.png": {
+    "xxh": "38614164ee943a556a8f5cedeb5c22b3",
+    "mtime": 1727923986000000000,
+    "size": 2670878
+  },
+  "ChrisF/Scene 41.png": {
+    "xxh": "1a9465882fe439794aef7c675414f272",
+    "mtime": 1727924037000000000,
+    "size": 7027656
+  },
+  "ChrisF/Scene 43.png": {
+    "xxh": "f7d0bd3266641d8d2557493e72341baa",
+    "mtime": 1754806092000000000,
+    "size": 7688025
+  },
+  "ChrisF/Scene 44.png": {
+    "xxh": "205aa2785b2eee0dbb7d6f9df4fac880",
+    "mtime": 1754806113000000000,
+    "size": 9951764
+  },
+  "ChrisF/Scene 45.png": {
+    "xxh": "565413c530b24020e7977fdfa1534d29",
+    "mtime": 1754806142000000000,
+    "size": 7673272
+  },
+  "ChrisF/Scene 46.png": {
+    "xxh": "f4c0da03c95db14c00e26adf99af766d",
+    "mtime": 1754806774000000000,
+    "size": 13784613
+  },
+  "ChrisF/Scene 47.png": {
+    "xxh": "4e9683450e481edd37ff5fe5da85d61e",
+    "mtime": 1754806780000000000,
+    "size": 10474242
+  },
+  "ChrisF/Scene 48.png": {
+    "xxh": "f3f087793ae5d0134f46b1797472d84c",
+    "mtime": 1754806824000000000,
+    "size": 9740605
+  },
+  "ChrisF/Scene 49.png": {
+    "xxh": "7fcbbfcf3fd77430737ac039f89c1dce",
+    "mtime": 1754806830000000000,
+    "size": 10016615
+  },
+  "ChrisF/Scene 50.png": {
+    "xxh": "405b838e08c3ff45dd621b939d52e883",
+    "mtime": 1754814546000000000,
+    "size": 7927797
+  },
+  "ChrisF/Scene 51.png": {
+    "xxh": "9fce4189e1455e967466323e0645e609",
+    "mtime": 1754814557000000000,
+    "size": 8516938
+  },
+  "ChrisF/Scene 52.png": {
+    "xxh": "dc8953dc841db6bf6540130453019680",
+    "mtime": 1754814574000000000,
+    "size": 7556471
+  },
+  "ChrisF/Scene 53.png": {
+    "xxh": "b10ca8ac1500da6e5f1a5c5a5836639f",
+    "mtime": 1754814579000000000,
+    "size": 8322026
+  },
+  "ChrisF/Scene 54.png": {
+    "xxh": "5c6261ed4ec32d272b90fbdb9631e919",
+    "mtime": 1754814583000000000,
+    "size": 7383482
+  },
+  "ChrisF/Scene 55 A.png": {
+    "xxh": "a860a60fc119f46d6765f487e6db6524",
+    "mtime": 1754814601000000000,
+    "size": 7188169
+  },
+  "ChrisF/Scene 55 B.png": {
+    "xxh": "8971ee9728670de34542f7979bddc7f4",
+    "mtime": 1754814606000000000,
+    "size": 7195102
+  },
+  "ChrisF/Scene 55.5.png": {
+    "xxh": "0b2fbaced7761f35a03b5a3bb2fa3d24",
+    "mtime": 1778461314000000000,
+    "size": 7366498
+  },
+  "ChrisF/Scene 56.png": {
+    "xxh": "580672a944ddb994adc8f6d36f56c193",
+    "mtime": 1754814619000000000,
+    "size": 7177203
+  },
+  "ChrisF/Scene 57.png": {
+    "xxh": "27d5781ca73295e1b1f8d623d2573894",
+    "mtime": 1754814636000000000,
+    "size": 7221029
+  },
+  "ChrisF/Scene 58.png": {
+    "xxh": "d9683b458a5b44bb1f68e3afa9f2d1f4",
+    "mtime": 1754814640000000000,
+    "size": 7459510
+  },
+  "ChrisF/Scene 59.png": {
+    "xxh": "37780ed37b22b3ab493efa96293b3742",
+    "mtime": 1754814678000000000,
+    "size": 42437432
+  },
+  "ChrisF/Scene 60.png": {
+    "xxh": "c83e35787fe8634d9caa73daac76af24",
+    "mtime": 1754814682000000000,
+    "size": 6954864
+  },
+  "ChrisF/Scene 61.png": {
+    "xxh": "abfd1d218f8f4d5e09e2cc311c0db7a4",
+    "mtime": 1754814687000000000,
+    "size": 7992126
+  },
+  "ChrisF/Scene 62.png": {
+    "xxh": "9c4df21151045651b2483b76cba05429",
+    "mtime": 1754814691000000000,
+    "size": 7730659
+  },
+  "ChrisF/Scene 63.png": {
+    "xxh": "b62d82878e29fadba94cb06cf52cc6c1",
+    "mtime": 1754814697000000000,
+    "size": 7210219
+  },
+  "ChrisF/Scene 64.png": {
+    "xxh": "76ab7e0712fe0cb4969a992bc2ddb392",
+    "mtime": 1754814753000000000,
+    "size": 7194037
+  },
+  "ChrisF/Scene 65.png": {
+    "xxh": "6c47890614dfee8df1afc78ef3f58a68",
+    "mtime": 1754814757000000000,
+    "size": 7177197
+  },
+  "ChrisF/Scene 66.png": {
+    "xxh": "85636c1c63ef4b19f09996c2b27a79f8",
+    "mtime": 1754814762000000000,
+    "size": 8692631
+  },
+  "ChrisF/Scene 67.png": {
+    "xxh": "3fcdc56414c37f737593b80d40384cdb",
+    "mtime": 1754814768000000000,
+    "size": 13098125
+  },
+  "ChrisF/Scene 68.png": {
+    "xxh": "28aa3d8549211ac8b981e18ef8d9b75e",
+    "mtime": 1754814774000000000,
+    "size": 8221306
+  },
+  "ChrisF/Scene 69.png": {
+    "xxh": "753d0abd46a7f0e1b55eded0a4b1e11d",
+    "mtime": 1754814777000000000,
+    "size": 8260037
+  },
+  "ChrisF/Scene 70.png": {
+    "xxh": "a7a56f0fdb0a21ff88bd0d03d9391779",
+    "mtime": 1754814787000000000,
+    "size": 8574968
+  },
+  "ChrisF/Scene 71.png": {
+    "xxh": "1a1909a78e39fea6886b381db639a12e",
+    "mtime": 1754814794000000000,
+    "size": 9922801
+  },
+  "ChrisF/Scene 72.png": {
+    "xxh": "f12aeeb859967b4c1cd61ffd6ed880b3",
+    "mtime": 1765713431000000000,
+    "size": 6636297
+  },
+  "ChrisF/Scene 73.png": {
+    "xxh": "d238d46692b45ba10530a250a63062c3",
+    "mtime": 1765713448000000000,
+    "size": 7673482
+  },
+  "ChrisF/Scene 74.png": {
+    "xxh": "d0d3b132544b35b9e4e90635bd04c46d",
+    "mtime": 1765713450000000000,
+    "size": 10471967
+  },
+  "ChrisF/Scene 75.png": {
+    "xxh": "50832ea2fbd97c17fd91665996fbf1c0",
+    "mtime": 1765713464000000000,
+    "size": 17735313
+  },
+  "ChrisF/Scene 76.png": {
+    "xxh": "00f47fbb6010253bcc9b7d43d582f320",
+    "mtime": 1765713521000000000,
+    "size": 8180367
+  },
+  "ChrisF/Scene 77.png": {
+    "xxh": "cbbc026895c133bf8f13a4a2668bb4d6",
+    "mtime": 1765713523000000000,
+    "size": 8804555
+  },
+  "ChrisF/Scene 78.png": {
+    "xxh": "edf424c76b46a5b1935a419bc923e1b0",
+    "mtime": 1765713528000000000,
+    "size": 10609241
+  },
+  "ChrisF/Scene 79.png": {
+    "xxh": "ef875827195c692fd767782a244ec8c7",
+    "mtime": 1765713536000000000,
+    "size": 22358947
+  },
+  "ChrisF/Scene 80.png": {
+    "xxh": "e59ce1c025d6d685e6f9813ce28e87a3",
+    "mtime": 1765713534000000000,
+    "size": 9527986
+  },
+  "ChrisF/Scene 81.png": {
+    "xxh": "f8f2d3b73267f1590123bf227a5d1d79",
+    "mtime": 1778133457000000000,
+    "size": 9950622
+  },
+  "ChrisF/Scene 82.png": {
+    "xxh": "f51ab6df33ae262e06ff05d778f864cc",
+    "mtime": 1778133464000000000,
+    "size": 7213439
+  },
+  "ChrisF/Scene 83.png": {
+    "xxh": "0fe32c6ed22e8d05b9c0e102f8a71772",
+    "mtime": 1778428940000000000,
+    "size": 10285880
+  },
+  "ChrisF/Scene 84.png": {
+    "xxh": "4fda0c1d34217ba1e7c883fadeb36cbd",
+    "mtime": 1778428964000000000,
+    "size": 9283656
+  },
+  "ChrisF/scene 42.png": {
+    "xxh": "6bda3ebdaa9b5913c0998d15edab31d4",
+    "mtime": 1727924071000000000,
+    "size": 5507415
+  }
+}
