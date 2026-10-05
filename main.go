@@ -22,6 +22,7 @@ import (
 	"sort"
 	"strings"
 	"sync"
+	"unicode"
 
 	"github.com/zeebo/xxh3"
 )
@@ -221,10 +222,7 @@ func main() {
 	input := flag.String("input", "", "folder whose top-level subfolders are scanned (required)")
 	output := flag.String("output", "", "folder where the <subfolder>.json files are written (default: <program folder>/data/<input folder name>)")
 	namesPath := flag.String("names", filepath.Join(progDir, "config", "names.json"),
-		"names JSON file (json file name without .json -> value); missing names are added to it")
-	authorsPath := flag.String("authors", filepath.Join(progDir, "config", "authors.json"),
-		"authors JSON file used to fill empty values in the names file (skipped if it doesn't exist)")
-	threshold := flag.Float64("threshold", 0.8, "minimum similarity (0-1) required to assign an author match")
+		"names JSON file (json file name without .json -> value); missing names are added and empty values filled in")
 	workers := flag.Int("workers", min(32, runtime.NumCPU()*2), "number of parallel hashing workers")
 	flag.Parse()
 
@@ -274,18 +272,79 @@ func main() {
 		}
 	}
 
-	if err := updateNames(*output, *namesPath, *authorsPath, *threshold); err != nil {
+	if err := updateNames(*output, *namesPath); err != nil {
 		fmt.Fprintf(os.Stderr, "error updating names file: %v\n", err)
 		exit = 1
 	}
 	os.Exit(exit)
 }
 
+// isNumeric reports whether s is non-empty and made only of digits ("2024").
+func isNumeric(s string) bool {
+	if s == "" {
+		return false
+	}
+	for _, r := range s {
+		if !unicode.IsDigit(r) {
+			return false
+		}
+	}
+	return true
+}
+
+// firstNamedFolder returns the first folder in a relative path that is not
+// purely numeric and does not match skip (compared case-insensitively; pass the
+// JSON file name without extension): "Artist/sub/img.png" -> "Artist",
+// "2024/Artist/img.png" -> "Artist". It returns "" if the path has no such
+// folder (the last element is the file name and is never considered).
+func firstNamedFolder(p, skip string) string {
+	parts := strings.Split(p, "/")
+	for _, d := range parts[:len(parts)-1] {
+		if d != "" && !isNumeric(d) && !strings.EqualFold(d, skip) {
+			return d
+		}
+	}
+	return ""
+}
+
+// firstSubfolder reads a hash JSON file and returns the first folder of its
+// relative paths that is neither numeric nor equal to skip (the JSON file name
+// without extension; see firstNamedFolder). Paths are checked in
+// sorted order and the first one that has such a folder wins; multiple reports
+// whether other paths resolve to a different folder. Files directly in the root,
+// or only inside numeric folders, are ignored.
+func firstSubfolder(jsonPath, skip string) (sub string, multiple bool, err error) {
+	b, err := os.ReadFile(jsonPath)
+	if err != nil {
+		return "", false, err
+	}
+	var data map[string]json.RawMessage
+	if err := json.Unmarshal(b, &data); err != nil {
+		return "", false, err
+	}
+	paths := make([]string, 0, len(data))
+	for p := range data {
+		paths = append(paths, p)
+	}
+	sort.Strings(paths)
+	for _, p := range paths {
+		first := firstNamedFolder(p, skip)
+		if first == "" {
+			continue
+		}
+		if sub == "" {
+			sub = first
+		} else if first != sub {
+			multiple = true
+		}
+	}
+	return sub, multiple, nil
+}
+
 // updateNames adds every JSON file name (without ".json") found in outputDir
-// to the names file with an empty value, then fills empty values with the
-// closest author from the authors file (if it exists). Existing non-empty
-// values are never changed.
-func updateNames(outputDir, namesPath, authorsPath string, threshold float64) error {
+// to the names file, and fills each empty value with the first subfolder found
+// in that JSON file's paths. Existing non-empty values are never changed.
+func updateNames(outputDir, namesPath string) error {
 	names := map[string]string{}
 	b, err := os.ReadFile(namesPath)
 	switch {
@@ -298,7 +357,7 @@ func updateNames(outputDir, namesPath, authorsPath string, threshold float64) er
 		return err
 	}
 
-	added := 0
+	added, set := 0, 0
 	err = filepath.WalkDir(outputDir, func(p string, d fs.DirEntry, err error) error {
 		if err != nil {
 			return err
@@ -314,27 +373,30 @@ func updateNames(outputDir, namesPath, authorsPath string, threshold float64) er
 			names[name] = ""
 			added++
 		}
+		if names[name] != "" {
+			return nil
+		}
+		sub, multiple, err := firstSubfolder(p, name)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "warning: %s: %v\n", p, err)
+			return nil
+		}
+		if sub == "" {
+			return nil
+		}
+		names[name] = sub
+		set++
+		fmt.Printf("  %s -> %q\n", name, sub)
+		if multiple {
+			fmt.Fprintf(os.Stderr, "warning: %s has paths in several folders; used %q\n", name, sub)
+		}
 		return nil
 	})
 	if err != nil {
 		return err
 	}
 
-	// Match empty names against the authors file. A missing authors file just
-	// skips this step; an unreadable one is reported but doesn't stop the update.
-	filled := 0
-	if _, statErr := os.Stat(authorsPath); statErr == nil {
-		if m, err := newMatcher(authorsPath, threshold); err != nil {
-			fmt.Fprintf(os.Stderr, "warning: skipping author matching: %s: %v\n", authorsPath, err)
-		} else {
-			fmt.Printf("Matching names with %s\n", authorsPath)
-			filled = m.fill(names)
-		}
-	} else {
-		fmt.Printf("Authors file %s not found; skipping author matching\n", authorsPath)
-	}
-
-	if added == 0 && filled == 0 {
+	if added == 0 && set == 0 {
 		if _, statErr := os.Stat(namesPath); statErr == nil {
 			fmt.Printf("Names file %s is up to date\n", namesPath)
 			return nil
@@ -349,7 +411,7 @@ func updateNames(outputDir, namesPath, authorsPath string, threshold float64) er
 	if err := saveJSON(namesPath, names); err != nil {
 		return err
 	}
-	fmt.Printf("Names file %s: added %d name(s), matched %d author(s)\n", namesPath, added, filled)
+	fmt.Printf("Names file %s: added %d name(s), set %d value(s)\n", namesPath, added, set)
 	return nil
 }
 
