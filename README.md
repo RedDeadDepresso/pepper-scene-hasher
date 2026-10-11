@@ -70,12 +70,12 @@ go run ./cmd/mergehash -input data -output merged.json -names config/names.json
 ```json
 {
   "0001eeaad4e62808190fb06dc3484e4b": { "author": "Erena", "year": 2026 },
-  "000590eeb95160aae39836fcb0cdac30": { "author": "momosu", "year": null }
+  "f08442e920f9dc144efc495426c5ac8b": { "author": "momosu", "year": null }
 }
 ```
 
 - **`author`**: the value from the names file. If the file name is missing from it, or mapped to an empty string, the plain file name (without `.json`) is used.
-- **`year`**: taken from the path. mergehash looks for a year (1900–2099) at the end of the file name, either on its own or followed by a date, e.g. `Bazett_2026.json` or `Krib_2024-05-01.json`. If the file name has none, it checks parent folder names, nearest first. If no year is found, `year` is `null`. Numbers elsewhere in the name (such as `Anon_2232_2026-08-01`) are ignored.
+- **`year`**: taken from the image path (the key inside the JSON file), not from the JSON file's name. A folder named exactly like a year (1900-2099) wins, and if there are several the deepest one is used, e.g. `Artist/2023/Series/img.png` gives `2023`. Otherwise a date in the image file name is used, e.g. `2021_0909_1200.png` or `autosave_2023-12-26.png`. If neither is found, `year` is `null`, e.g. `118903695_p1.png`.
 - If the same hash appears in several files, the first file in sorted path order wins and a warning is printed to stderr.
 
 The output file and the names file are skipped if they live inside the input folder.

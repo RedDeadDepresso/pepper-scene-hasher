@@ -5,10 +5,11 @@
 // JSON file mapping that name -> string is used to replace it. Names missing
 // from it, or mapped to an empty string, fall back to the plain file name.
 //
-// The year is extracted from the file path: a trailing year (optionally
-// followed by -MM-DD) in the file name, e.g. "Bazett_2026.json" or
-// "Krib_2024-05-01.json", or failing that in a parent folder name. If no year
-// is found it is null.
+// The year is extracted from the image path (the key inside the JSON file), not
+// from the JSON file's own name: the deepest folder named exactly like a year
+// ("Artist/2023/Series/img.png" -> 2023) wins, otherwise a date (year+month+day) in
+// the image file name ("2021_0909_1200.png", "autosave_2023-12-26.png") is
+// used. If neither is found the year is null.
 //
 // If the same hash appears in several files, the first file in sorted name
 // order wins and a warning is printed.
@@ -23,6 +24,7 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
 )
@@ -37,26 +39,34 @@ type info struct {
 	Year   *int   `json:"year"` // null when no year could be found in the path
 }
 
-// yearRe matches a year at the end of a name, either on its own or followed by
-// a -MM-DD date, and preceded by the start of the name or a separator. Anchoring
-// to the end avoids picking up unrelated numbers such as "Anon_2232_2026-08-01".
-var yearRe = regexp.MustCompile(`(?:^|[_\-\s])((?:19|20)\d{2})(?:-\d{2}-\d{2})?$`)
+var (
+	// yearDirRe matches a folder named exactly like a year.
+	yearDirRe = regexp.MustCompile(`^(?:19|20)\d{2}$`)
+	// yearFileRe matches a year followed by a month and day in an image file
+	// name (without extension), e.g. "2021_0909", "2023-12-26" or
+	// "autosave_2023_1109_...". Plain IDs such as "118903695_p1" don't match.
+	yearFileRe = regexp.MustCompile(`(?:^|[^0-9])((?:19|20)\d{2})[_-]?(?:0[1-9]|1[0-2])[_-]?(?:0[1-9]|[12]\d|3[01])(?:[^0-9]|$)`)
+)
 
-// yearFromPath returns the year found in the file name (without extension),
-// falling back to each parent folder name from nearest to farthest.
-func yearFromPath(path string) *int {
-	name := strings.TrimSuffix(filepath.Base(path), filepath.Ext(path))
-	for dir := filepath.Dir(path); ; dir = filepath.Dir(dir) {
-		if m := yearRe.FindStringSubmatch(name); m != nil {
-			y, _ := strconv.Atoi(m[1])
+// yearFromImagePath returns the year found in an image path (slash separated,
+// as stored in the hash JSON files), or nil if there is none. A folder named
+// exactly like a year wins (the deepest one if there are several); failing
+// that, a date in the file name is used.
+func yearFromImagePath(p string) *int {
+	parts := strings.Split(p, "/")
+	for i := len(parts) - 2; i >= 0; i-- {
+		if yearDirRe.MatchString(parts[i]) {
+			y, _ := strconv.Atoi(parts[i])
 			return &y
 		}
-		parent := filepath.Dir(dir)
-		if parent == dir || dir == "." || dir == string(filepath.Separator) {
-			return nil
-		}
-		name = filepath.Base(dir)
 	}
+	base := parts[len(parts)-1]
+	base = strings.TrimSuffix(base, filepath.Ext(base))
+	if m := yearFileRe.FindStringSubmatch(base); m != nil {
+		y, _ := strconv.Atoi(m[1])
+		return &y
+	}
+	return nil
 }
 
 func readJSON(path string, v any) error {
@@ -128,9 +138,15 @@ func main() {
 		if v, ok := names[name]; ok && v != "" {
 			author = v
 		}
-		value := info{Author: author, Year: yearFromPath(full)}
 		files++
-		for _, e := range data {
+		// Sorted keys keep the result deterministic if a hash repeats within a file.
+		keys := make([]string, 0, len(data))
+		for k := range data {
+			keys = append(keys, k)
+		}
+		sort.Strings(keys)
+		for _, k := range keys {
+			e := data[k]
 			if e.XXH == "" {
 				continue
 			}
@@ -141,7 +157,7 @@ func main() {
 				continue
 			}
 			owner[e.XXH] = name
-			merged[e.XXH] = value
+			merged[e.XXH] = info{Author: author, Year: yearFromImagePath(k)}
 		}
 	}
 
