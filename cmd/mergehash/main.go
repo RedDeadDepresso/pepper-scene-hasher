@@ -1,9 +1,14 @@
 // mergehash merges the per-folder JSON files (found recursively) produced by pnghash into a single
-// JSON file mapping xxhash -> name of the JSON file (without ".json").
+// JSON file mapping xxhash -> {"author": <name>, "year": <year or null>}.
 //
-// With -names, a JSON file mapping that name -> string is used to replace the
-// value. Names missing from it, or mapped to an empty string, fall back to the
-// plain file name.
+// The author is the name of the JSON file (without ".json"). With -names, a
+// JSON file mapping that name -> string is used to replace it. Names missing
+// from it, or mapped to an empty string, fall back to the plain file name.
+//
+// The year is extracted from the file path: a trailing year (optionally
+// followed by -MM-DD) in the file name, e.g. "Bazett_2026.json" or
+// "Krib_2024-05-01.json", or failing that in a parent folder name. If no year
+// is found it is null.
 //
 // If the same hash appears in several files, the first file in sorted name
 // order wins and a warning is printed.
@@ -17,11 +22,41 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"regexp"
+	"strconv"
 	"strings"
 )
 
 type entry struct {
 	XXH string `json:"xxh"`
+}
+
+// info is the value stored for each hash in the merged output.
+type info struct {
+	Author string `json:"author"`
+	Year   *int   `json:"year"` // null when no year could be found in the path
+}
+
+// yearRe matches a year at the end of a name, either on its own or followed by
+// a -MM-DD date, and preceded by the start of the name or a separator. Anchoring
+// to the end avoids picking up unrelated numbers such as "Anon_2232_2026-08-01".
+var yearRe = regexp.MustCompile(`(?:^|[_\-\s])((?:19|20)\d{2})(?:-\d{2}-\d{2})?$`)
+
+// yearFromPath returns the year found in the file name (without extension),
+// falling back to each parent folder name from nearest to farthest.
+func yearFromPath(path string) *int {
+	name := strings.TrimSuffix(filepath.Base(path), filepath.Ext(path))
+	for dir := filepath.Dir(path); ; dir = filepath.Dir(dir) {
+		if m := yearRe.FindStringSubmatch(name); m != nil {
+			y, _ := strconv.Atoi(m[1])
+			return &y
+		}
+		parent := filepath.Dir(dir)
+		if parent == dir || dir == "." || dir == string(filepath.Separator) {
+			return nil
+		}
+		name = filepath.Base(dir)
+	}
 }
 
 func readJSON(path string, v any) error {
@@ -78,7 +113,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	merged := map[string]string{}
+	merged := map[string]info{}
 	owner := map[string]string{} // hash -> file name that claimed it first
 	files := 0
 	for _, full := range paths {
@@ -89,10 +124,11 @@ func main() {
 			fmt.Fprintf(os.Stderr, "error: %s: %v\n", full, err)
 			os.Exit(1)
 		}
-		value := name
+		author := name
 		if v, ok := names[name]; ok && v != "" {
-			value = v
+			author = v
 		}
+		value := info{Author: author, Year: yearFromPath(full)}
 		files++
 		for _, e := range data {
 			if e.XXH == "" {
